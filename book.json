@@ -23,7 +23,8 @@
       "canon-conventions.md",
       "threads-digest.md",
       "data/roots.json",
-      "Numbers-words.tsv"
+      "Numbers-words.tsv",
+      "numbers-literary-unit-map.md"
     ],
     "globs": [
       "canon-leads/canon-leads-unit-*.md"

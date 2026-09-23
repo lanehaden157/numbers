@@ -17,5 +17,5 @@ they were last marked synced.
 | `canon-leads/canon-leads-unit-NN.md` | repo → project | intertext pass reading lists |
 | `CHAT_SIDE_INSTRUCTIONS.md` | pasted by hand | the project's instruction field |
 | `resources.md` | project only | the commentary inventory |
-| `numbers-literary-unit-map.md` | project → repo | the 38-unit map and 9 movements, dropped in by hand |
+| `numbers-literary-unit-map.md` | delivered by hand once, then repo → project | the 38-unit map and 9 movements. Any future edit (renumbering) happens in the repo, since it drives `book.json`/`data/units.json` — not back on the project side |
 | `source-artifacts/numbers_NN_translation.html` | project → repo | each unit's artifact |
