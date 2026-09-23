@@ -24,7 +24,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 |---|---|---|
 | | **PART ONE — The generation of the exodus (1:1–25:18)** | |
 | | *I. At Sinai: ordering the camp (1:1–10:10)* | |
-| 01 | 1:1–54 | The first muster |
+| 01 | 1:1–54 | The first accounting |
 | 02 | 2:1–34 | The camp around the tent |
 | 03 | 3:1–51 | Aaron's line and the Levites as ransom for the firstborn |
 | 04 | 4:1–49 | Carrying the holy things |
@@ -59,7 +59,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 | 28 | 25:1–26:1a [Heb 25:1–19] | Baal Peor and Phinehas |
 | | **PART TWO — The generation of the land (26:1–36:13)** | |
 | | *VII. The new generation counted and ordered (26:1–30:16)* | |
-| 29 | 26:1b–65 | The second muster |
+| 29 | 26:1b–65 | The second accounting |
 | 30 | 27:1–23 | Daughters who inherit, a successor who leads |
 | 31 | 28:1–29:40 [Heb 28:1–30:1] | The calendar of public offerings |
 | 32 | 30:1–16 [Heb 30:2–17] | Vows: binding words |
@@ -80,7 +80,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 
 #### I. At Sinai: ordering the camp (1:1–10:10)
 
-**U01 · 1:1–54 · The first muster**
+**U01 · 1:1–54 · The first accounting**
 - *Markers:* L has a petuhah after each tribal count (1:19 through 1:43), then after 1:47 (setting apart the Levites) and after 1:54. A treats the first of these (after 1:19) as a setumah.
 - *Grid:* Aligns with the chapter.
 - *Commentators:* Levine takes 1–4 as one Part, "Getting Organized." Constable likewise groups chs. 1–4.
@@ -242,7 +242,7 @@ The Masoretic text treats **22:2–24:25 as a single unbroken open paragraph** (
 
 #### VII. The new generation counted and ordered (26:1–30:16)
 
-**U29 · 26:1b–65 · The second muster**
+**U29 · 26:1b–65 · The second accounting**
 - *Markers:* Setumot divide the tribes (26:11 through 26:47), then P after 26:51 (the total), S after 26:56, S after 26:65. Whitt notes the contrast with ch. 1, where the tribes are divided by petuhot.
 - *Grid:* Aligns, apart from the 26:1a issue above.
 - *Why here:* 26:63–65 closes the census bracket explicitly: "not a man of them was left… except Caleb and Joshua." Rashi has substantive census material here.
