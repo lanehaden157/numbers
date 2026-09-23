@@ -44,17 +44,21 @@ same file, so this is the same corpus release Joshua verified.
 
 `python -m biblecore corpus` (2026-09-22): **1,289 verses, 16,422 words,
 94 petuḥah + 65 setumah = 159 breaks.** English editions commonly cite 1,288
-verses for Numbers — the one-verse difference is expected from Hebrew/English
-versification drift (chs. 16–17 and 29–30 are the usual places it happens in
-Numbers) but has **not yet been checked against a printed BHS**, and no
-per-chapter versification map exists yet. Do this — and build the
-Hebrew↔English map from the corpus plus a real English versification source,
-not from memory — before unit 1. If a count drifts on re-fetch, flag it
-loudly; it likely means the corpus changed, not that the earlier count was
-wrong.
+verses — **resolved** (2026-09-22) in `numbers-versification-map.md`: five
+chapters (16, 17, 25, 26, 29, 30) diverge, and the net difference is a
+genuine one-verse merge (Hebrew 25:19 folds into English 26:1), checked
+against the raw corpus XML and a live ESV read, not from memory. If a count
+drifts on re-fetch, flag it loudly; it likely means the corpus changed, not
+that the earlier count was wrong.
 
 `Numbers-reading.txt`, `Numbers-words.tsv`, `candidate-boundaries.md` are
 generated (`python -m biblecore corpus`) — don't hand-edit.
+`candidate-boundaries.md` is the raw machine list (Leningrad/OSHB markers
+only, in document order, no interpretation). `numbers-literary-unit-map.md`
+is the authored counterpart: it adds the Aleppo Codex witness and narrative
+judgment on top of that raw list to reach the 38 units and 9 movements. The
+two aren't redundant — the map is built from the list, not a replacement
+for it — so both stay.
 
 ## Session files
 

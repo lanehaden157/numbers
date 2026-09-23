@@ -2,6 +2,95 @@
   "_note": "Unit registry. groupings[] entries are {kind, n, name, label?, span, units}; each unit row carries an integer per grouping kind (e.g. \"movement\": 2). The first kind listed drives the site's book map. Filled from the unit map once the project side delivers it.",
   "book": "Numbers",
   "unit_count": 0,
-  "groupings": [],
+  "groupings": [
+    {
+      "kind": "movement",
+      "n": 1,
+      "name": "at-sinai",
+      "label": "At Sinai: ordering the camp",
+      "span": "1:1–10:10",
+      "units": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "kind": "movement",
+      "n": 2,
+      "name": "sinai-to-paran",
+      "label": "Sinai to Paran",
+      "span": "10:11–12:16",
+      "units": [10, 11, 12]
+    },
+    {
+      "kind": "movement",
+      "n": 3,
+      "name": "kadesh-refusal",
+      "label": "Kadesh: the refusal and its answer",
+      "span": "13:1–15:41",
+      "units": [13, 14, 15]
+    },
+    {
+      "kind": "movement",
+      "n": 4,
+      "name": "rebellion-and-priesthood",
+      "label": "Rebellion and the priesthood",
+      "span": "16:1–19:22",
+      "units": [16, 17, 18, 19]
+    },
+    {
+      "kind": "movement",
+      "n": 5,
+      "name": "fortieth-year",
+      "label": "The fortieth year: Kadesh to the plains of Moab",
+      "span": "20:1–22:1",
+      "units": [20, 21, 22, 23]
+    },
+    {
+      "kind": "movement",
+      "n": 6,
+      "name": "balaam-and-peor",
+      "label": "On the plains of Moab: Balaam and Peor",
+      "span": "22:2–25:18",
+      "units": [24, 25, 26, 27, 28]
+    },
+    {
+      "kind": "movement",
+      "n": 7,
+      "name": "new-generation-ordered",
+      "label": "The new generation counted and ordered",
+      "span": "26:1–30:16",
+      "units": [29, 30, 31, 32]
+    },
+    {
+      "kind": "movement",
+      "n": 8,
+      "name": "transjordan-settlement",
+      "label": "Transjordan: war and settlement",
+      "span": "31:1–32:42",
+      "units": [33, 34]
+    },
+    {
+      "kind": "movement",
+      "n": 9,
+      "name": "looking-back-looking-across",
+      "label": "Looking back, looking across",
+      "span": "33:1–36:13",
+      "units": [35, 36, 37, 38]
+    },
+    {
+      "kind": "part",
+      "n": 1,
+      "name": "generation-of-the-exodus",
+      "label": "The generation of the exodus",
+      "span": "1:1–25:18",
+      "units": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    },
+    {
+      "kind": "part",
+      "n": 2,
+      "name": "generation-of-the-land",
+      "label": "The generation of the land",
+      "span": "26:1–36:13",
+      "units": [29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
+    }
+  ],
   "units": []
 }

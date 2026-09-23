@@ -374,24 +374,14 @@ exists. Until then the shape is:
 
 ---
 
-## 9. The Literary Unit Map ✎
+## 9. The Literary Unit Map — delivered
 
-Comes from the project side once resources are compiled, as
-`numbers_literary_unit_map.md`. Renumbering after units ship means editing
-`threads.json` opens/payoffs, every `retro` entry, and every fragment's meta
-block, so confirm it before unit 1.
-
-Two candidate framings for `book.json`'s `groupings`, for Lane to decide
-between (or combine) when the map is drawn, not decided here:
-
-- **By generation** (the book's own structural signal): the two censuses at
-  1 and 26 bracket the death of the exodus generation and the rise of the
-  next — roughly chs. 1–25 (the old generation, ending in the Baal Peor
-  judgment) and 26–36 (the new generation, on the plains of Moab, ready to
-  enter). Two groups, very unequal in size.
-- **By geography**: Sinai (1:1–10:10) → wilderness journey and rebellion
-  (10:11–21:35) → plains of Moab (22:1–36:13). Three groups, tracks the
-  book's own itinerary notices.
-
-The generation framing is the more theologically loaded of the two — worth
-putting to Lane directly rather than assuming.
+Delivered from the project side (2026-09-22) as `numbers-literary-unit-map.md`:
+38 units under 9 movements, themselves bracketed by 2 generation-framed
+parts (1:1–25:18, 26:1–36:13). The two candidate framings once weighed here
+(generation vs. geography) weren't a choice after all — the map combines
+both, nested. `book.json`'s `groupings` is `["movement", "part"]`;
+`data/units.json`'s `groupings[]` holds the full definitions (span, label,
+member units). Renumbering after units ship means editing `threads.json`
+opens/payoffs, every `retro` entry, and every fragment's meta block, so this
+is confirmed before unit 1, not after.

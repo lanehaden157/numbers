@@ -2,5 +2,5 @@
 
 Read this first. 3 lines max per session.
 
-- **2026-09-22**: Bootstrapped from `bible-core`'s `template/` (core `0.1.0`, commit `ecd5bf6`). npm-installed morphhb 2.0.2 (verified byte-identical to Joshua's pinned copy) and built the corpus: 1,289 verses, 16,422 words, 94 pe / 65 samekh — not yet checked against printed BHS.
-  Drafted a tentative style reference (§4 table.list/.poem/.itin component proposals, §6 genre cautions, §9 two candidate groupings) and chat-side instructions (Numbers-specific lens) for Lane to react to. `python -m biblecore build` clean. No units, no unit map yet — waiting on the project side.
+- **2026-09-22**: Bootstrapped from `bible-core`'s `template/` (core `0.1.0`, commit `ecd5bf6`), corpus built (1,289 verses), style reference and chat-side instructions drafted. Synced project-side files; project side delivered the unit map (38 units/9 movements/2 parts) and resources.md.
+  Encoded groupings into `book.json`/`data/units.json`; resolved the 1,289-vs-1,288 verse count via `numbers-versification-map.md` (one real merge, Heb 25:19 → Eng 26:1). No units built yet — next is unit 1 pass 1.

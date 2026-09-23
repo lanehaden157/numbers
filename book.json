@@ -9,7 +9,7 @@
     "pin": "morphhb@2.0.2",
     "word_ids": true
   },
-  "groupings": [],
+  "groupings": ["movement", "part"],
   "components": [
     "echo"
   ],
