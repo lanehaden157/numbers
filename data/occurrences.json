@@ -1,1 +1,278 @@
-{}
+{
+  "unit-01": {
+    "account": {
+      "count": 10,
+      "verses": [
+        3,
+        19,
+        21,
+        44,
+        45,
+        46,
+        47,
+        49,
+        50
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…veryone going out to the army in Yisrael — y’all shall ",
+          "hit": "take account of",
+          "post": " them by their armies, you and Aharon.…"
+        },
+        {
+          "v": 19,
+          "pre": "…as Yahweh commanded Moshe. And he ",
+          "hit": "took account of",
+          "post": " them in the wilderness of Sinai.…"
+        },
+        {
+          "v": 21,
+          "pre": "…their ",
+          "hit": "accounted-for",
+          "post": ", for the tribe of Reuven: forty-six thousand five hund…"
+        },
+        {
+          "v": 44,
+          "pre": "…These are the ",
+          "hit": "accounted-for",
+          "post": " whom Moshe accounted for, and Aharon, and the chieftai…"
+        },
+        {
+          "v": 44,
+          "pre": "…These are the accounted-for whom Moshe ",
+          "hit": "accounted for",
+          "post": ", and Aharon, and the chieftains of Yisrael — twelve me…"
+        },
+        {
+          "v": 45,
+          "pre": "…And all the ",
+          "hit": "accounted-for",
+          "post": " of Yisrael’s sons by their fathers’ house, from twenty…"
+        },
+        {
+          "v": 46,
+          "pre": "…all the ",
+          "hit": "accounted-for",
+          "post": " were six hundred three thousand five hundred fifty.…"
+        },
+        {
+          "v": 47,
+          "pre": "…But the Levites, by their fathers’ tribe, were not ",
+          "hit": "accounted for",
+          "post": " among them.…"
+        },
+        {
+          "v": 49,
+          "pre": "…“Only the tribe of Levi you shall not ",
+          "hit": "take account of",
+          "post": ", and their head you shall not lift among Yisrael’s son…"
+        },
+        {
+          "v": 50,
+          "pre": "…Rather, ",
+          "hit": "appoint",
+          "post": " the Levites over the Dwelling of the Testimony, over a…"
+        }
+      ],
+      "total": 10
+    },
+    "army": {
+      "count": 5,
+      "verses": [
+        3,
+        20,
+        45,
+        52
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…rom twenty years old and up, everyone going out to the ",
+          "hit": "army",
+          "post": " in Yisrael — y’all shall take account of them by their…"
+        },
+        {
+          "v": 3,
+          "pre": "…in Yisrael — y’all shall take account of them by their ",
+          "hit": "armies",
+          "post": ", you and Aharon.…"
+        },
+        {
+          "v": 20,
+          "pre": "…rom twenty years old and up, everyone going out to the ",
+          "hit": "army",
+          "post": " —…"
+        },
+        {
+          "v": 45,
+          "pre": "…rom twenty years old and up, everyone going out to the ",
+          "hit": "army",
+          "post": " in Yisrael —…"
+        },
+        {
+          "v": 52,
+          "pre": "…h man at his camp and each man by his banner, by their ",
+          "hit": "armies",
+          "post": ".…"
+        }
+      ],
+      "total": 5
+    },
+    "banner": {
+      "count": 1,
+      "verses": [
+        52
+      ],
+      "hits": [
+        {
+          "v": 52,
+          "pre": "…ns shall camp each man at his camp and each man by his ",
+          "hit": "banner",
+          "post": ", by their armies.…"
+        }
+      ],
+      "total": 1
+    },
+    "called": {
+      "count": 1,
+      "verses": [
+        16
+      ],
+      "hits": [
+        {
+          "v": 16,
+          "pre": "…These were the ",
+          "hit": "summoned",
+          "post": " of the community, chieftains of their fathers’ tribes;…"
+        }
+      ],
+      "total": 1
+    },
+    "charge": {
+      "count": 1,
+      "verses": [
+        53
+      ],
+      "hits": [
+        {
+          "v": 53,
+          "pre": "…nity of Yisrael’s sons; and the Levites shall keep the ",
+          "hit": "charge",
+          "post": " of the Dwelling of the Testimony.”…"
+        }
+      ],
+      "total": 1
+    },
+    "community": {
+      "count": 4,
+      "verses": [
+        2,
+        16,
+        18,
+        53
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…“Lift the head of the whole ",
+          "hit": "community",
+          "post": " of Yisrael’s sons — by their clans, by their fathers’…"
+        },
+        {
+          "v": 16,
+          "pre": "…These were the summoned of the ",
+          "hit": "community",
+          "post": ", chieftains of their fathers’ tribes; they were heads…"
+        },
+        {
+          "v": 18,
+          "pre": "…and they assembled the whole ",
+          "hit": "community",
+          "post": " on the first of the second month, and they declared th…"
+        },
+        {
+          "v": 53,
+          "pre": "…Dwelling of the Testimony, so there is no wrath on the ",
+          "hit": "community",
+          "post": " of Yisrael’s sons; and the Levites shall keep the char…"
+        }
+      ],
+      "total": 4
+    },
+    "descent": {
+      "count": 1,
+      "verses": [
+        18
+      ],
+      "hits": [
+        {
+          "v": 18,
+          "pre": "…e community on the first of the second month, and they ",
+          "hit": "declared their descent",
+          "post": " by their clans, by their fathers’ house, by the number…"
+        }
+      ],
+      "total": 1
+    },
+    "outsider": {
+      "count": 1,
+      "verses": [
+        51
+      ],
+      "hits": [
+        {
+          "v": 51,
+          "pre": "…e Dwelling camps, the Levites shall set it up; and the ",
+          "hit": "outsider",
+          "post": " who comes near shall be put to death.…"
+        }
+      ],
+      "total": 1
+    },
+    "polls": {
+      "count": 3,
+      "verses": [
+        2,
+        18,
+        20
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…s’ house, by the number of names, every male, by their ",
+          "hit": "skulls",
+          "post": ".…"
+        },
+        {
+          "v": 18,
+          "pre": "…umber of names, from twenty years old and up, by their ",
+          "hit": "skulls",
+          "post": ",…"
+        },
+        {
+          "v": 20,
+          "pre": "…their fathers’ house, by the number of names, by their ",
+          "hit": "skulls",
+          "post": ", every male from twenty years old and up, everyone goi…"
+        }
+      ],
+      "total": 3
+    },
+    "wrath": {
+      "count": 1,
+      "verses": [
+        53
+      ],
+      "hits": [
+        {
+          "v": 53,
+          "pre": "…p around the Dwelling of the Testimony, so there is no ",
+          "hit": "wrath",
+          "post": " on the community of Yisrael’s sons; and the Levites sh…"
+        }
+      ],
+      "total": 1
+    }
+  }
+}

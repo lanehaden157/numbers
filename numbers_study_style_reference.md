@@ -113,7 +113,17 @@ All four present, each a list, empty allowed.
 one-line popover prose.
 
 **`candidates[]`** — `{root, why, ids?, refs?}`. Proposals only; `ids` are the
-lemma ids you saw (evidence), `refs` a few representative verses. **Claude
+lemma ids you saw (evidence), `refs` a few representative verses. Formats
+are checked at port time:
+
+- `ids` — the `lemma` column of `Numbers-words.tsv` with prefixes and spaces
+  removed, matching `^\d+[a-z]?$`. The table writes `6485 a`; the id is
+  `"6485a"`. Look it up there; don't guess.
+- `refs` — bare `"C:V"` strings only: `"1:3"`, not `"Num 1:3"`. No ranges
+  (`"3:7–8"`): list each verse (`"3:7", "3:8"`).
+- Give every candidate an `ids` entry so the evidence is checkable.
+
+**Claude
 decides whether a candidate is promoted, biased toward book-wide**, and asks
 Lane only when genuinely unsure.
 
@@ -130,7 +140,9 @@ Lane only when genuinely unsure.
 can make goes here **instead of** being asked in chat. `topic` is a few words;
 `note` is the question, answerable cold; `options` optional short answers.
 Render your best provisional choice so the draft keeps moving, and flag it.
-The porter prints every question at port time; the decision then goes in
+Claude Code then asks Lane each question in the AskUserQuestion popup
+(multiple choice, `options` become the choices, best provisional first) —
+not as a chat list. The porter prints every question at port time; the decision then goes in
 `translation-choices.md` or the thread/root entry.
 
 ---

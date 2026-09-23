@@ -35,6 +35,14 @@ human applies. Thread colours come from `python -m biblecore colour`, never
 picked by eye. Claude decides whether a candidate becomes a tracked thread,
 biased toward book-wide, and asks Lane only when genuinely unsure.
 
+## Asking Lane
+
+Questions for Lane (the porter's `questions[]`, wording calls, thread
+decisions) go through the **AskUserQuestion popup** with multiple-choice
+options, best provisional choice first and marked "(Recommended)" — not as a
+list in chat. The tool takes 4 questions per call, so batch a longer list
+across calls. Lane wants this every time.
+
 ## Corpus
 
 **morphhb 2.0.2** — `package.json`/lock, npm-installed 2026-09-22. Its

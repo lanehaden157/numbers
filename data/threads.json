@@ -1,5 +1,102 @@
 {
   "_note": "Tracked threads: policy. Nothing in the pipeline writes this file; the porter's thread delta proposes, a human applies. Colours come from `python -m biblecore colour <root>`, never picked by eye.",
   "version": 1,
-  "threads": []
+  "threads": [
+    {
+      "id": "account",
+      "root": "account",
+      "translit": "paqad",
+      "gloss": "take account of, attend to; call to account; appoint, put in charge",
+      "color": "#b1481f",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:3",
+        "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)."
+      },
+      "payoffs": [],
+      "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)."
+    },
+    {
+      "id": "army",
+      "root": "army",
+      "translit": "tsavaʾ",
+      "gloss": "army, fighting force; organized service",
+      "color": "#2f5f6b",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:3",
+        "note": "tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign."
+      },
+      "payoffs": [],
+      "note": "tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign."
+    },
+    {
+      "id": "community",
+      "root": "community",
+      "translit": "ʿedah",
+      "gloss": "community, assembly gathered as one body",
+      "color": "#8c6d1f",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:2",
+        "note": "ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2)."
+      },
+      "payoffs": [],
+      "note": "ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2)."
+    },
+    {
+      "id": "called",
+      "root": "called",
+      "translit": "qaraʾ",
+      "gloss": "call, summon; the summoned ones",
+      "color": "#6b3620",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:16",
+        "note": "‘The summoned of the community’ opens here and returns for Korach’s company and in the second census’s note on Datan and Aviram (16:2; 26:9)."
+      },
+      "payoffs": [],
+      "note": "‘The summoned of the community’ opens here and returns for Korach’s company and in the second census’s note on Datan and Aviram (16:2; 26:9)."
+    },
+    {
+      "id": "wrath",
+      "root": "wrath",
+      "translit": "qetsef",
+      "gloss": "wrath, anger that breaks out",
+      "color": "#4a4f6b",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:53",
+        "note": "The Levite cordon keeps wrath off the community; the word returns when the cordon is breached (16:46; 18:5)."
+      },
+      "payoffs": [],
+      "note": "The Levite cordon keeps wrath off the community; the word returns when the cordon is breached (16:46; 18:5)."
+    },
+    {
+      "id": "charge",
+      "root": "charge",
+      "translit": "mishmeret",
+      "gloss": "charge, guard-duty, what one keeps watch over",
+      "color": "#8a2f3a",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:53",
+        "note": "mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18."
+      },
+      "payoffs": [],
+      "note": "mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18."
+    }
+  ]
 }

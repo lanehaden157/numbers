@@ -1,6 +1,43 @@
 {
   "_note": "Tracked-thread id sets: policy, same as threads.json. declined{} records candidates deliberately kept local, with why and date, so they aren't re-argued.",
   "version": 1,
-  "roots": {},
+  "roots": {
+    "account": {
+      "ids": [
+        "6485a"
+      ],
+      "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)."
+    },
+    "army": {
+      "ids": [
+        "6635a"
+      ],
+      "note": "tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign."
+    },
+    "community": {
+      "ids": [
+        "5712"
+      ],
+      "note": "ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2)."
+    },
+    "called": {
+      "ids": [
+        "7121"
+      ],
+      "note": "‘The summoned of the community’ opens here and returns for Korach’s company and in the second census’s note on Datan and Aviram (16:2; 26:9)."
+    },
+    "wrath": {
+      "ids": [
+        "7110a"
+      ],
+      "note": "The Levite cordon keeps wrath off the community; the word returns when the cordon is breached (16:46; 18:5)."
+    },
+    "charge": {
+      "ids": [
+        "4931"
+      ],
+      "note": "mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18."
+    }
+  },
   "declined": {}
 }
