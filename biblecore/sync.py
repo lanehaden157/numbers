@@ -1,6 +1,6 @@
 """Keep the Claude.ai project's copy of the book's chat-side files current.
 
-    python -m biblecore sync-check                  # which files changed since last pasted
+    python -m biblecore sync-check                  # which files changed since last synced
     python -m biblecore sync-check --mark-synced [FILE ...]
     python -m biblecore sync                        # mirror into project-side/synced/,
                                                     # commit and push if anything changed
@@ -40,6 +40,18 @@ def save_state(state):
     p.write_text(json.dumps(state, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
 
+def mark_synced(rels):
+    """Record the current hash of each file so sync-check stops flagging it."""
+    root = Path(book().root)
+    state = load_state()
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for rel in rels:
+        h = hash_file(root / rel)
+        if h is not None:
+            state[rel] = {"hash": h, "synced_at": now}
+    save_state(state)
+
+
 def check_main(argv=None):
     args = list(argv or [])
     root = Path(book().root)
@@ -71,7 +83,7 @@ def check_main(argv=None):
         else:
             ok.append(rel)
     if stale:
-        print("NEEDS RE-PASTE into the Claude.ai project:")
+        print("NEEDS RE-SYNCING (run `python -m biblecore sync`):")
         for rel in stale:
             print(f"  - {rel}")
     if missing:
@@ -104,6 +116,7 @@ def push_main(argv=None):
     status = _git("status", "--porcelain", "--", str(synced))
     if not status.stdout.strip():
         print("No changes to sync -- already up to date.")
+        mark_synced(book().sync_files())
         return 0
     changed = [line[3:] for line in status.stdout.splitlines()]
     _git("add", "--", str(synced))
@@ -112,4 +125,5 @@ def push_main(argv=None):
     print("Synced and pushed:")
     for c in changed:
         print(f"  - {c}")
+    mark_synced(book().sync_files())
     return 0
