@@ -176,6 +176,10 @@ formula collapse to one row with the variable called out, not twelve
 paragraphs of "on the Nth day, NAME the son of NAME of the tribe of TRIBE
 offered..." — see the *Balance* note below.
 
+The site leaves `table.list` blocks where the text puts them (other `section.block`
+structures are hoisted to the top). Put a total, when the text gives one, in a
+`<tfoot>` row; wrap the header row in `<thead>` and the rest in `<tbody>`.
+
 ```html
 <section class="block">
   <h2>The Census of the Second Year <span class="cap">· 1:20–46</span></h2>
