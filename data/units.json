@@ -92,5 +92,15 @@
       "units": [29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
     }
   ],
-  "units": []
+  "units": [
+    {
+      "n": 1,
+      "slug": "unit-01",
+      "passage": "1:1–54",
+      "title": "The first muster",
+      "movement": 1,
+      "part": 1,
+      "built": false
+    }
+  ]
 }
