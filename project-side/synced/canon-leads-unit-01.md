@@ -46,10 +46,10 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
   - Later: Judg 9:53 (gulgalt-wo); 2 Kgs 9:35 (ha-gulgolet); 1 Chr 10:10 (gulgalt-wo); 1 Chr 23:3 (le-gulgelota-m); 1 Chr 23:24 (le-gulgelota-m)
 - **ʿ̲amminadab** (H5992, people of liberality; Amminadab) — Num 1:7; 12 verses in the Hebrew Bible
   - Torah: Exod 6:23 (ʿ̲amminadab)
-  - Later: Ruth 4:19 (ʿ̲amminadab); Ruth 4:20 (we-ʿ̲amminadab); 1 Chr 2:10 (ʿ̲amminadab); 1 Chr 6:7 (ʿ̲amminadab); 1 Chr 15:10 (ʿ̲amminadab); 1 Chr 15:11 (we-ʿ̲amminadab)
+  - Later: Ruth 4:19 (ʿ̲amminadab); Ruth 4:20 (we-ʿ̲amminadab); 1 Chr 2:10 (ʿ̲amminadab); 1 Chr 6:22 (ʿ̲amminadab); 1 Chr 15:10 (ʿ̲amminadab); 1 Chr 15:11 (we-ʿ̲amminadab)
 - **ʾeliʾab** (H446, Eliab) — Num 1:9; 20 verses in the Hebrew Bible
   - Torah: Deut 11:6 (ʾeliʾab)
-  - Later: 1 Sam 16:6 (ʾeliʾab); 1 Sam 17:13 (ʾeliʾab); 1 Sam 17:28 (ʾeliʾab); 1 Chr 2:13 (ʾeliʾab); 1 Chr 6:12 (ʾeliʾab); 1 Chr 12:10 (ʾeliʾab); 1 Chr 15:18 (ʾeliʾab); 1 Chr 15:20 (we-ʾeliʾab); 1 Chr 16:5 (we-ʾeliʾab); 2 Chr 11:18 (ʾeliʾab)
+  - Later: 1 Sam 16:6 (ʾeliʾab); 1 Sam 17:13 (ʾeliʾab); 1 Sam 17:28 (ʾeliʾab); 1 Chr 2:13 (ʾeliʾab); 1 Chr 6:27 (ʾeliʾab); 1 Chr 12:9 (ʾeliʾab); 1 Chr 15:18 (ʾeliʾab); 1 Chr 15:20 (we-ʾeliʾab); 1 Chr 16:5 (we-ʾeliʾab); 2 Chr 11:18 (ʾeliʾab)
 - **ʾaḥiʿ̲ezer** (H295, Achiezer) — Num 1:12; 6 verses in the Hebrew Bible
   - Later: 1 Chr 12:3 (ʾaḥiʿ̲ezer)
 - **ʿ̲ammihud** (H5989, people of splendor; Ammihud) — Num 1:10; 10 verses in the Hebrew Bible

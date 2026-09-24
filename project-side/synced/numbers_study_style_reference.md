@@ -116,9 +116,9 @@ one-line popover prose.
 lemma ids you saw (evidence), `refs` a few representative verses. Formats
 are checked at port time:
 
-- `ids` — the `lemma` column of `Numbers-words.tsv` with prefixes and spaces
-  removed, matching `^\d+[a-z]?$`. The table writes `6485 a`; the id is
-  `"6485a"`. Look it up there; don't guess.
+- `ids` — the `lemma` column of `Numbers-words.tsv` with prefixes removed.
+  Either spelling works: the table writes `6485 a` and the porter reads it
+  as `"6485a"`. Look it up there; don't guess.
 - `refs` — bare `"C:V"` strings only: `"1:3"`, not `"Num 1:3"`. No ranges
   (`"3:7–8"`): list each verse (`"3:7", "3:8"`).
 - Give every candidate an `ids` entry so the evidence is checkable.
@@ -180,10 +180,17 @@ The site leaves `table.list` blocks where the text puts them (other `section.blo
 structures are hoisted to the top). Put a total, when the text gives one, in a
 `<tfoot>` row; wrap the header row in `<thead>` and the rest in `<tbody>`.
 
+**A table that replaces verses declares them:** `data-verses="1:22–43"` on the
+`<table>`, naming exactly the verses it condenses (not the ones still written
+out around it). Thread occurrences in those verses are then reported as
+covered by the table rather than as untagged gaps. The build fails if a
+declared verse is also written out as a verse, or if the range leaves the
+unit's passage (Lane, 2026-09-23).
+
 ```html
 <section class="block">
   <h2>The Census of the Second Year <span class="cap">· 1:20–46</span></h2>
-  <table class="list">
+  <table class="list" data-verses="1:22–43">
     <tr><th>Tribe</th><th>Count</th></tr>
     <tr><td>Reuben</td><td>46,500</td></tr>
   </table>
