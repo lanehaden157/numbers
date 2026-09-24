@@ -116,9 +116,9 @@ one-line popover prose.
 lemma ids you saw (evidence), `refs` a few representative verses. Formats
 are checked at port time:
 
-- `ids` — the `lemma` column of `Numbers-words.tsv` with prefixes and spaces
-  removed, matching `^\d+[a-z]?$`. The table writes `6485 a`; the id is
-  `"6485a"`. Look it up there; don't guess.
+- `ids` — the `lemma` column of `Numbers-words.tsv` with prefixes removed.
+  Either spelling works: the table writes `6485 a` and the porter reads it
+  as `"6485a"`. Look it up there; don't guess.
 - `refs` — bare `"C:V"` strings only: `"1:3"`, not `"Num 1:3"`. No ranges
   (`"3:7–8"`): list each verse (`"3:7", "3:8"`).
 - Give every candidate an `ids` entry so the evidence is checkable.

@@ -27,3 +27,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 - Made `lanehaden157/numbers` public and enabled GitHub Pages (main, /): https://lanehaden157.github.io/numbers/
 - Unit 1's count table: added Reuven row (so rows sum) and a `<tfoot>` Total (603,550, v46; sum verified); `app/main.js` no longer hoists `section.block` containing `table.list` to the top, so the table now sits between v21 and v44; CSS for thead/tbody/tfoot; style reference notes both.
 - Audit gaps in condensed tables resolved (Lane: declare the verses). bible-core `d9d18b3` adds `data-verses` (audit reports occurrences there as covered; build fails if a declared verse is also written out or leaves the passage). Re-vendored core; unit 1's census table now carries `data-verses="1:22–43"` (source artifact + built unit, same one-attribute edit). Audit: 0 gaps, 23 covered (account 12, army 11). Style reference §4 documents it.
+
+## 2026-09-24
+- Re-vendored core `42ee2d3`: after promoting a thread, `python -m biblecore data-w N` fills the new spans in place (verified on a scratch copy: it reproduces unit 1's `--force` re-port byte for byte); validate, the port refusal and the thread delta now say so. Candidate ids written `"6485 a"` are normalized at port time. Style reference §2 and CLAUDE.md commands updated to match; CLAUDE.md state line was stale (said no units built).
