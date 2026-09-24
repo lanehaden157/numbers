@@ -61,7 +61,12 @@ drifts on re-fetch, flag it loudly; it likely means the corpus changed, not
 that the earlier count was wrong.
 
 `Numbers-reading.txt`, `Numbers-words.tsv`, `candidate-boundaries.md` are
-generated (`python -m biblecore corpus`) — don't hand-edit.
+generated (`python -m biblecore corpus`) — don't hand-edit. They keep Hebrew
+numbering. Core converts to English numbering whenever it reads them
+(`book.json` `versification`, default `kjv`), and `corpus` also writes
+`numbers-versification.md`, the generated table of the 46 renumbered
+verses. It matches `numbers-versification-map.md`, which stays as the
+explained version.
 `candidate-boundaries.md` is the raw machine list (Leningrad/OSHB markers
 only, in document order, no interpretation). `numbers-literary-unit-map.md`
 is the authored counterpart: it adds the Aleppo Codex witness and narrative

@@ -9,7 +9,10 @@
     "pin": "morphhb@2.0.2",
     "word_ids": true
   },
-  "groupings": ["movement", "part"],
+  "groupings": [
+    "movement",
+    "part"
+  ],
   "components": [
     "echo"
   ],
@@ -27,7 +30,8 @@
       "numbers-literary-unit-map.md"
     ],
     "globs": [
-      "canon-leads/canon-leads-unit-*.md"
+      "canon-leads/canon-leads-unit-*.md",
+      "*-versification.md"
     ]
   },
   "core": "0.1.0"

@@ -30,3 +30,5 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-09-24
 - Re-vendored core `42ee2d3`: after promoting a thread, `python -m biblecore data-w N` fills the new spans in place (verified on a scratch copy: it reproduces unit 1's `--force` re-port byte for byte); validate, the port refusal and the thread delta now say so. Candidate ids written `"6485 a"` are normalized at port time. Style reference §2 and CLAUDE.md commands updated to match; CLAUDE.md state line was stale (said no units built).
+- Re-vendored core `49db52a` (adds `units-from-map`). Not run on this book yet: it would add unbuilt rows for units 2–38 (groupings already match the map apart from names).
+- Re-vendored core `7e4aa14` (table.list check; unit 1's table passes) and `7d6bcbe` (E1 versification): corpus reads now convert Hebrew → English numbering through morphhb's VerseMap, so units 17, 28, 31, 32 (and 29's `26:1b`) select the right verses for leads/audit/data-w. `corpus` regenerated: word table/reading unchanged, new `numbers-versification.md` (46 verses, same as the hand-built map), added to sync globs. Build ok, audit 0 gaps.
