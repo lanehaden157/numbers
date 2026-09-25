@@ -6,7 +6,9 @@ How this repo behaves. The artifact contract lives in
 Built on **bible-core** (vendored in `biblecore/`, version in
 `biblecore/CORE_VERSION`). The shared shape and the ways a book is expected to
 differ are in `bible-core/ARCHITECTURE.md`; shared wording defaults in
-`bible-core/canon/conventions.md`.
+`bible-core/canon/conventions.md`. The chat-side loop is `core-workflow.md`
+(vendored, synced); `CHAT_SIDE_INSTRUCTIONS.md` is pasted by hand into the
+project's instruction field and only carries what's Numbers-specific.
 
 **State:** unit 1 built (of 38); six tracked threads.
 
@@ -21,6 +23,9 @@ differ are in `bible-core/ARCHITECTURE.md`; shared wording defaults in
     python -m biblecore leads            # canon-leads for built units + the next one
     python -m biblecore corpus           # rebuild the word table from morphhb (npm ci first)
     python -m biblecore sync             # push chat-side files to the synced mirror
+    python -m biblecore sync-check --mark-pasted   # after pasting CHAT_SIDE_INSTRUCTIONS.md into the project
+    python -m biblecore test [--quick]   # check the book: pin, units, contracts, build idempotence
+    python -m biblecore migrate [--dry]  # after re-vendoring: move built units to the new contract
     python -m biblecore book             # show resolved settings
 
 `book.json` holds everything book-specific (closed keys: an unknown key is an

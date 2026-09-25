@@ -215,7 +215,8 @@
           "gloss": "outsider, one not authorized",
           "example": "the outsider who comes near shall be put to death"
         }
-      }
+      },
+      "contract": "0.3.0"
     },
     {
       "n": 2,
