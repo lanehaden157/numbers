@@ -1,0 +1,30 @@
+{
+  "_note": "Enabled components for the app shell (biblecore/components). Generated; don't edit.",
+  "components": [
+    {
+      "name": "echo",
+      "role": "verse-aside",
+      "selector": "aside.echo"
+    },
+    {
+      "name": "list",
+      "role": "inline-block",
+      "selector": "table.list"
+    },
+    {
+      "name": "poem",
+      "role": "verse",
+      "selector": "div.poem"
+    },
+    {
+      "name": "itin",
+      "role": "inline-block",
+      "selector": "div.itin"
+    },
+    {
+      "name": "textform",
+      "role": "verse-aside",
+      "selector": "aside.textform"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "osis": "Num",
   "language": "hebrew",
   "versification": "kjv",
-  "core": "0.3.0",
+  "core": "0.4.0",
   "unit_count": 38,
   "units_built": 1,
   "files": {
@@ -25,6 +25,9 @@
       "schema": 1
     },
     "palette.json": {
+      "schema": 1
+    },
+    "components.json": {
       "schema": 1
     }
   }
