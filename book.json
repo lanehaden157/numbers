@@ -41,5 +41,6 @@
       "*-versification.md"
     ]
   },
-  "core": "0.5.0"
+  "core": "0.6.0",
+  "hub": "https://lanehaden157.github.io/bible/"
 }

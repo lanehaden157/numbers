@@ -6,7 +6,8 @@
   "abbrev": "Num",
   "language": "hebrew",
   "versification": "kjv",
-  "core": "0.5.0",
+  "core": "0.6.0",
+  "hub": "https://lanehaden157.github.io/bible/",
   "unit_count": 38,
   "units_built": 1,
   "files": {
