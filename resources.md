@@ -1,6 +1,6 @@
 # Numbers Study — Resources
 
-Read before pass 1 of every unit. Cite only the commentators below by name. Where these five can't reach something (a lead, a background question, a cross-reference), say so in the relevant pass and search the web there — don't stretch one of these past its actual content.
+Read before pass 1 of every unit. This file lives in the repo and syncs here; edit it in the repo, never on the project side. Cite only the commentators below by name. Where these five can't reach something (a lead, a background question, a cross-reference), say so in the relevant pass and search the web there — don't stretch one of these past its actual content.
 
 ## Baruch A. Levine, *Numbers 1–20* (Anchor Bible, 1993)
 File: `abNumbers1-20_LevineBA_1993-opt.txt`
@@ -35,20 +35,4 @@ No Milgrom (JPS), Wenham (Tyndale), Ashley (NICOT), or Sailhamer in the project 
 
 ## The synced folder
 
-The repo pushes seven files into this project's `synced/` folder (via the GitHub connector reading `project-side/synced/` in the repo — see the repo's `project-side/README.md` for the round-trip). They round-trip automatically; don't edit them here. `python -m biblecore sync` on Lane's side refreshes them whenever the repo's copy changes, so re-read a file from `synced/` if a session note or Lane says it's stale rather than trusting an earlier read in this conversation.
-
-**`numbers_study_style_reference.md`** — the artifact-shape reference for pass 4. Every structural rule for a fragment (the meta block, roots/threads/questions shape, glosses vs. footnotes, the optional components) lives here; it is authoritative over anything summarized about it elsewhere, including in these study instructions.
-
-**`translation-choices.md`** — this book's own glossary of deliberate English rendering decisions, starting from `canon-conventions.md`'s defaults and recording only where Numbers deviates or decides something canon-conventions doesn't cover. Currently empty (seeded at unit 1 on purpose, unlike Matthew) — check it before rendering any lexeme once units start shipping.
-
-**`canon-conventions.md`** — the cross-book defaults shared with Joshua and Matthew (y'all/y'all's, Yahweh for the divine name, sky/skies, ḥesed left untranslated, etc.), vendored from `bible-core/canon/conventions.md`. Defaults, not rules — `translation-choices.md` overrides a row here when Numbers has a real reason to.
-
-**`threads-digest.md`** — the generated, human-readable digest of `data/threads.json` (the tracked-thread registry: which roots get a colour and a `data-root` tag book-wide, versus a unit-local root tagged with no colour). Currently 0 threads — nothing has been promoted book-wide yet, since no unit has shipped. Once threads exist, this is the reference for which roots are tracked vs. local when drafting a fragment's meta block.
-
-**`roots.json`** (synced as `roots.json`, from the repo's `data/roots.json`) — the tracked-thread id sets and the declined-candidate ledger (candidates considered and deliberately kept local, with the reason, so they aren't re-argued). Currently empty. This is policy Lane applies by hand, not something the porter writes.
-
-**`Numbers-words.tsv`** — the full word table for the book: one row per Hebrew word token, with a `word_id`, its verse reference, the surface form, the Strong's/lemma id, and the morphology code. This is where a lemma id for a `threads.candidates` proposal comes from (search by lemma column) — don't hand-guess an id.
-
-**`numbers-literary-unit-map.md`** — the 38-unit map this project delivered by hand, now the repo's canonical copy (it drives `book.json`'s `groupings` and `data/units.json`'s grouping definitions), synced back here so it stays current if it's ever revised. Confirmed before unit 1: 9 movements nested in 2 generation-framed parts, each unit's passage, working title, petuḥah/setumah markers (Leningrad and Aleppo, with disagreements noted), why the boundary falls where it does, and relevant commentator notes. This is what "state the unit and passage from the Literary Unit Map" in the study instructions' Scope section refers to.
-
-`canon-leads-unit-NN.md` (the per-unit intertext seed sheet that pass 3 starts from) is also meant to land in this same `synced/` folder, one file per built unit, but none exist yet since no unit has shipped — the repo's sync glob picks them up automatically as they're generated.
+`synced-index.md` in the synced folder lists every file the repo mirrors there and what each one is for. It's generated on every sync, so it's always complete. Everything in that folder round-trips from the repo automatically, including this file. Nothing is uploaded by hand, so re-read a file there rather than trusting an earlier read in the conversation. The one exception is the project's instruction field, which Lane pastes.

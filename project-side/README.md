@@ -1,21 +1,25 @@
 # Project side
 
-Files that round-trip with the Numbers Claude.ai research project. The list
-is `book.json` → `sync`; `python -m biblecore sync` mirrors them flat into
-`project-side/synced/` (commit + push), which the project's GitHub connector
-reads. `python -m biblecore sync-check` reports which files changed since
-they were last marked synced.
+How files move between this repo and the Numbers Claude.ai research project.
 
-| file | direction | role |
+**Repo → project: synced, never uploaded by hand.** `book.json` → `sync` is
+the list. `python -m biblecore sync` mirrors those files flat into
+`project-side/synced/`, then commits and pushes, and the project's GitHub
+connector reads that folder. Each sync also writes
+`synced/synced-index.md`, the complete list with each file's role. That's
+the only list, so don't restate it elsewhere. `python -m biblecore sync-check`
+reports which files changed since they were last synced (the build runs it too).
+
+To sync a new file, add it to `book.json` → `sync`. If it's a core file,
+also give it a role in `biblecore/sync.py` `ROLES`.
+
+**Not synced:**
+
+| file | direction | why |
 |---|---|---|
-| `numbers_study_style_reference.md` | repo → project | the artifact contract |
-| `translation-choices.md` | repo → project | the book's glossary |
-| `canon-conventions.md` | repo → project | shared wording defaults (vendored from bible-core) |
-| `threads-digest.md` | repo → project | tracked threads (generated) |
-| `data/roots.json` | repo → project | tracked-thread id sets, declined ledger |
-| `Numbers-words.tsv` | repo → project | the word table (ids for candidates) |
-| `canon-leads/canon-leads-unit-NN.md` | repo → project | intertext pass reading lists |
-| `CHAT_SIDE_INSTRUCTIONS.md` | pasted by hand | the project's instruction field |
-| `resources.md` | project only | the commentary inventory |
-| `numbers-literary-unit-map.md` | delivered by hand once, then repo → project | the 38-unit map and 9 movements. Any future edit (renumbering) happens in the repo, since it drives `book.json`/`data/units.json` — not back on the project side |
-| `source-artifacts/numbers_NN_translation.html` | project → repo | each unit's artifact |
+| `CHAT_SIDE_INSTRUCTIONS.md` | pasted by hand into the instruction field | the connector can't write the field. `sync-check` says when it needs re-pasting; run `sync-check --mark-pasted` after pasting |
+| `source-artifacts/numbers_NN_translation.html` | project → repo | each unit's artifact, saved into the repo before `port` |
+
+**The unit map** (`numbers-literary-unit-map.md`) was delivered by hand once
+and is now repo-owned. Any edit (renumbering, say) happens in the repo, since
+it drives `book.json` and `data/units.json`, and syncs back from there.
