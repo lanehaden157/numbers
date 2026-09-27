@@ -11,7 +11,7 @@
    registry (biblecore/components/), enabled in book.json.
    ========================================================================== */
 
-:root {
+:where(:root) {  /* fallback only: division.css wins when present */
   --bg: #e9dfc3;
   --panel: #f4eed9;
   --panel-2: #e3d5ab;
