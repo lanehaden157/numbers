@@ -14,4 +14,4 @@
 ## Open
 - validate_units warns on close colour pairs (all ΔE ≥ 10): advisory.
 - `CHAT_SIDE_INSTRUCTIONS.md` still needs re-pasting into the project field (carried over).
-- Push Numbers and bible-core: not done.
+- Push Numbers (8bf2235 + the core session's cf383f7, core 0.8.3): not done. bible-core is already pushed (tag v0.8.2 = 2a20fe4, which includes 2d8d35e).
