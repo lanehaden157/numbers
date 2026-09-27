@@ -41,3 +41,10 @@ Append-only. Concrete changes to this book's repo, most recent last.
 - Promoted camp, set-out, tribe-staff, chieftain (opens in unit 2; unit 1's 11 in-prose occurrences tagged in its source and re-ported with `--force`). Applied the `account` payoff at 2:33. Audit: 0 gaps across 10 threads; test 8/8.
 - The colour tool handed set-out/tribe-staff/chieftain the palette's dark L≈25 tail (dull grey in dark mode). Fixed in bible-core `2d8d35e`: `assign_hues` tries readable colours first (Lab L ≥ 30, chroma ≥ 20). Re-coloured: set-out #7a3f5c, tribe-staff #005847, chieftain #006494; unit 1's local `company` re-picked (#5a5a9c). Vendored core at `2a20fe4` (includes another session's ornament commit).
 - Added `.claude/launch.json` (python http.server on 8765) for browser checks.
+
+## 2026-09-27
+- Unit 3 ported. Porter questions: zar → **stranger / strange fire** (root slug `outsider` → `stranger`; unit 1's 1:51 root, gloss and note changed too), toledot kept, peduyim/pidyom → **redemption price** (local root `ransom` → `redemption`; title now "…in place of the firstborn"), ʿal pi YHWH kept literal (Lane, after asking what it was), per skull matches 1:2, 6486 (pequddah) added to `account`. Recorded in `translation-choices.md`.
+- Promoted stranger, near, holy, firstborn (colours from `biblecore colour`); redemption stays local. Applied the unit 3 account/charge/community payoffs.
+- Unit 1 retro tags in source: "comes near" (near) at 1:51, "firstborn" (firstborn) at 1:20; re-ported with `--force`.
+- Unit 3 fixes: tagged camp (3:38) and tribe-staff (3:6); stripped tracked-thread spans from the 3:21–37 table, since core can't give table words a data-w (same as unit 1's table); soft pe → ph (Elyasaph, Elitsaphan, Tselophchad).
+- Build ok, audit 0 gaps / 0 missing data-w across 14 threads, test 8/8, browser-checked in dark mode.

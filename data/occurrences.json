@@ -153,7 +153,7 @@
           "v": 51,
           "pre": "…out, the Levites shall take it down; when the Dwelling ",
           "hit": "camps",
-          "post": ", the Levites shall set it up; and the outsider who com…"
+          "post": ", the Levites shall set it up; and the stranger who com…"
         },
         {
           "v": 52,
@@ -279,7 +279,22 @@
       ],
       "total": 1
     },
-    "outsider": {
+    "firstborn": {
+      "count": 1,
+      "verses": [
+        20
+      ],
+      "hits": [
+        {
+          "v": 20,
+          "pre": "…The sons of Reuven, Yisrael’s ",
+          "hit": "firstborn",
+          "post": " — their generations, by their clans, by their fathers’…"
+        }
+      ],
+      "total": 1
+    },
+    "near": {
       "count": 1,
       "verses": [
         51
@@ -287,9 +302,9 @@
       "hits": [
         {
           "v": 51,
-          "pre": "…e Dwelling camps, the Levites shall set it up; and the ",
-          "hit": "outsider",
-          "post": " who comes near shall be put to death.…"
+          "pre": "…mps, the Levites shall set it up; and the stranger who ",
+          "hit": "comes near",
+          "post": " shall be put to death.…"
         }
       ],
       "total": 1
@@ -334,6 +349,21 @@
           "pre": "…When the Dwelling ",
           "hit": "sets out",
           "post": ", the Levites shall take it down; when the Dwelling cam…"
+        }
+      ],
+      "total": 1
+    },
+    "stranger": {
+      "count": 1,
+      "verses": [
+        51
+      ],
+      "hits": [
+        {
+          "v": 51,
+          "pre": "…e Dwelling camps, the Levites shall set it up; and the ",
+          "hit": "stranger",
+          "post": " who comes near shall be put to death.…"
         }
       ],
       "total": 1
@@ -904,6 +934,530 @@
         }
       ],
       "total": 2
+    }
+  },
+  "unit-03": {
+    "account": {
+      "count": 9,
+      "verses": [
+        10,
+        15,
+        16,
+        39,
+        40,
+        42,
+        43
+      ],
+      "hits": [
+        {
+          "v": 10,
+          "pre": "…And Aharon and his sons you will ",
+          "hit": "appoint",
+          "post": ", and they will keep their priesthood; and the stranger…"
+        },
+        {
+          "v": 15,
+          "pre": "…\"",
+          "hit": "Take account",
+          "post": " of the sons of Levi by their ancestral houses, by thei…"
+        },
+        {
+          "v": 15,
+          "pre": "…eir clans; every male from a month old and up you will ",
+          "hit": "take account",
+          "post": " of them.\"…"
+        },
+        {
+          "v": 16,
+          "pre": "…So Moshe ",
+          "hit": "took account",
+          "post": " of them at the mouth of Yahweh, as he had been command…"
+        },
+        {
+          "v": 39,
+          "pre": "…All the ",
+          "hit": "accounted for",
+          "post": " of the Levites whom Moshe and Aharon accounted for at…"
+        },
+        {
+          "v": 39,
+          "pre": "…All the ",
+          "hit": "accounted for",
+          "post": " of the Levites whom Moshe and Aharon accounted for at…"
+        },
+        {
+          "v": 40,
+          "pre": "…Yahweh said to Moshe: \"",
+          "hit": "Take account",
+          "post": " of every firstborn male of the Israelites from a month…"
+        },
+        {
+          "v": 42,
+          "pre": "…So Moshe ",
+          "hit": "took account",
+          "post": ", as Yahweh had commanded him, of every firstborn among…"
+        },
+        {
+          "v": 43,
+          "pre": "…the number of names, from a month old and up, of those ",
+          "hit": "accounted for",
+          "post": " among them, was twenty-two thousand two hundred and se…"
+        }
+      ],
+      "total": 9
+    },
+    "anoint": {
+      "count": 1,
+      "verses": [
+        3
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…These are the names of Aharon's sons, the ",
+          "hit": "anointed",
+          "post": " priests, whose hand he filled to serve as priests.…"
+        }
+      ],
+      "total": 1
+    },
+    "camp": {
+      "count": 1,
+      "verses": [
+        38
+      ],
+      "hits": [
+        {
+          "v": 38,
+          "pre": "…Those ",
+          "hit": "camping",
+          "post": " before the Dwelling eastward, before the Tent of Meeti…"
+        }
+      ],
+      "total": 1
+    },
+    "charge": {
+      "count": 5,
+      "verses": [
+        7,
+        8,
+        38
+      ],
+      "hits": [
+        {
+          "v": 7,
+          "pre": "…They will keep his ",
+          "hit": "charge",
+          "post": " and the charge of the whole community before the Tent…"
+        },
+        {
+          "v": 7,
+          "pre": "…They will keep his ",
+          "hit": "charge",
+          "post": " and the charge of the whole community before the Tent…"
+        },
+        {
+          "v": 8,
+          "pre": "…keep all the equipment of the Tent of Meeting and the ",
+          "hit": "charge",
+          "post": " of the Israelites, to do the work of the Dwelling.…"
+        },
+        {
+          "v": 38,
+          "pre": "…e sunrise: Moshe, and Aharon and his sons, keeping the ",
+          "hit": "charge",
+          "post": " of the holy place as the charge of the Israelites; and…"
+        },
+        {
+          "v": 38,
+          "pre": "…e sunrise: Moshe, and Aharon and his sons, keeping the ",
+          "hit": "charge",
+          "post": " of the holy place as the charge of the Israelites; and…"
+        }
+      ],
+      "total": 5
+    },
+    "community": {
+      "count": 1,
+      "verses": [
+        7
+      ],
+      "hits": [
+        {
+          "v": 7,
+          "pre": "…They will keep his charge and the charge of the whole ",
+          "hit": "community",
+          "post": " before the Tent of Meeting, to do the work of the Dwel…"
+        }
+      ],
+      "total": 1
+    },
+    "fill-hand": {
+      "count": 1,
+      "verses": [
+        3
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…of Aharon's sons, the anointed priests, whose hand he ",
+          "hit": "filled",
+          "post": " to serve as priests.…"
+        }
+      ],
+      "total": 1
+    },
+    "firstborn": {
+      "count": 13,
+      "verses": [
+        2,
+        12,
+        13,
+        40,
+        41,
+        42,
+        43,
+        45,
+        46,
+        50
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…These are the names of Aharon's sons: the ",
+          "hit": "firstborn",
+          "post": " Nadav, and Avihu, Elazar and Itamar.…"
+        },
+        {
+          "v": 12,
+          "pre": "…he Levites from among the Israelites in place of every ",
+          "hit": "firstborn",
+          "post": ", what opens the womb among the Israelites; the Levites…"
+        },
+        {
+          "v": 13,
+          "pre": "…For every ",
+          "hit": "firstborn",
+          "post": " is mine. On the day I struck down every firstborn in t…"
+        },
+        {
+          "v": 13,
+          "pre": "…For every ",
+          "hit": "firstborn",
+          "post": " is mine. On the day I struck down every firstborn in t…"
+        },
+        {
+          "v": 13,
+          "pre": "…For every ",
+          "hit": "firstborn",
+          "post": " is mine. On the day I struck down every firstborn in t…"
+        },
+        {
+          "v": 40,
+          "pre": "…Yahweh said to Moshe: \"Take account of every ",
+          "hit": "firstborn",
+          "post": " male of the Israelites from a month old and up, and ta…"
+        },
+        {
+          "v": 41,
+          "pre": "…e the Levites for me — I am Yahweh — in place of every ",
+          "hit": "firstborn",
+          "post": " among the Israelites, and the Levites' livestock in pl…"
+        },
+        {
+          "v": 41,
+          "pre": "…e the Levites for me — I am Yahweh — in place of every ",
+          "hit": "firstborn",
+          "post": " among the Israelites, and the Levites' livestock in pl…"
+        },
+        {
+          "v": 42,
+          "pre": "…he took account, as Yahweh had commanded him, of every ",
+          "hit": "firstborn",
+          "post": " among the Israelites.…"
+        },
+        {
+          "v": 43,
+          "pre": "…And every ",
+          "hit": "firstborn",
+          "post": " male by the number of names, from a month old and up,…"
+        },
+        {
+          "v": 45,
+          "pre": "…\"Take the Levites in place of every ",
+          "hit": "firstborn",
+          "post": " among the Israelites, and the Levites' livestock in pl…"
+        },
+        {
+          "v": 46,
+          "pre": "…f the two hundred and seventy-three of the Israelites' ",
+          "hit": "firstborn",
+          "post": " who are surplus over the Levites,…"
+        },
+        {
+          "v": 50,
+          "pre": "…From the ",
+          "hit": "firstborn",
+          "post": " of the Israelites he took the silver: one thousand thr…"
+        }
+      ],
+      "total": 13
+    },
+    "generations": {
+      "count": 1,
+      "verses": [
+        1
+      ],
+      "hits": [
+        {
+          "v": 1,
+          "pre": "…These are the ",
+          "hit": "generations",
+          "post": " of Aharon and Moshe, on the day Yahweh spoke with Mosh…"
+        }
+      ],
+      "total": 1
+    },
+    "given": {
+      "count": 5,
+      "verses": [
+        9,
+        48,
+        51
+      ],
+      "hits": [
+        {
+          "v": 9,
+          "pre": "…You will ",
+          "hit": "give",
+          "post": " the Levites to Aharon and to his sons; given, given ar…"
+        },
+        {
+          "v": 9,
+          "pre": "…You will give the Levites to Aharon and to his sons; ",
+          "hit": "given",
+          "post": ", given are they to him from among the Israelites.…"
+        },
+        {
+          "v": 9,
+          "pre": "…You will give the Levites to Aharon and to his sons; ",
+          "hit": "given",
+          "post": ", given are they to him from among the Israelites.…"
+        },
+        {
+          "v": 48,
+          "pre": "…And you will ",
+          "hit": "give",
+          "post": " the silver to Aharon and to his sons, the redemption p…"
+        },
+        {
+          "v": 51,
+          "pre": "…And Moshe ",
+          "hit": "gave",
+          "post": " the silver of the redemption price to Aharon and to hi…"
+        }
+      ],
+      "total": 5
+    },
+    "holy": {
+      "count": 4,
+      "verses": [
+        13,
+        38,
+        47,
+        50
+      ],
+      "hits": [
+        {
+          "v": 13,
+          "pre": "…y I struck down every firstborn in the land of Egypt I ",
+          "hit": "set apart",
+          "post": " for myself every firstborn in Yisrael, from human to b…"
+        },
+        {
+          "v": 38,
+          "pre": "…he, and Aharon and his sons, keeping the charge of the ",
+          "hit": "holy place",
+          "post": " as the charge of the Israelites; and the stranger who…"
+        },
+        {
+          "v": 47,
+          "pre": "…ke five shekels apiece per skull; by the shekel of the ",
+          "hit": "holy place",
+          "post": " you will take it, twenty gerahs to the shekel.…"
+        },
+        {
+          "v": 50,
+          "pre": "…and three hundred and sixty-five, by the shekel of the ",
+          "hit": "holy place",
+          "post": ".…"
+        }
+      ],
+      "total": 4
+    },
+    "near": {
+      "count": 4,
+      "verses": [
+        4,
+        6,
+        10,
+        38
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…But Nadav and Avihu died before Yahweh when they ",
+          "hit": "brought near",
+          "post": " strange fire before Yahweh in the wilderness of Sinai,…"
+        },
+        {
+          "v": 6,
+          "pre": "…\"",
+          "hit": "Bring near",
+          "post": " the tribe of Levi and station it before Aharon the pri…"
+        },
+        {
+          "v": 10,
+          "pre": "…they will keep their priesthood; and the stranger who ",
+          "hit": "draws near",
+          "post": " will be put to death.\"…"
+        },
+        {
+          "v": 38,
+          "pre": "…as the charge of the Israelites; and the stranger who ",
+          "hit": "draws near",
+          "post": " will be put to death.…"
+        }
+      ],
+      "total": 4
+    },
+    "priest": {
+      "count": 5,
+      "verses": [
+        3,
+        4,
+        6,
+        10
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…These are the names of Aharon's sons, the anointed ",
+          "hit": "priests",
+          "post": ", whose hand he filled to serve as priests.…"
+        },
+        {
+          "v": 3,
+          "pre": "…'s sons, the anointed priests, whose hand he filled to ",
+          "hit": "serve as priests",
+          "post": ".…"
+        },
+        {
+          "v": 4,
+          "pre": "…s of Sinai, and they had no sons. So Elazar and Itamar ",
+          "hit": "served as priests",
+          "post": " in the lifetime of Aharon their father.…"
+        },
+        {
+          "v": 6,
+          "pre": "…ear the tribe of Levi and station it before Aharon the ",
+          "hit": "priest",
+          "post": ", and they will attend him.…"
+        },
+        {
+          "v": 10,
+          "pre": "…nd his sons you will appoint, and they will keep their ",
+          "hit": "priesthood",
+          "post": "; and the stranger who draws near will be put to death.…"
+        }
+      ],
+      "total": 6
+    },
+    "redemption": {
+      "count": 5,
+      "verses": [
+        46,
+        48,
+        49,
+        51
+      ],
+      "hits": [
+        {
+          "v": 46,
+          "pre": "…As the ",
+          "hit": "redemption price",
+          "post": " of the two hundred and seventy-three of the Israelites…"
+        },
+        {
+          "v": 48,
+          "pre": "…ou will give the silver to Aharon and to his sons, the ",
+          "hit": "redemption price",
+          "post": " of the surplus among them.\"…"
+        },
+        {
+          "v": 49,
+          "pre": "…So Moshe took the silver of the ",
+          "hit": "redemption price",
+          "post": " from those surplus over those redeemed by the Levites.…"
+        },
+        {
+          "v": 49,
+          "pre": "…of the redemption price from those surplus over those ",
+          "hit": "redeemed",
+          "post": " by the Levites.…"
+        },
+        {
+          "v": 51,
+          "pre": "…And Moshe gave the silver of the ",
+          "hit": "redemption price",
+          "post": " to Aharon and to his sons at the mouth of Yahweh, as Y…"
+        }
+      ],
+      "total": 5
+    },
+    "stranger": {
+      "count": 3,
+      "verses": [
+        4,
+        10,
+        38
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…av and Avihu died before Yahweh when they brought near ",
+          "hit": "strange",
+          "post": " fire before Yahweh in the wilderness of Sinai, and the…"
+        },
+        {
+          "v": 10,
+          "pre": "…appoint, and they will keep their priesthood; and the ",
+          "hit": "stranger",
+          "post": " who draws near will be put to death.\"…"
+        },
+        {
+          "v": 38,
+          "pre": "…he holy place as the charge of the Israelites; and the ",
+          "hit": "stranger",
+          "post": " who draws near will be put to death.…"
+        }
+      ],
+      "total": 3
+    },
+    "tribe-staff": {
+      "count": 1,
+      "verses": [
+        6
+      ],
+      "hits": [
+        {
+          "v": 6,
+          "pre": "…\"Bring near the ",
+          "hit": "tribe",
+          "post": " of Levi and station it before Aharon the priest, and t…"
+        }
+      ],
+      "total": 1
     }
   }
 }

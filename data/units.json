@@ -208,15 +208,9 @@
           "gloss": "company, the tribal unit camped under one standard; traditionally ‘banner’",
           "example": "each man by his company",
           "echo": "Song 2:4 — the only use outside Numbers, usually read ‘his banner over me is love’"
-        },
-        "outsider": {
-          "color": "#9c5a1e",
-          "translit": "zar",
-          "gloss": "outsider, one not authorized",
-          "example": "the outsider who comes near shall be put to death"
         }
       },
-      "contract": "0.8.3"
+      "contract": "0.8.5"
     },
     {
       "n": 2,
@@ -255,10 +249,52 @@
       "n": 3,
       "slug": "unit-03",
       "passage": "Numbers 3:1–51",
-      "title": "Aaron's line and the Levites as ransom for the firstborn",
+      "title": "Aharon's line and the Levites in place of the firstborn",
       "movement": 1,
       "part": 1,
-      "built": false
+      "built": true,
+      "roots": {
+        "generations": {
+          "color": "#55642f",
+          "translit": "toledot",
+          "gloss": "generations; a family line and its story",
+          "example": "These are the generations of Aharon and Moshe",
+          "echo": "Gen 2:4 — the heading that structures Genesis, used here for the priestly house; Ruth 4:18 runs it through Nachshon to David."
+        },
+        "anoint": {
+          "color": "#3d6b4a",
+          "translit": "mashaḥ",
+          "gloss": "anoint, smear with oil"
+        },
+        "fill-hand": {
+          "color": "#7a3f5c",
+          "translit": "maleʾ",
+          "gloss": "fill; with 'hand', install someone as priest",
+          "example": "whose hand he filled to serve as priests",
+          "echo": "Exod 32:29 — the Levites 'fill their hand' for Yahweh after the calf; Judg 17:5, 12 and 1 Kgs 13:33 — the same idiom at counterfeit shrines."
+        },
+        "given": {
+          "color": "#1f6e7a",
+          "translit": "natan",
+          "gloss": "give; given over to another",
+          "example": "given, given are they to him",
+          "echo": "8:16 — 'given to me'; the 'given ones' return as temple servants 'given' for the Levites' service (Ezra 8:20)."
+        },
+        "priest": {
+          "color": "#9c5a1e",
+          "translit": "kohen",
+          "gloss": "priest; serve as priest; priesthood",
+          "echo": "Exod 40:15 — 'an everlasting priesthood', renewed to Pinchas (25:13); Ezra 2:62 — men not found in the register are barred from it."
+        },
+        "redemption": {
+          "color": "#2f4f7a",
+          "translit": "padah",
+          "gloss": "redeem, buy back; the redemption price",
+          "example": "the redemption price of the surplus among them",
+          "echo": "Exod 30:12–13 — a census ransom 'for his life' at twenty gerahs to the shekel, 'so there be no plague'; Ps 49:7–8 — no one can redeem a brother."
+        }
+      },
+      "contract": "0.9.0"
     },
     {
       "n": 4,

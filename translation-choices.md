@@ -36,7 +36,13 @@ is more likely right; flag the mismatch.
 | at a distance | מנגד (mineged) | **facing, at a distance** (2:2) | Decided at unit 2. Both senses rendered. |
 | Reuel / Deuel | (2:14) | **Reuel** as written at 2:14, with a note; Deuel elsewhere | Decided at unit 2. Received text translated as it stands. |
 | personal names | (various) | **transliterated in Latin letters only** (no diacritics): ח = ch, כ = kh, צ = ts, ו = v, ש = sh, soft פ = ph (hard פ = p); ʾ/ʿ dropped | Decided at unit 1: Reuven, Shimon, Yehudah, Nachshon, Moshe, Aharon, Yisrael. Applied to Hebrew-Bible persons and tribes in text, glosses, notes and echoes; NT names (Jesus) and book/place names (Sinai, Egypt) stay English. Unit 2 added ph for soft pe: Ephrayim, Naphtali, Yoseph, Elyasaph (unit 1 retrofitted; its "Eliasaf" also normalized); Pagiel, Pedahtsur keep p. |
+| stranger | זר (zar) | **stranger** for the unauthorized person; **strange fire** (3:4, esh zarah) | Decided at unit 3 (2026-09-27). One English family for both; unit 1's 1:51 "outsider" changed to match. Tracked thread `stranger`. |
+| generations | תולדות (toledot) | **These are the generations of** (3:1) | Decided at unit 3. Keeps Genesis's heading formula audible. |
+| redemption price | פדה / פדיום (padah, peduyim, pidyom) | **redemption price**; **redeemed** for the verb (3:46–51) | Decided at unit 3. Not "ransom"; that word stays free for kofer (Exod 30:12). Local root `redemption`. |
+| at the mouth of Yahweh | על פי יהוה (ʿal pi YHWH) | **at the mouth of Yahweh**, literal, every time | Decided at unit 3. Keeps the 9:18–23 refrain audible and separate from tsivvah ("commanded"). |
+| per skull | גלגלת (gulgolet) | **skull(s)** (1:2, 3:47) | Unit 3 matches unit 1. |
 
 ## Log
 - 2026-09-23 (unit 1): seeded the glossary with the six answered porter questions (paqad, tsavaʾ, ʿedah/nasiʾ, mishkan/ʾohel moʿed, names). table.list approved for first use.
 - 2026-09-26 (unit 2): seven porter questions answered: degel = company (1:52 retrofitted), ʾotot = signs, camp, set out, facing at a distance, Reuel as written, soft pe = ph (unit 1 retrofitted).
+- 2026-09-27 (unit 3): zar = stranger / strange fire (1:51 retrofitted), toledot kept, peduyim = redemption price, ʿal pi YHWH literal, pequddah (6486) joins `account`. Promoted stranger, near, holy, firstborn. Unit 3 names follow ph (Elyasaph, Elitsaphan, Tselophchad).

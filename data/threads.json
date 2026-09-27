@@ -20,6 +20,16 @@
           "unit": 2,
           "ref": "2:33",
           "note": "Levi again stands outside the account (1:47); the same rare ‘were not accounted’ returns for the second generation at 26:62."
+        },
+        {
+          "unit": 3,
+          "ref": "3:10",
+          "note": "paqad turns from counting to appointing: Aharon and his sons are 'put in charge' of their priesthood."
+        },
+        {
+          "unit": 3,
+          "ref": "3:39",
+          "note": "Levi is accounted for from a month old, not twenty: a devoted tribe, not an army, and the count must come out exact."
         }
       ],
       "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)."
@@ -53,7 +63,13 @@
         "ref": "1:2",
         "note": "ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2)."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 3,
+          "ref": "3:7",
+          "note": "The community owes the sanctuary's upkeep; the Levites keep its charge on its behalf."
+        }
+      ],
       "note": "ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2)."
     },
     {
@@ -101,7 +117,18 @@
         "ref": "1:53",
         "note": "mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 3,
+          "ref": "3:7",
+          "note": "mishmeret becomes the chapter's organizing noun: the Levites keep Aharon's charge and the whole community's."
+        },
+        {
+          "unit": 3,
+          "ref": "3:38",
+          "note": "The leaders camp at the east entrance 'keeping the charge of the holy place', the most exposed post in the camp."
+        }
+      ],
       "note": "mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18."
     },
     {
@@ -167,6 +194,70 @@
       },
       "payoffs": [],
       "note": "nasiʾ, the tribal heads: offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34)."
+    },
+    {
+      "id": "stranger",
+      "root": "stranger",
+      "translit": "zar",
+      "gloss": "stranger, one not authorized; strange, unsanctioned",
+      "color": "#7f5482",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 3,
+        "ref": "3:4",
+        "note": "zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18."
+      },
+      "payoffs": [],
+      "note": "zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18."
+    },
+    {
+      "id": "near",
+      "root": "near",
+      "translit": "qarav",
+      "gloss": "draw near; bring near, present",
+      "color": "#945042",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 3,
+        "ref": "3:4",
+        "note": "qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near."
+      },
+      "payoffs": [],
+      "note": "qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near."
+    },
+    {
+      "id": "holy",
+      "root": "holy",
+      "translit": "qadash",
+      "gloss": "holy; set apart; the holy place",
+      "color": "#a24860",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 3,
+        "ref": "3:13",
+        "note": "qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel."
+      },
+      "payoffs": [],
+      "note": "qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel."
+    },
+    {
+      "id": "firstborn",
+      "root": "firstborn",
+      "translit": "bekhor",
+      "gloss": "firstborn",
+      "color": "#716889",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 3,
+        "ref": "3:12",
+        "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
+      },
+      "payoffs": [],
+      "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
     }
   ]
 }

@@ -264,6 +264,198 @@
       "unit": 2,
       "note": "the same rare ‘were accounted’, for Yisrael’s army camped opposite Aram",
       "source": "meta"
+    },
+    {
+      "from": "Num 3:1",
+      "to": "Gen 2:4",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root generations",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:1",
+      "to": "Ruth 4:18",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root generations",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:1",
+      "to": "1 Chr 23:14",
+      "kind": "echo",
+      "unit": 3,
+      "note": "Moshe's sons are 'named among the tribe of Levi', not among the priests.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 3:1",
+      "to": "Judg 18:30",
+      "kind": "echo",
+      "unit": 3,
+      "note": "Moshe's grandson Yehonatan serves Dan's idol shrine 'until the exile of the land'.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 3:1",
+      "to": "Matt 1:1",
+      "kind": "echo",
+      "unit": 3,
+      "note": "The Greek of 3:1 renders toledot with geneseis; Matthew opens 'book of the generations'.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 3:3",
+      "to": "1 Kgs 13:33",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root fill-hand",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:3",
+      "to": "Exod 32:29",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root fill-hand",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:3",
+      "to": "Exod 40:15",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root priest",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:3",
+      "to": "Ezra 2:62",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root priest",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:3",
+      "to": "Judg 17:12",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root fill-hand",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:3",
+      "to": "Judg 17:5",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root fill-hand",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:4",
+      "to": "Exod 24:1",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:4",
+      "to": "Exod 24:9–11",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:7",
+      "to": "Gen 2:15",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:9",
+      "to": "Ezra 8:20",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root given",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:12",
+      "to": "1 Pet 1:18–19",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:12",
+      "to": "Mark 10:45",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:13",
+      "to": "Exod 12:12",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:13",
+      "to": "Exod 13:12–15",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:13",
+      "to": "Exod 13:2",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:13",
+      "to": "Luke 2:23",
+      "kind": "allusion",
+      "unit": 3,
+      "note": "Jesus presented under the firstborn law of Exod 13 that 3:11–13 applies.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 3:38",
+      "to": "Ezek 44:7–16",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:46",
+      "to": "Exod 30:12–13",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root redemption",
+      "source": "echo"
+    },
+    {
+      "from": "Num 3:46",
+      "to": "Ps 49:7–8",
+      "kind": "echo",
+      "unit": 3,
+      "note": "root redemption",
+      "source": "echo"
     }
   ],
   "typescenes": [
@@ -281,6 +473,20 @@
       "note": "Yehudah, Leah’s fourth son, leads the march where Reuven the firstborn might (Gen 49:3–10).",
       "source": "meta",
       "label": "The younger son preferred"
+    },
+    {
+      "id": "census",
+      "ref": "Num 3:15",
+      "unit": 3,
+      "note": "The Levites accounted for from a month old.",
+      "source": "meta"
+    },
+    {
+      "id": "census",
+      "ref": "Num 3:40",
+      "unit": 3,
+      "note": "Yisrael's firstborn accounted for, to be matched against the Levites.",
+      "source": "meta"
     }
   ]
 }
