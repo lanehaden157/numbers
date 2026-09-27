@@ -216,7 +216,7 @@
           "example": "the outsider who comes near shall be put to death"
         }
       },
-      "contract": "0.8.2"
+      "contract": "0.8.3"
     },
     {
       "n": 2,
@@ -249,7 +249,7 @@
           "echo": "Deut 32:52 — Moshe will see the land from a distance but not enter it"
         }
       },
-      "contract": "0.8.2"
+      "contract": "0.8.3"
     },
     {
       "n": 3,
