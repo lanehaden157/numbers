@@ -37,3 +37,7 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-09-26
 - `CHAT_SIDE_INSTRUCTIONS.md`: trimmed repeats of core-workflow (closing "field wins" paragraph, blind-to-theme note, two restated clauses); lens notes revisited against unit 1: generational bullet now cites the census vocabulary resurfacing in judgment (paqad 14:18/29, "summoned" 16:2/26:9), priestly bullet adds the Levite cordon (1:51–53, qetsef). Needs re-paste into the project instruction field.
+- Unit 2 ported ("The Camp around the Tent"). Seven porter questions answered by popup: degel → **company** (unit 1's 1:52 and root slug changed too), ʾotot → **signs**, camp, set out, facing at a distance, Reuel as written, soft pe → **ph** (Ephrayim, Naphtali, Yoseph, Elyasaph; unit 1 retrofitted, "Eliasaf" normalized). Recorded in `translation-choices.md`.
+- Promoted camp, set-out, tribe-staff, chieftain (opens in unit 2; unit 1's 11 in-prose occurrences tagged in its source and re-ported with `--force`). Applied the `account` payoff at 2:33. Audit: 0 gaps across 10 threads; test 8/8.
+- The colour tool handed set-out/tribe-staff/chieftain the palette's dark L≈25 tail (dull grey in dark mode). Fixed in bible-core `2d8d35e`: `assign_hues` tries readable colours first (Lab L ≥ 30, chroma ≥ 20). Re-coloured: set-out #7a3f5c, tribe-staff #005847, chieftain #006494; unit 1's local `company` re-picked (#5a5a9c). Vendored core at `2a20fe4` (includes another session's ornament commit).
+- Added `.claude/launch.json` (python http.server on 8765) for browser checks.

@@ -29,7 +29,14 @@ is more likely right; flag the mismatch.
 | chieftain | נשיא (nasiʾ) | **chieftain** | Decided at unit 1. |
 | the Dwelling | משכן (mishkan) | **the Dwelling** | Capitalized as a proper name. Decided at unit 1. |
 | the Tent of Meeting | אהל מועד (ʾohel moʿed) | **the Tent of Meeting** | Capitalized as a proper name. Decided at unit 1. |
-| personal names | (various) | **transliterated in Latin letters only** (no diacritics): ח = ch, כ = kh, צ = ts, ו = v, ש = sh; ʾ/ʿ dropped | Decided at unit 1: Reuven, Shimon, Yehudah, Nachshon, Moshe, Aharon, Yisrael. Applied to Hebrew-Bible persons and tribes in text, glosses, notes and echoes; NT names (Jesus) and book/place names (Sinai, Egypt) stay English. |
+| company | דגל (degel) | **company**: the tribal unit camped under one standard, not the flag | Decided at unit 2 (2026-09-26). The verse keeps a separate word for the visible signs, and degel names garrison companies at Elephantine and Arad. 1:52 was changed from "banner" to match. Root slug `company`. |
+| sign | אות (ʾot) | **signs** (2:2) | Decided at unit 2. Keeps the echo with Gen 1:14 and Num 14:11 audible. |
+| camp | חנה / מחנה (ḥanah / maḥaneh) | **camp** throughout, noun and verb, even where the fighting body is meant | Decided at unit 2. Tracked thread. |
+| set out | נסע (nasaʿ) | **set out** | Decided at unit 2. The itinerary thread (10, 33). |
+| at a distance | מנגד (mineged) | **facing, at a distance** (2:2) | Decided at unit 2. Both senses rendered. |
+| Reuel / Deuel | (2:14) | **Reuel** as written at 2:14, with a note; Deuel elsewhere | Decided at unit 2. Received text translated as it stands. |
+| personal names | (various) | **transliterated in Latin letters only** (no diacritics): ח = ch, כ = kh, צ = ts, ו = v, ש = sh, soft פ = ph (hard פ = p); ʾ/ʿ dropped | Decided at unit 1: Reuven, Shimon, Yehudah, Nachshon, Moshe, Aharon, Yisrael. Applied to Hebrew-Bible persons and tribes in text, glosses, notes and echoes; NT names (Jesus) and book/place names (Sinai, Egypt) stay English. Unit 2 added ph for soft pe: Ephrayim, Naphtali, Yoseph, Elyasaph (unit 1 retrofitted; its "Eliasaf" also normalized); Pagiel, Pedahtsur keep p. |
 
 ## Log
 - 2026-09-23 (unit 1): seeded the glossary with the six answered porter questions (paqad, tsavaʾ, ʿedah/nasiʾ, mishkan/ʾohel moʿed, names). table.list approved for first use.
+- 2026-09-26 (unit 2): seven porter questions answered: degel = company (1:52 retrofitted), ʾotot = signs, camp, set out, facing at a distance, Reuel as written, soft pe = ph (unit 1 retrofitted).

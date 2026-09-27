@@ -7,3 +7,5 @@ Read this first. 3 lines max per session.
 - **2026-09-23**: Unit 1 ported ("The First Accounting"): fixed candidate metadata formats, answered six porter questions by popup, revised draft, added table.list CSS.
   Promoted six book-wide threads, synced, committed and pushed. Open: 23 audit gaps in the collapsed vv22–43 table; not yet viewed in browser.
 - **2026-09-26**: Reviewed `CHAT_SIDE_INSTRUCTIONS.md` for bloat (~580 words, not bloated); trimmed core repeats and updated lens notes with unit 1 evidence. Needs re-paste into the project field.
+- **2026-09-26 (b)**: Unit 2 ported; 7 questions answered (degel = company, ʾotot = signs, pe = ph, both retrofitted into unit 1). Promoted camp/set-out/tribe-staff/chieftain (10 threads).
+  Core 0.8.2 colour fix (readable colours first) after three threads came out grey in dark mode. Coordinated with the concurrent core session.

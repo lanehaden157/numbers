@@ -202,12 +202,12 @@
           "gloss": "bear, beget; here, register one’s lineage",
           "example": "they declared their descent by their clans"
         },
-        "banner": {
-          "color": "#7a3f5c",
+        "company": {
+          "color": "#5a5a9c",
           "translit": "degel",
-          "gloss": "tribal banner, standard",
-          "example": "each man by his banner",
-          "echo": "Song 2:4 — the only use outside Numbers: his banner over me is love"
+          "gloss": "company, the tribal unit camped under one standard; traditionally ‘banner’",
+          "example": "each man by his company",
+          "echo": "Song 2:4 — the only use outside Numbers, usually read ‘his banner over me is love’"
         },
         "outsider": {
           "color": "#9c5a1e",
@@ -216,16 +216,40 @@
           "example": "the outsider who comes near shall be put to death"
         }
       },
-      "contract": "0.8.1"
+      "contract": "0.8.2"
     },
     {
       "n": 2,
       "slug": "unit-02",
       "passage": "Numbers 2:1–34",
-      "title": "The camp around the tent",
+      "title": "The Camp around the Tent",
       "movement": 1,
       "part": 1,
-      "built": false
+      "built": true,
+      "roots": {
+        "company": {
+          "color": "#8c6d1f",
+          "translit": "degel",
+          "gloss": "company, the tribal unit camped under one standard; traditionally ‘banner’",
+          "example": "each man by his company",
+          "echo": "Song 2:4 — the only use outside Numbers, usually read ‘his banner over me is love’"
+        },
+        "sign": {
+          "color": "#55642f",
+          "translit": "ʾot",
+          "gloss": "sign, token, emblem",
+          "example": "with the signs of their fathers’ house",
+          "echo": "Gen 1:14 — the lights are set ‘for signs’; Num 14:11 — the signs Yisrael will not trust"
+        },
+        "at-a-distance": {
+          "color": "#6b3620",
+          "translit": "neged",
+          "gloss": "in front of, facing; from a distance",
+          "example": "facing, at a distance, all around the Tent of Meeting",
+          "echo": "Deut 32:52 — Moshe will see the land from a distance but not enter it"
+        }
+      },
+      "contract": "0.8.2"
     },
     {
       "n": 3,

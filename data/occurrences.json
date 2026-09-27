@@ -112,27 +112,12 @@
         },
         {
           "v": 52,
-          "pre": "…h man at his camp and each man by his banner, by their ",
+          "pre": "…man at his camp and each man by his company, by their ",
           "hit": "armies",
           "post": ".…"
         }
       ],
       "total": 5
-    },
-    "banner": {
-      "count": 1,
-      "verses": [
-        52
-      ],
-      "hits": [
-        {
-          "v": 52,
-          "pre": "…ns shall camp each man at his camp and each man by his ",
-          "hit": "banner",
-          "post": ", by their armies.…"
-        }
-      ],
-      "total": 1
     },
     "called": {
       "count": 1,
@@ -149,6 +134,48 @@
       ],
       "total": 1
     },
+    "camp": {
+      "count": 5,
+      "verses": [
+        50,
+        51,
+        52,
+        53
+      ],
+      "hits": [
+        {
+          "v": 50,
+          "pre": "…hey shall serve it, and around the Dwelling they shall ",
+          "hit": "camp",
+          "post": ".…"
+        },
+        {
+          "v": 51,
+          "pre": "…out, the Levites shall take it down; when the Dwelling ",
+          "hit": "camps",
+          "post": ", the Levites shall set it up; and the outsider who com…"
+        },
+        {
+          "v": 52,
+          "pre": "…Yisrael’s sons shall ",
+          "hit": "camp",
+          "post": " each man at his camp and each man by his company, by t…"
+        },
+        {
+          "v": 52,
+          "pre": "…Yisrael’s sons shall ",
+          "hit": "camp",
+          "post": " each man at his camp and each man by his company, by t…"
+        },
+        {
+          "v": 53,
+          "pre": "…But the Levites shall ",
+          "hit": "camp",
+          "post": " around the Dwelling of the Testimony, so there is no w…"
+        }
+      ],
+      "total": 5
+    },
     "charge": {
       "count": 1,
       "verses": [
@@ -163,6 +190,28 @@
         }
       ],
       "total": 1
+    },
+    "chieftain": {
+      "count": 2,
+      "verses": [
+        16,
+        44
+      ],
+      "hits": [
+        {
+          "v": 16,
+          "pre": "…These were the summoned of the community, ",
+          "hit": "chieftains",
+          "post": " of their fathers’ tribes; they were heads of the thous…"
+        },
+        {
+          "v": 44,
+          "pre": "…nted-for whom Moshe accounted for, and Aharon, and the ",
+          "hit": "chieftains",
+          "post": " of Yisrael — twelve men, one man each for his fathers’…"
+        }
+      ],
+      "total": 2
     },
     "community": {
       "count": 4,
@@ -199,6 +248,21 @@
         }
       ],
       "total": 4
+    },
+    "company": {
+      "count": 1,
+      "verses": [
+        52
+      ],
+      "hits": [
+        {
+          "v": 52,
+          "pre": "…ns shall camp each man at his camp and each man by his ",
+          "hit": "company",
+          "post": ", by their armies.…"
+        }
+      ],
+      "total": 1
     },
     "descent": {
       "count": 1,
@@ -259,6 +323,64 @@
       ],
       "total": 3
     },
+    "set-out": {
+      "count": 1,
+      "verses": [
+        51
+      ],
+      "hits": [
+        {
+          "v": 51,
+          "pre": "…When the Dwelling ",
+          "hit": "sets out",
+          "post": ", the Levites shall take it down; when the Dwelling cam…"
+        }
+      ],
+      "total": 1
+    },
+    "tribe-staff": {
+      "count": 5,
+      "verses": [
+        4,
+        16,
+        21,
+        47,
+        49
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…And with y’all there shall be a man for each ",
+          "hit": "tribe",
+          "post": ", each man head of his fathers’ house.…"
+        },
+        {
+          "v": 16,
+          "pre": "…ummoned of the community, chieftains of their fathers’ ",
+          "hit": "tribes",
+          "post": "; they were heads of the thousands of Yisrael.…"
+        },
+        {
+          "v": 21,
+          "pre": "…their accounted-for, for the ",
+          "hit": "tribe",
+          "post": " of Reuven: forty-six thousand five hundred.…"
+        },
+        {
+          "v": 47,
+          "pre": "…But the Levites, by their fathers’ ",
+          "hit": "tribe",
+          "post": ", were not accounted for among them.…"
+        },
+        {
+          "v": 49,
+          "pre": "…“Only the ",
+          "hit": "tribe",
+          "post": " of Levi you shall not take account of, and their head…"
+        }
+      ],
+      "total": 5
+    },
     "wrath": {
       "count": 1,
       "verses": [
@@ -273,6 +395,515 @@
         }
       ],
       "total": 1
+    }
+  },
+  "unit-02": {
+    "account": {
+      "count": 10,
+      "verses": [
+        4,
+        6,
+        8,
+        9,
+        16,
+        24,
+        31,
+        32,
+        33
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…His army, and their ",
+          "hit": "accounted ones",
+          "post": ": seventy-four thousand six hundred.…"
+        },
+        {
+          "v": 6,
+          "pre": "…His army, and its ",
+          "hit": "accounted ones",
+          "post": ": fifty-four thousand four hundred.…"
+        },
+        {
+          "v": 8,
+          "pre": "…His army, and its ",
+          "hit": "accounted ones",
+          "post": ": fifty-seven thousand four hundred.…"
+        },
+        {
+          "v": 9,
+          "pre": "…All the ",
+          "hit": "accounted ones",
+          "post": " of the camp of Yehudah: one hundred eighty-six thousan…"
+        },
+        {
+          "v": 16,
+          "pre": "…All the ",
+          "hit": "accounted ones",
+          "post": " of the camp of Reuven: one hundred fifty-one thousand…"
+        },
+        {
+          "v": 24,
+          "pre": "…All the ",
+          "hit": "accounted ones",
+          "post": " of the camp of Ephrayim: one hundred eight thousand on…"
+        },
+        {
+          "v": 31,
+          "pre": "…All the ",
+          "hit": "accounted ones",
+          "post": " of the camp of Dan: one hundred fifty-seven thousand s…"
+        },
+        {
+          "v": 32,
+          "pre": "…These are the ",
+          "hit": "accounted ones",
+          "post": " of Yisrael’s sons by their fathers’ house; all the acc…"
+        },
+        {
+          "v": 32,
+          "pre": "…These are the ",
+          "hit": "accounted ones",
+          "post": " of Yisrael’s sons by their fathers’ house; all the acc…"
+        },
+        {
+          "v": 33,
+          "pre": "…But the Levites were not ",
+          "hit": "accounted",
+          "post": " among Yisrael’s sons, as Yahweh commanded Moshe.…"
+        }
+      ],
+      "total": 10
+    },
+    "army": {
+      "count": 11,
+      "verses": [
+        3,
+        4,
+        6,
+        8,
+        9,
+        10,
+        16,
+        18,
+        24,
+        25,
+        32
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…sunrise: the company of the camp of Yehudah, by their ",
+          "hit": "armies",
+          "post": "; and the chieftain of the sons of Yehudah, Nachshon so…"
+        },
+        {
+          "v": 4,
+          "pre": "…His ",
+          "hit": "army",
+          "post": ", and their accounted ones: seventy-four thousand six h…"
+        },
+        {
+          "v": 6,
+          "pre": "…His ",
+          "hit": "army",
+          "post": ", and its accounted ones: fifty-four thousand four hund…"
+        },
+        {
+          "v": 8,
+          "pre": "…His ",
+          "hit": "army",
+          "post": ", and its accounted ones: fifty-seven thousand four hun…"
+        },
+        {
+          "v": 9,
+          "pre": "…one hundred eighty-six thousand four hundred, by their ",
+          "hit": "armies",
+          "post": ". First they shall set out.…"
+        },
+        {
+          "v": 10,
+          "pre": "…The company of the camp of Reuven, southward, by their ",
+          "hit": "armies",
+          "post": "; and the chieftain of the sons of Reuven, Elitsur son…"
+        },
+        {
+          "v": 16,
+          "pre": "…undred fifty-one thousand four hundred fifty, by their ",
+          "hit": "armies",
+          "post": ". Second they shall set out.…"
+        },
+        {
+          "v": 18,
+          "pre": "…The company of the camp of Ephrayim, by their ",
+          "hit": "armies",
+          "post": ", seaward; and the chieftain of the sons of Ephrayim, E…"
+        },
+        {
+          "v": 24,
+          "pre": "…ayim: one hundred eight thousand one hundred, by their ",
+          "hit": "armies",
+          "post": ". Third they shall set out.…"
+        },
+        {
+          "v": 25,
+          "pre": "…The company of the camp of Dan, northward, by their ",
+          "hit": "armies",
+          "post": "; and the chieftain of the sons of Dan, Achiezer son of…"
+        },
+        {
+          "v": 32,
+          "pre": "…’ house; all the accounted ones of the camps, by their ",
+          "hit": "armies",
+          "post": ": six hundred three thousand five hundred fifty.…"
+        }
+      ],
+      "total": 11
+    },
+    "at-a-distance": {
+      "count": 1,
+      "verses": [
+        2
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…ns of their fathers’ house, Yisrael’s sons shall camp; ",
+          "hit": "facing, at a distance",
+          "post": ", all around the Tent of Meeting they shall camp.…"
+        }
+      ],
+      "total": 1
+    },
+    "camp": {
+      "count": 17,
+      "verses": [
+        2,
+        3,
+        5,
+        9,
+        10,
+        16,
+        17,
+        18,
+        24,
+        25,
+        31,
+        32,
+        34
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…he signs of their fathers’ house, Yisrael’s sons shall ",
+          "hit": "camp",
+          "post": "; facing, at a distance, all around the Tent of Meeting…"
+        },
+        {
+          "v": 2,
+          "pre": "…he signs of their fathers’ house, Yisrael’s sons shall ",
+          "hit": "camp",
+          "post": "; facing, at a distance, all around the Tent of Meeting…"
+        },
+        {
+          "v": 3,
+          "pre": "…Those ",
+          "hit": "camping",
+          "post": " frontward, toward the sunrise: the company of the camp…"
+        },
+        {
+          "v": 3,
+          "pre": "…Those ",
+          "hit": "camp",
+          "post": "ing frontward, toward the sunrise: the company of the c…"
+        },
+        {
+          "v": 5,
+          "pre": "…And those ",
+          "hit": "camping",
+          "post": " next to him: the tribe of Yissakhar; and the chieftain…"
+        },
+        {
+          "v": 9,
+          "pre": "…All the accounted ones of the ",
+          "hit": "camp",
+          "post": " of Yehudah: one hundred eighty-six thousand four hundr…"
+        },
+        {
+          "v": 10,
+          "pre": "…The company of the ",
+          "hit": "camp",
+          "post": " of Reuven, southward, by their armies; and the chiefta…"
+        },
+        {
+          "v": 16,
+          "pre": "…All the accounted ones of the ",
+          "hit": "camp",
+          "post": " of Reuven: one hundred fifty-one thousand four hundred…"
+        },
+        {
+          "v": 17,
+          "pre": "…Then the Tent of Meeting shall set out, the ",
+          "hit": "camp",
+          "post": " of the Levites, in the midst of the camps. As they cam…"
+        },
+        {
+          "v": 17,
+          "pre": "…set out, the camp of the Levites, in the midst of the ",
+          "hit": "camps",
+          "post": ". As they camp, so they shall set out, each man at his…"
+        },
+        {
+          "v": 17,
+          "pre": "…Then the Tent of Meeting shall set out, the ",
+          "hit": "camp",
+          "post": " of the Levites, in the midst of the camps. As they cam…"
+        },
+        {
+          "v": 18,
+          "pre": "…The company of the ",
+          "hit": "camp",
+          "post": " of Ephrayim, by their armies, seaward; and the chiefta…"
+        },
+        {
+          "v": 24,
+          "pre": "…All the accounted ones of the ",
+          "hit": "camp",
+          "post": " of Ephrayim: one hundred eight thousand one hundred, b…"
+        },
+        {
+          "v": 25,
+          "pre": "…The company of the ",
+          "hit": "camp",
+          "post": " of Dan, northward, by their armies; and the chieftain…"
+        },
+        {
+          "v": 31,
+          "pre": "…All the accounted ones of the ",
+          "hit": "camp",
+          "post": " of Dan: one hundred fifty-seven thousand six hundred.…"
+        },
+        {
+          "v": 32,
+          "pre": "…by their fathers’ house; all the accounted ones of the ",
+          "hit": "camps",
+          "post": ", by their armies: six hundred three thousand five hund…"
+        },
+        {
+          "v": 34,
+          "pre": "…according to all that Yahweh commanded Moshe: so they ",
+          "hit": "camped",
+          "post": " by their companies, and so they set out, each man by h…"
+        }
+      ],
+      "total": 17
+    },
+    "chieftain": {
+      "count": 6,
+      "verses": [
+        3,
+        5,
+        7,
+        10,
+        18,
+        25
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…mpany of the camp of Yehudah, by their armies; and the ",
+          "hit": "chieftain",
+          "post": " of the sons of Yehudah, Nachshon son of Amminadav.…"
+        },
+        {
+          "v": 5,
+          "pre": "…e camping next to him: the tribe of Yissakhar; and the ",
+          "hit": "chieftain",
+          "post": " of the sons of Yissakhar, Netanel son of Tsuar.…"
+        },
+        {
+          "v": 7,
+          "pre": "…The tribe of Zevulun; and the ",
+          "hit": "chieftain",
+          "post": " of the sons of Zevulun, Eliav son of Chelon.…"
+        },
+        {
+          "v": 10,
+          "pre": "…he camp of Reuven, southward, by their armies; and the ",
+          "hit": "chieftain",
+          "post": " of the sons of Reuven, Elitsur son of Shedeur.…"
+        },
+        {
+          "v": 18,
+          "pre": "…he camp of Ephrayim, by their armies, seaward; and the ",
+          "hit": "chieftain",
+          "post": " of the sons of Ephrayim, Elishama son of Ammihud.…"
+        },
+        {
+          "v": 25,
+          "pre": "…f the camp of Dan, northward, by their armies; and the ",
+          "hit": "chieftain",
+          "post": " of the sons of Dan, Achiezer son of Ammishaddai.…"
+        }
+      ],
+      "total": 6
+    },
+    "company": {
+      "count": 8,
+      "verses": [
+        2,
+        3,
+        10,
+        17,
+        18,
+        25,
+        31,
+        34
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…“Each man by his ",
+          "hit": "company",
+          "post": ", with the signs of their fathers’ house, Yisrael’s son…"
+        },
+        {
+          "v": 3,
+          "pre": "…Those camping frontward, toward the sunrise: the ",
+          "hit": "company",
+          "post": " of the camp of Yehudah, by their armies; and the chief…"
+        },
+        {
+          "v": 10,
+          "pre": "…The ",
+          "hit": "company",
+          "post": " of the camp of Reuven, southward, by their armies; and…"
+        },
+        {
+          "v": 17,
+          "pre": "…they shall set out, each man at his station, by their ",
+          "hit": "companies",
+          "post": ".…"
+        },
+        {
+          "v": 18,
+          "pre": "…The ",
+          "hit": "company",
+          "post": " of the camp of Ephrayim, by their armies, seaward; and…"
+        },
+        {
+          "v": 25,
+          "pre": "…The ",
+          "hit": "company",
+          "post": " of the camp of Dan, northward, by their armies; and th…"
+        },
+        {
+          "v": 31,
+          "pre": "…housand six hundred. Last they shall set out, by their ",
+          "hit": "companies",
+          "post": ".…"
+        },
+        {
+          "v": 34,
+          "pre": "…l that Yahweh commanded Moshe: so they camped by their ",
+          "hit": "companies",
+          "post": ", and so they set out, each man by his clans, by his fa…"
+        }
+      ],
+      "total": 8
+    },
+    "set-out": {
+      "count": 7,
+      "verses": [
+        9,
+        16,
+        17,
+        24,
+        31,
+        34
+      ],
+      "hits": [
+        {
+          "v": 9,
+          "pre": "…ousand four hundred, by their armies. First they shall ",
+          "hit": "set out",
+          "post": ".…"
+        },
+        {
+          "v": 16,
+          "pre": "…four hundred fifty, by their armies. Second they shall ",
+          "hit": "set out",
+          "post": ".…"
+        },
+        {
+          "v": 17,
+          "pre": "…Then the Tent of Meeting shall ",
+          "hit": "set out",
+          "post": ", the camp of the Levites, in the midst of the camps. A…"
+        },
+        {
+          "v": 17,
+          "pre": "…Then the Tent of Meeting shall ",
+          "hit": "set out",
+          "post": ", the camp of the Levites, in the midst of the camps. A…"
+        },
+        {
+          "v": 24,
+          "pre": "…housand one hundred, by their armies. Third they shall ",
+          "hit": "set out",
+          "post": ".…"
+        },
+        {
+          "v": 31,
+          "pre": "…dred fifty-seven thousand six hundred. Last they shall ",
+          "hit": "set out",
+          "post": ", by their companies.…"
+        },
+        {
+          "v": 34,
+          "pre": "…Moshe: so they camped by their companies, and so they ",
+          "hit": "set out",
+          "post": ", each man by his clans, by his fathers’ house.…"
+        }
+      ],
+      "total": 7
+    },
+    "sign": {
+      "count": 1,
+      "verses": [
+        2
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…“Each man by his company, with the ",
+          "hit": "signs",
+          "post": " of their fathers’ house, Yisrael’s sons shall camp; fa…"
+        }
+      ],
+      "total": 1
+    },
+    "tribe-staff": {
+      "count": 2,
+      "verses": [
+        5,
+        7
+      ],
+      "hits": [
+        {
+          "v": 5,
+          "pre": "…And those camping next to him: the ",
+          "hit": "tribe",
+          "post": " of Yissakhar; and the chieftain of the sons of Yissakh…"
+        },
+        {
+          "v": 7,
+          "pre": "…The ",
+          "hit": "tribe",
+          "post": " of Zevulun; and the chieftain of the sons of Zevulun,…"
+        }
+      ],
+      "total": 2
     }
   }
 }

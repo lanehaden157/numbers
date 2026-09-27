@@ -37,6 +37,31 @@
         "4931"
       ],
       "note": "mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18."
+    },
+    "camp": {
+      "ids": [
+        "2583",
+        "4264"
+      ],
+      "note": "ḥanah / maḥaneh, the camp and its camping: the ordered space around the tent whose purity, edge and outside carry the book (5:2–4; 12:14–15; 14:44; 19:3)."
+    },
+    "set-out": {
+      "ids": [
+        "5265"
+      ],
+      "note": "nasaʿ, pulling up stakes: the itinerary verb, first ordered here, first narrated at 10:11–36, and repeated at every station of ch. 33."
+    },
+    "tribe-staff": {
+      "ids": [
+        "4294"
+      ],
+      "note": "maṭṭeh, ‘tribe’ that is literally ‘staff’: ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it."
+    },
+    "chieftain": {
+      "ids": [
+        "5387a"
+      ],
+      "note": "nasiʾ, the tribal heads: offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34)."
     }
   },
   "declined": {}
