@@ -13,10 +13,10 @@
 - Checks: build ok, audit 0 gaps, test 8/8.
 
 ## Takeaways
-- A tracked-thread span inside a `data-verses` table has no data-w and fails validation. The fix is to keep tables free of tracked spans. The audit already counts those verses as covered.
+- Tracked-thread spans inside a `data-verses` table used to fail validation because they had no data-w. Core 0.9.1 (`80642f8`) now treats them as colour-only summary tags, so unit 3's table keeps its colours.
 - Drafts still spell soft pe as f in names, so check names against the ph rule on every port.
 - If Lane picks an unexpected option, a short explanation can change the answer. al pi YHWH did.
 
 ## Open
-- Possible core feature: allow tracked-thread colour in condensed tables, e.g. data-w taken from the declared verses.
+- bible-core `80642f8` (0.9.1) is not pushed yet.
 - Carried over: `CHAT_SIDE_INSTRUCTIONS.md` re-paste. Numbers is not pushed.

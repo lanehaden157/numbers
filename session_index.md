@@ -10,4 +10,4 @@ Read this first. 3 lines max per session.
 - **2026-09-26 (b)**: Unit 2 ported; 7 questions answered (degel = company, ʾotot = signs, pe = ph, both retrofitted into unit 1). Promoted camp/set-out/tribe-staff/chieftain (10 threads).
   Core 0.8.2 colour fix (readable colours first) after three threads came out grey in dark mode. Coordinated with the concurrent core session.
 - **2026-09-27**: Unit 3 ported ("Aharon's line and the Levites in place of the firstborn"). Answered by popup: zar = stranger / strange fire (1:51 retrofitted), redemption price, ʿal pi YHWH literal, 6486 joins account.
-  Promoted stranger, near, holy, firstborn (14 threads). Tracked spans can't sit inside a data-verses table (no data-w), so they were stripped from the table. Audit 0 gaps, test 8/8.
+  Promoted stranger, near, holy, firstborn (14 threads). Core 0.9.1 (bible-core `80642f8`): tracked spans inside a data-verses table are colour-only summary tags, so unit 3's table keeps its colours. Audit 0 gaps, test 8/8.
