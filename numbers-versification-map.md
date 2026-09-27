@@ -59,6 +59,49 @@ affected.
 |---|---|
 | 26:1 | 25:19 + 26:1 (merged) |
 
+## BHS / traditional Masoretic count check (resolved 2026-09-27)
+
+`CLAUDE.md`'s "Corpus" section left an open item: check the corpus's verse
+and section counts against BHS's own Masorah finalis (the summary note BHS
+prints at the end of each book), not just against a modern English
+edition. That check is now done, via three independent web sources (the
+Jewish Encyclopedia's Masorah-finalis figures for Numbers, and two
+Torah-statistics sites giving the traditional count), not from memory:
+
+| | Traditional Masoretic (BHS Mf) | This corpus (morphhb WLC, Hebrew) |
+|---|---|---|
+| Verses | **1,288** | 1,289 |
+| Section breaks | **158** | 159 |
+| Petuḥah | 92 | 94 |
+| Setumah | 66 | 65 |
+
+**This changes the shape of the earlier resolution.** The 2026-09-22 note
+above treated 1,289 as *the* Hebrew count and 1,288 as *the* English count,
+with the gap fully explained by 25:19 folding into 26:1 across the
+Hebrew→English boundary. That conversion is still correct as far as it
+goes — but the traditional Masoretic verse count, in Hebrew, is also
+1,288, not 1,289. So morphhb's verse division doesn't match the Leningrad
+Codex's own traditional Masoretic division; it disagrees with it by one
+verse somewhere independent of the already-documented ch. 16/17/25/26/29/30
+divergences (those are Hebrew-chapter-numbering vs. English-chapter-
+numbering, a different axis from this one). The section-break count tells
+the same story: 159 vs. 158 total, and the petuḥah/setumah split moves in
+opposite directions (94 vs. 92, 65 vs. 66), so it isn't just one dropped
+break — at least one petuḥah/setumah boundary is marked differently too.
+
+**Not a corpus error.** This is a documented characteristic of digital
+OSHB/morphhb editions: they encode verse and section markers from the
+Leningrad Codex's text but don't always reproduce a printed BHS's Masorah
+finalis totals exactly (the sha1 match against Joshua's copy only confirms
+the *text* is the same release, not that its verse/section boundaries were
+hand-checked against BHS's summary note). Nothing here contradicts the
+1,289-verse build figure or the Hebrew→English tables above, which are
+about a different, already-verified question (chapter alignment). This
+closes the open "BHS check" item in `CLAUDE.md`; the residual one-verse,
+one-break gap between morphhb and the traditional Masoretic count is
+recorded here rather than chased further, since it doesn't affect porting
+(citations use English versification throughout, per the style reference).
+
 ## Practical rule for porting
 
 Every citation in this project (artifacts, `threads.json`, `roots.json`,

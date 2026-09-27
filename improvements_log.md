@@ -16,6 +16,9 @@ Append-only. Concrete changes to this book's repo, most recent last.
 - `python -m biblecore leads` produced nothing for unit 1: `data/units.json`'s per-unit rows are only written by `port` (after drafting), but `leads` needs a unit's passage before pass 1. Added a minimal pre-port row for unit 1 (n, slug, passage, title, movement, part, `built: false`) from the literary unit map — `port` will overwrite it in full later. Also found `corpus/lexicon/HebrewStrong.xml` was never set up for this book (glosses all showed "?"); copied it from Joshua's `pipeline/corpus/lexicon/HebrewStrong.xml` (sha1-verified identical, same shared OpenScriptures lexicon). Generated and synced `canon-leads-unit-01.md`.
 
 
+## 2026-09-27
+- Closed the open "BHS check" item from `CLAUDE.md`'s Corpus section: checked the corpus's verse/section counts against BHS's own Masorah finalis (not just an English edition), via independent web sources. Traditional Masoretic count is 1,288 verses / 158 breaks (92 pe + 66 sam) — in Hebrew, not just English — versus this corpus's 1,289 verses / 159 breaks (94 pe + 65 sam). Documented in a new section of `numbers-versification-map.md` and a short addendum to `CLAUDE.md`'s Corpus section: not a corpus error, a known trait of digital OSHB/morphhb verse/section markup diverging slightly from a printed BHS's summary note; doesn't affect porting (English versification throughout).
+
 ## 2026-09-23
 - Unit 1 source artifact failed `port 1 --dry` on `threads.candidates` format: ids written as `"6485 a"` (TSV lemma spelling; validator wants `"6485a"`), refs as `"Num 1:3"` / ranges (validator wants bare `"C:V"`), four candidates had no `ids`. Fixed in `source-artifacts/numbers_01_translation.html` (ids looked up in `Numbers-words.tsv`); dry port now validates.
 - Style reference §2 `candidates[]` now spells out the id/ref formats (strip space from TSV lemma, bare `C:V`, no ranges, always give `ids`) so drafts get it right first time; re-synced.

@@ -69,6 +69,17 @@ against the raw corpus XML and a live ESV read, not from memory. If a count
 drifts on re-fetch, flag it loudly; it likely means the corpus changed, not
 that the earlier count was wrong.
 
+**BHS check (resolved 2026-09-27):** checked against BHS's own Masorah
+finalis (not just an English edition) — traditional count is 1,288 verses,
+158 breaks (92 pe + 66 sam), *also* in Hebrew, sourced independently rather
+than from memory. So morphhb's 1,289/159 doesn't only diverge from English
+versification, it diverges from BHS's own Masorah finalis by one verse and
+one break, on top of the already-documented ch. 16/17/25/26/29/30 axis.
+Not a corpus error — a known trait of digital OSHB/morphhb markup vs. a
+printed BHS's summary note. See `numbers-versification-map.md` for the
+full comparison table; doesn't affect porting (English versification
+throughout).
+
 `Numbers-reading.txt`, `Numbers-words.tsv`, `candidate-boundaries.md` are
 generated (`python -m biblecore corpus`) — don't hand-edit. They keep Hebrew
 numbering. Core converts to English numbering whenever it reads them
