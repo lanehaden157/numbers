@@ -4,7 +4,8 @@
   "roots": {
     "account": {
       "ids": [
-        "6485a"
+        "6485a",
+        "6486"
       ],
       "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)."
     },
@@ -62,6 +63,32 @@
         "5387a"
       ],
       "note": "nasiʾ, the tribal heads: offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34)."
+    },
+    "stranger": {
+      "ids": [
+        "2114a"
+      ],
+      "note": "zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18."
+    },
+    "near": {
+      "ids": [
+        "7126"
+      ],
+      "note": "qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near."
+    },
+    "holy": {
+      "ids": [
+        "6942",
+        "6944",
+        "4720"
+      ],
+      "note": "qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel."
+    },
+    "firstborn": {
+      "ids": [
+        "1060"
+      ],
+      "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
     }
   },
   "declined": {}
