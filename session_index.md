@@ -14,3 +14,4 @@ Read this first. 3 lines max per session.
 - **2026-09-27 (b)**: Closed the open BHS check (`CLAUDE.md` "Corpus"): BHS's own Masorah finalis gives 1,288 verses / 158 breaks for Numbers, in Hebrew — not 1,289/159 as morphhb has it. New section in `numbers-versification-map.md`; not a corpus error, doesn't affect porting.
 - **2026-09-28**: Unit 4 ported (Kehat load, Levite service ages 30–50); all 8 porter questions answered as drafted (tachash skin, most holy things, serve/service, army + 6633).
   Promoted carry, serve, touch, cover, blue (19 threads); nine retro tags into units 1/3. Audit 0 gaps, test 8/8. Not yet browser-checked.
+- **2026-09-29**: Vendored core 0.9.9 (speed only, outputs identical): build 18.6s to about 4.5s, test 9.5s to about 2s. Build and `biblecore test` 8/8.

@@ -57,3 +57,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 - Unit 4 ported ("The Kehat load and the Levite service" per units/unit-04.html). Porter questions all answered as drafted: tachash skin, the most holy things, even for the space of a swallow, set its poles, serve/service throughout; nagash stays out of near; basin textform left out (unverified). Add `6633` (li-tsvo) to `army` (4:23 tagged "enlist").
 - Promoted carry, serve, touch, cover, blue (19 threads); colours assigned one at a time via `biblecore colour` (batch-calling it gives every root the same colour). Applied army/holy/charge/account payoffs at 4:3/4:15/4:27/4:32.
 - "most holy things" split into two spans (qodesh, ha-qodashim) so data-w aligns. Nine retrofit `add` tags in `retrofit/retrofit-tags.json` for carry/serve in units 1 and 3 and the 4:23 verb. Audit 0 gaps, test 8/8.
+
+## 2026-09-29
+- Vendored bible-core 0.9.9 (`2219cb5`, `book.json` core 0.9.9): speed only (audit and leads indexes, caches, one git call for sync-check). Build 18.6s to about 4.5s; output identical. Build ok, test 8/8.
