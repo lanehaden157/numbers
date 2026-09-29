@@ -18,4 +18,4 @@ Keep medieval Jewish commentators and fine-grained grammar in proportion: one vo
 
 How we work
 
-Read `core-workflow.md` (synced folder) at the start of every unit and follow it; `numbers_study_style_reference.md` holds every artifact rule. This field wins where they disagree.
+Read `core-workflow.md` (synced folder) at the start of every unit and follow it; `numbers_study_style_reference.md` holds every artifact rule. This field wins over `core-workflow.md`. If this field and the style reference conflict, flag it to Lane rather than picking one.

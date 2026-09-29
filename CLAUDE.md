@@ -38,25 +38,18 @@ wraps a core function, not by editing `biblecore/`; `python ../bible-core/tools/
 reports edits made there. Update the vendored copy with
 `python ../bible-core/tools/core_sync.py .`.
 
-**Concurrent sessions in `bible-core`.** Another session (book or core work)
-may be editing `../bible-core` at the same time — it's happened twice
-(2026-09-26, 2026-09-27) without incident, but the risk is real: one
-session's `git add -A` can sweep up the other's half-finished edit, or two
-sessions can vendor different versions into the same book back to back. Good
-habits, not hard rules: before editing `../bible-core` directly, `git status`
-it first, and if it's dirty from someone else, work in a worktree
-(`git worktree add`) instead of the shared checkout. Only run
-`core_sync.py` from a clean bible-core commit (the tool already refuses a
-dirty one). After vendoring, check `book.json`'s `core` version against what
-you meant to pull, since a concurrent vendor may have moved main further
-than expected.
+**Concurrent sessions.** Another session may be editing `../bible-core` or this
+repo at the same time. See "Concurrent sessions" in `../bible-core/CLAUDE.md`:
+check `git status` first, work in a worktree if it's dirty, stage explicit
+paths, and check `book.json`'s `core` version after vendoring.
 
 ## Policy files
 
 `data/threads.json` and `data/roots.json` are policy: the porter proposes, a
-human applies. Thread colours come from `python -m biblecore colour`, never
-picked by eye. Claude decides whether a candidate becomes a tracked thread,
-biased toward book-wide, and asks Lane only when genuinely unsure.
+human applies. Who decides whether a candidate becomes a tracked thread is set
+in the style reference §3. Thread colours come from `python -m biblecore colour`
+by default (colours picked by eye collided before); hand-pick one only if Lane
+asks.
 
 ## Asking Lane
 
@@ -71,41 +64,27 @@ across calls. Lane wants this every time.
 **morphhb 2.0.2** — `package.json`/lock, npm-installed 2026-09-22. Its
 `node_modules/morphhb/wlc/Num.xml` is byte-identical (sha1
 `44eebbb1dd93dd680b2427ecb9804f0a750764bc`) to Joshua's pinned copy of the
-same file, so this is the same corpus release Joshua verified.
+same file.
 
 `python -m biblecore corpus` (2026-09-22): **1,289 verses, 16,422 words,
-94 petuḥah + 65 setumah = 159 breaks.** English editions commonly cite 1,288
-verses — **resolved** (2026-09-22) in `numbers-versification-map.md`: five
-chapters (16, 17, 25, 26, 29, 30) diverge, and the net difference is a
-genuine one-verse merge (Hebrew 25:19 folds into English 26:1), checked
-against the raw corpus XML and a live ESV read, not from memory. If a count
-drifts on re-fetch, flag it loudly; it likely means the corpus changed, not
-that the earlier count was wrong.
-
-**BHS check (resolved 2026-09-27):** checked against BHS's own Masorah
-finalis (not just an English edition) — traditional count is 1,288 verses,
-158 breaks (92 pe + 66 sam), *also* in Hebrew, sourced independently rather
-than from memory. So morphhb's 1,289/159 doesn't only diverge from English
-versification, it diverges from BHS's own Masorah finalis by one verse and
-one break, on top of the already-documented ch. 16/17/25/26/29/30 axis.
-Not a corpus error — a known trait of digital OSHB/morphhb markup vs. a
-printed BHS's summary note. See `numbers-versification-map.md` for the
-full comparison table; doesn't affect porting (English versification
-throughout).
+94 petuḥah + 65 setumah = 159 breaks.** English editions, and BHS's own
+Masorah finalis, count 1,288 verses (158 breaks). English versification also
+differs from the Hebrew in chapters 16, 17, 25, 29 and 30. Both are known
+traits of digital OSHB markup, not corpus errors; the checked, explained
+comparison is `numbers-versification-map.md`. It doesn't affect porting
+(English versification throughout). If a count drifts on re-fetch, flag it: it
+likely means the corpus changed.
 
 `Numbers-reading.txt`, `Numbers-words.tsv`, `candidate-boundaries.md` are
-generated (`python -m biblecore corpus`) — don't hand-edit. They keep Hebrew
-numbering. Core converts to English numbering whenever it reads them
-(`book.json` `versification`, default `kjv`), and `corpus` also writes
-`numbers-versification.md`, the generated table of the 46 renumbered
-verses. It matches `numbers-versification-map.md`, which stays as the
-explained version.
-`candidate-boundaries.md` is the raw machine list (Leningrad/OSHB markers
-only, in document order, no interpretation). `numbers-literary-unit-map.md`
-is the authored counterpart: it adds the Aleppo Codex witness and narrative
-judgment on top of that raw list to reach the 38 units and 9 movements. The
-two aren't redundant — the map is built from the list, not a replacement
-for it — so both stay.
+generated (`python -m biblecore corpus`); don't hand-edit them. They keep Hebrew
+numbering, and core converts to English numbering whenever it reads them
+(`book.json` `versification`, default `kjv`). `corpus` also writes
+`numbers-versification.md`, the generated table of the 46 renumbered verses
+(`numbers-versification-map.md` is the explained version).
+`candidate-boundaries.md` is the raw machine list (Leningrad/OSHB markers only,
+in document order). `numbers-literary-unit-map.md` is the authored counterpart:
+it adds the Aleppo Codex witness and narrative judgment to reach the 38 units
+and 9 movements. Both stay.
 
 ## Session files
 

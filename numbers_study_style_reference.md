@@ -238,7 +238,7 @@ unit 1's first draft named eight sources and two repo files.**)**
 
 ---
 
-## 5. Hebrew in English ✎
+## 5. Hebrew in English
 
 **Transliteration** comes only from the core's Hebrew adapter
 (`biblecore/lang/hebrew.py`; its test file is the authoritative definition).
@@ -307,13 +307,6 @@ cases:**
   has a real escalating shape (Jacob/Israel blessed → a king/kingdom exalted
   → the star and sceptre) that's worth surfacing; a chiasm *within* one
   oracle's four lines is not, unless it's actually there.
-- **Type-scenes worth watching for, across units:** the spies' report
-  (13–14) against Joshua and Caleb's minority report — read against the
-  conquest generation's death sentence and the second generation's second
-  chance; Balaam, the outside prophet who cannot curse what Yahweh has
-  blessed (22–24); Zelophehad's daughters' legal petition and its answer
-  (27, closed out at 36) as a real instance of law developing inside the
-  narrative, not handed down complete.
 
 ---
 
@@ -345,44 +338,53 @@ Save as `numbers_NN_translation.html`, zero-padded, and present the file.
 
 ---
 
-## 8. Worked example ✎
+## 8. Worked example
 
-Replace with a minimal, valid example from this book's own unit 1 once it
-exists. Until then the shape is:
+Minimal and valid, abridged from this book's unit 1 (1:1–3). Copy its shape.
 
 ```html
 <article class="unit" data-unit="1">
 <script type="application/json" id="unit-meta">
 {
   "unit": 1,
-  "passage": "Numbers 1:1–10",
-  "title": "Working Title",
+  "passage": "Numbers 1:1–54",
+  "title": "The First Accounting",
   "roots": [
-    { "root": "count", "translit": "paqad", "gloss": "count, muster, attend to",
-      "echo": "Gen 50:24 — 'God will surely attend to you'" }
+    { "root": "polls", "translit": "gulgolet", "gloss": "skull; hence a head counted, per person",
+      "example": "every male, by their skulls",
+      "echo": "Exod 30:12; 38:26 — the same per-head count, paid as a half-shekel ransom so that no plague strikes when Yisrael is counted" }
   ],
-  "threads": { "opens": [], "payoffs": [], "candidates": [], "retro": [] }
+  "threads": {
+    "opens": [
+      { "id": "account", "ref": "1:3",
+        "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)." }
+    ],
+    "payoffs": [],
+    "candidates": [],
+    "retro": []
+  }
 }
 </script>
 
 <header class="mast">
   <div class="kicker">The Book of Numbers · Study Translation</div>
-  <h1>Working Title</h1>
-  <div class="unit">Unit 1 · Numbers 1:1–10</div>
+  <h1>The First Accounting</h1>
+  <div class="unit">Unit 1 · Numbers 1:1–54</div>
 </header>
 
 <section class="block legend" aria-label="color key"><ul></ul></section>
 
-<h3 class="pericope">Heading <span>· 1:1–3</span></h3>
+<h3 class="pericope">Yahweh orders an accounting <span>· 1:1–4</span></h3>
 
-<p class="v"><span class="n">1</span> Verse text with a
-<span class="r" data-root="count">counted</span> word.<sup class="en"><a href="#n1">1</a></sup></p>
-<span class="gloss"><em>counted</em> — a short note.</span>
+<p class="v"><span class="n">2</span> “Lift the head of the whole <span class="r" data-root="community" data-w="04thY">community</span> of Yisrael’s sons — by their clans, by their fathers’ house, by the number of names, every male, by their <span class="r" data-root="polls">skulls</span>.<sup class="en"><a href="#n1">1</a></sup></p>
+<span class="gloss"><em>lift the head</em> — the idiom for taking a sum; <em>by their skulls</em>, head by head.</span>
+
+<p class="v"><span class="n">3</span> From twenty years old and up, everyone going out to the army in Yisrael — y’all shall <span class="r" data-root="account" data-w="04kfX">take account of</span> them by their armies, you and Aharon.</p>
 
 <div class="notes">
   <h2>Notes</h2>
   <ol>
-  <li id="n1"><strong>counted (v1).</strong> The longer discussion.</li>
+  <li id="n1"><strong>fathers’ house (v2).</strong> The count nests three kin-units: tribe, “fathers’ house” (a mid-level lineage), and clan. How the fathers’ house worked socially is debated.</li>
   </ol>
 </div>
 </article>
