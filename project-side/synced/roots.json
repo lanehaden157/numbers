@@ -11,7 +11,8 @@
     },
     "army": {
       "ids": [
-        "6635a"
+        "6635a",
+        "6633"
       ],
       "note": "tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign."
     },
@@ -89,6 +90,40 @@
         "1060"
       ],
       "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
+    },
+    "carry": {
+      "ids": [
+        "5375",
+        "4853a"
+      ],
+      "note": "Counting (lift the head), carrying and the burden are one lexeme; it returns for Moshe's burden and for bearing iniquity."
+    },
+    "serve": {
+      "ids": [
+        "5647",
+        "5656"
+      ],
+      "note": "The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it."
+    },
+    "touch": {
+      "ids": [
+        "5060"
+      ],
+      "note": "The contact line of 4:15 returns in the corpse-contact law and the Midian purification."
+    },
+    "cover": {
+      "ids": [
+        "3680",
+        "3681",
+        "4372"
+      ],
+      "note": "The wrapping verb; the cloud covers the Dwelling (9:15) and the earth covers Korach's company (16:33)."
+    },
+    "blue": {
+      "ids": [
+        "8504"
+      ],
+      "note": "Blue marks the chest on the road and every Israelite's tassel (15:38)."
     }
   },
   "declined": {}
