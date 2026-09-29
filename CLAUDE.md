@@ -38,6 +38,19 @@ wraps a core function, not by editing `biblecore/`; `python ../bible-core/tools/
 reports edits made there. Update the vendored copy with
 `python ../bible-core/tools/core_sync.py .`.
 
+**Concurrent sessions in `bible-core`.** Another session (book or core work)
+may be editing `../bible-core` at the same time — it's happened twice
+(2026-09-26, 2026-09-27) without incident, but the risk is real: one
+session's `git add -A` can sweep up the other's half-finished edit, or two
+sessions can vendor different versions into the same book back to back. Good
+habits, not hard rules: before editing `../bible-core` directly, `git status`
+it first, and if it's dirty from someone else, work in a worktree
+(`git worktree add`) instead of the shared checkout. Only run
+`core_sync.py` from a clean bible-core commit (the tool already refuses a
+dirty one). After vendoring, check `book.json`'s `core` version against what
+you meant to pull, since a concurrent vendor may have moved main further
+than expected.
+
 ## Policy files
 
 `data/threads.json` and `data/roots.json` are policy: the porter proposes, a
