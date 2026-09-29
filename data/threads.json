@@ -30,6 +30,11 @@
           "unit": 3,
           "ref": "3:39",
           "note": "Levi is accounted for from a month old, not twenty: a devoted tribe, not an army, and the count must come out exact."
+        },
+        {
+          "unit": 4,
+          "ref": "4:32",
+          "note": "Counting turns to oversight and inventory: Elazar's oversight (4:16), appointments (4:27), and vessels accounted for by name (4:32)."
         }
       ],
       "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)."
@@ -47,7 +52,13 @@
         "ref": "1:3",
         "note": "tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:3",
+          "note": "The fighting-force word turned to Levite duty: they 'come into the army' to do work at the Tent of Meeting."
+        }
+      ],
       "note": "tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign."
     },
     {
@@ -127,6 +138,11 @@
           "unit": 3,
           "ref": "3:38",
           "note": "The leaders camp at the east entrance 'keeping the charge of the holy place', the most exposed post in the camp."
+        },
+        {
+          "unit": 4,
+          "ref": "4:27",
+          "note": "Charge now names each house's load, assigned and supervised by the priests (4:27–33); Lev 8:35 tied keeping it to not dying."
         }
       ],
       "note": "mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18."
@@ -240,7 +256,13 @@
         "ref": "3:13",
         "note": "qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:15",
+          "note": "Holiness becomes a contact hazard: priests may touch, Levites may only carry, and no one may look (4:15, 20)."
+        }
+      ],
       "note": "qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel."
     },
     {
@@ -258,6 +280,86 @@
       },
       "payoffs": [],
       "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
+    },
+    {
+      "id": "carry",
+      "root": "carry",
+      "translit": "nasaʾ / masaʾ",
+      "gloss": "carry, lift, burden",
+      "color": "#00807c",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 4,
+        "ref": "4:15",
+        "note": "Counting (lift the head), carrying and the burden are one lexeme; it returns for Moshe's burden and for bearing iniquity."
+      },
+      "payoffs": [],
+      "note": "Counting (lift the head), carrying and the burden are one lexeme; it returns for Moshe's burden and for bearing iniquity."
+    },
+    {
+      "id": "serve",
+      "root": "serve",
+      "translit": "ʿavad / ʿavodah",
+      "gloss": "serve, service",
+      "color": "#007da2",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 4,
+        "ref": "4:3",
+        "note": "The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it."
+      },
+      "payoffs": [],
+      "note": "The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it."
+    },
+    {
+      "id": "touch",
+      "root": "touch",
+      "translit": "nagaʿ",
+      "gloss": "touch",
+      "color": "#496fb2",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 4,
+        "ref": "4:15",
+        "note": "The contact line of 4:15 returns in the corpse-contact law and the Midian purification."
+      },
+      "payoffs": [],
+      "note": "The contact line of 4:15 returns in the corpse-contact law and the Midian purification."
+    },
+    {
+      "id": "cover",
+      "root": "cover",
+      "translit": "kasah / miksah",
+      "gloss": "cover, covering",
+      "color": "#557f44",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 4,
+        "ref": "4:6",
+        "note": "The wrapping verb; the cloud covers the Dwelling (9:15) and the earth covers Korach's company (16:33)."
+      },
+      "payoffs": [],
+      "note": "The wrapping verb; the cloud covers the Dwelling (9:15) and the earth covers Korach's company (16:33)."
+    },
+    {
+      "id": "blue",
+      "root": "blue",
+      "translit": "tekhelet",
+      "gloss": "blue",
+      "color": "#aa5a88",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 4,
+        "ref": "4:6",
+        "note": "Blue marks the chest on the road and every Israelite's tassel (15:38)."
+      },
+      "payoffs": [],
+      "note": "Blue marks the chest on the road and every Israelite's tassel (15:38)."
     }
   ]
 }

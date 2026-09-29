@@ -176,6 +176,35 @@
       ],
       "total": 5
     },
+    "carry": {
+      "count": 3,
+      "verses": [
+        2,
+        49,
+        50
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…“",
+          "hit": "Lift",
+          "post": " the head of the whole community of Yisrael’s sons — by…"
+        },
+        {
+          "v": 49,
+          "pre": "…hall not take account of, and their head you shall not ",
+          "hit": "lift",
+          "post": " among Yisrael’s sons.…"
+        },
+        {
+          "v": 50,
+          "pre": "…ts vessels and over all that belongs to it. They shall ",
+          "hit": "carry",
+          "post": " the Dwelling and all its vessels, and they shall serve…"
+        }
+      ],
+      "total": 3
+    },
     "charge": {
       "count": 1,
       "verses": [
@@ -1036,6 +1065,21 @@
       ],
       "total": 1
     },
+    "carry": {
+      "count": 1,
+      "verses": [
+        40
+      ],
+      "hits": [
+        {
+          "v": 40,
+          "pre": "…rn male of the Israelites from a month old and up, and ",
+          "hit": "take up",
+          "post": " the number of their names.…"
+        }
+      ],
+      "total": 1
+    },
     "charge": {
       "count": 5,
       "verses": [
@@ -1415,6 +1459,40 @@
       ],
       "total": 5
     },
+    "serve": {
+      "count": 4,
+      "verses": [
+        7,
+        8
+      ],
+      "hits": [
+        {
+          "v": 7,
+          "pre": "…of the whole community before the Tent of Meeting, to ",
+          "hit": "do",
+          "post": " the work of the Dwelling.…"
+        },
+        {
+          "v": 7,
+          "pre": "…whole community before the Tent of Meeting, to do the ",
+          "hit": "work",
+          "post": " of the Dwelling.…"
+        },
+        {
+          "v": 8,
+          "pre": "…e Tent of Meeting and the charge of the Israelites, to ",
+          "hit": "do",
+          "post": " the work of the Dwelling.…"
+        },
+        {
+          "v": 8,
+          "pre": "…of Meeting and the charge of the Israelites, to do the ",
+          "hit": "work",
+          "post": " of the Dwelling.…"
+        }
+      ],
+      "total": 4
+    },
     "stranger": {
       "count": 3,
       "verses": [
@@ -1455,6 +1533,789 @@
           "pre": "…\"Bring near the ",
           "hit": "tribe",
           "post": " of Levi and station it before Aharon the priest, and t…"
+        }
+      ],
+      "total": 1
+    }
+  },
+  "unit-04": {
+    "account": {
+      "count": 12,
+      "verses": [
+        16,
+        23,
+        27,
+        29,
+        30,
+        32,
+        46,
+        48,
+        49
+      ],
+      "hits": [
+        {
+          "v": 16,
+          "pre": "…And the ",
+          "hit": "oversight",
+          "post": " of Elazar son of Aharon the priest: the oil for the li…"
+        },
+        {
+          "v": 16,
+          "pre": "…And the ",
+          "hit": "oversight",
+          "post": " of Elazar son of Aharon the priest: the oil for the li…"
+        },
+        {
+          "v": 23,
+          "pre": "…irty years old and upward to fifty years old you shall ",
+          "hit": "account for",
+          "post": " them, everyone who comes to enlist in the army, to ser…"
+        },
+        {
+          "v": 27,
+          "pre": "…all their burden and all their service; and you shall ",
+          "hit": "appoint",
+          "post": " to them, as their charge, all their burden.…"
+        },
+        {
+          "v": 29,
+          "pre": "…: by their clans, by their ancestral houses, you shall ",
+          "hit": "account for",
+          "post": " them.…"
+        },
+        {
+          "v": 30,
+          "pre": "…irty years old and upward to fifty years old you shall ",
+          "hit": "account for",
+          "post": " them, everyone who comes into the army to serve the se…"
+        },
+        {
+          "v": 32,
+          "pre": "…sels and for all their service; and by names you shall ",
+          "hit": "account for",
+          "post": " the vessels of the charge of their burden.…"
+        },
+        {
+          "v": 46,
+          "pre": "…All those ",
+          "hit": "accounted for",
+          "post": ", whom Moshe and Aharon and the chieftains of Yisrael a…"
+        },
+        {
+          "v": 46,
+          "pre": "…All those ",
+          "hit": "accounted for",
+          "post": ", whom Moshe and Aharon and the chieftains of Yisrael a…"
+        },
+        {
+          "v": 48,
+          "pre": "…their ",
+          "hit": "accounted",
+          "post": " ones were eight thousand five hundred and eighty.…"
+        },
+        {
+          "v": 49,
+          "pre": "…At the mouth of Yahweh he ",
+          "hit": "accounted for",
+          "post": " them by the hand of Moshe, each man over his service a…"
+        },
+        {
+          "v": 49,
+          "pre": "…At the mouth of Yahweh he ",
+          "hit": "accounted",
+          "post": " for them by the hand of Moshe, each man over his servi…"
+        }
+      ],
+      "total": 13
+    },
+    "army": {
+      "count": 4,
+      "verses": [
+        3,
+        23,
+        30
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…upward to fifty years old, everyone who comes into the ",
+          "hit": "army",
+          "post": " to do work in the Tent of Meeting.…"
+        },
+        {
+          "v": 23,
+          "pre": "…old you shall account for them, everyone who comes to ",
+          "hit": "enlist",
+          "post": " in the army, to serve the service in the Tent of Meeti…"
+        },
+        {
+          "v": 23,
+          "pre": "…account for them, everyone who comes to enlist in the ",
+          "hit": "army",
+          "post": ", to serve the service in the Tent of Meeting.…"
+        },
+        {
+          "v": 30,
+          "pre": "…ou shall account for them, everyone who comes into the ",
+          "hit": "army",
+          "post": " to serve the service of the Tent of Meeting.…"
+        }
+      ],
+      "total": 4
+    },
+    "blue": {
+      "count": 5,
+      "verses": [
+        6,
+        7,
+        9,
+        11,
+        12
+      ],
+      "hits": [
+        {
+          "v": 6,
+          "pre": "…covering of tachash skin and spread a cloth wholly of ",
+          "hit": "blue",
+          "post": " over it, on top, and set its poles.…"
+        },
+        {
+          "v": 7,
+          "pre": "…the table of the Presence they shall spread a cloth of ",
+          "hit": "blue",
+          "post": ", and put on it the dishes, the ladles, the bowls, and…"
+        },
+        {
+          "v": 9,
+          "pre": "…They shall take a cloth of ",
+          "hit": "blue",
+          "post": " and cover the lampstand of the light, and its lamps, a…"
+        },
+        {
+          "v": 11,
+          "pre": "…Over the golden altar they shall spread a cloth of ",
+          "hit": "blue",
+          "post": " and cover it with a covering of tachash skin, and set…"
+        },
+        {
+          "v": 12,
+          "pre": "…nister in the holy place, and put them into a cloth of ",
+          "hit": "blue",
+          "post": ", and cover them with a covering of tachash skin, and p…"
+        }
+      ],
+      "total": 5
+    },
+    "camp": {
+      "count": 2,
+      "verses": [
+        5,
+        15
+      ],
+      "hits": [
+        {
+          "v": 5,
+          "pre": "…When the ",
+          "hit": "camp",
+          "post": " sets out, Aharon and his sons shall come in and take d…"
+        },
+        {
+          "v": 15,
+          "pre": "…things and all the vessels of the holy place, when the ",
+          "hit": "camp",
+          "post": " sets out, after that the sons of Kehat shall come to c…"
+        }
+      ],
+      "total": 2
+    },
+    "carry": {
+      "count": 13,
+      "verses": [
+        2,
+        15,
+        19,
+        22,
+        24,
+        25,
+        27,
+        31,
+        32,
+        47,
+        49
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "",
+          "hit": "Lift",
+          "post": " the head of the sons of Kehat from among the sons of L…"
+        },
+        {
+          "v": 15,
+          "pre": "…p sets out, after that the sons of Kehat shall come to ",
+          "hit": "carry",
+          "post": "; but they shall not touch the holy, and die. These are…"
+        },
+        {
+          "v": 15,
+          "pre": "…they shall not touch the holy, and die. These are the ",
+          "hit": "burden",
+          "post": " of the sons of Kehat in the Tent of Meeting.…"
+        },
+        {
+          "v": 19,
+          "pre": "…e in and set them, each man, to his service and to his ",
+          "hit": "burden",
+          "post": ".…"
+        },
+        {
+          "v": 22,
+          "pre": "",
+          "hit": "Lift",
+          "post": " the head of the sons of Gershon too, by their ancestra…"
+        },
+        {
+          "v": 24,
+          "pre": "…ervice of the clans of the Gershonite: to serve and to ",
+          "hit": "carry",
+          "post": ".…"
+        },
+        {
+          "v": 25,
+          "pre": "…They shall ",
+          "hit": "carry",
+          "post": " the curtains of the Dwelling and the Tent of Meeting,…"
+        },
+        {
+          "v": 27,
+          "pre": "…e service of the sons of the Gershonite, for all their ",
+          "hit": "burden",
+          "post": " and all their service; and you shall appoint to them,…"
+        },
+        {
+          "v": 27,
+          "pre": "…e service of the sons of the Gershonite, for all their ",
+          "hit": "burden",
+          "post": " and all their service; and you shall appoint to them,…"
+        },
+        {
+          "v": 31,
+          "pre": "…And this is the charge of their ",
+          "hit": "burden",
+          "post": ", for all their service in the Tent of Meeting: the fra…"
+        },
+        {
+          "v": 32,
+          "pre": "…u shall account for the vessels of the charge of their ",
+          "hit": "burden",
+          "post": ".…"
+        },
+        {
+          "v": 47,
+          "pre": "…mes to serve the service of service and the service of ",
+          "hit": "burden",
+          "post": " in the Tent of Meeting,…"
+        },
+        {
+          "v": 49,
+          "pre": "…hand of Moshe, each man over his service and over his ",
+          "hit": "burden",
+          "post": "; and his accounted ones, as Yahweh commanded Moshe.…"
+        }
+      ],
+      "total": 13
+    },
+    "charge": {
+      "count": 4,
+      "verses": [
+        27,
+        28,
+        31,
+        32
+      ],
+      "hits": [
+        {
+          "v": 27,
+          "pre": "…their service; and you shall appoint to them, as their ",
+          "hit": "charge",
+          "post": ", all their burden.…"
+        },
+        {
+          "v": 28,
+          "pre": "…ns of the Gershonite in the Tent of Meeting, and their ",
+          "hit": "charge",
+          "post": " is under the hand of Itamar son of Aharon the priest.…"
+        },
+        {
+          "v": 31,
+          "pre": "…And this is the ",
+          "hit": "charge",
+          "post": " of their burden, for all their service in the Tent of…"
+        },
+        {
+          "v": 32,
+          "pre": "…and by names you shall account for the vessels of the ",
+          "hit": "charge",
+          "post": " of their burden.…"
+        }
+      ],
+      "total": 4
+    },
+    "chieftain": {
+      "count": 1,
+      "verses": [
+        46
+      ],
+      "hits": [
+        {
+          "v": 46,
+          "pre": "…All those accounted for, whom Moshe and Aharon and the ",
+          "hit": "chieftains",
+          "post": " of Yisrael accounted for, the Levites, by their clans…"
+        }
+      ],
+      "total": 2
+    },
+    "community": {
+      "count": 0,
+      "verses": [],
+      "hits": [],
+      "total": 1
+    },
+    "cover": {
+      "count": 14,
+      "verses": [
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        14,
+        15,
+        25
+      ],
+      "hits": [
+        {
+          "v": 5,
+          "pre": "…shall come in and take down the screening curtain and ",
+          "hit": "cover",
+          "post": " the chest of the testimony with it.…"
+        },
+        {
+          "v": 6,
+          "pre": "…They shall put on it a ",
+          "hit": "covering",
+          "post": " of tachash skin and spread a cloth wholly of blue over…"
+        },
+        {
+          "v": 8,
+          "pre": "…They shall spread over them a cloth of scarlet and ",
+          "hit": "cover",
+          "post": " it with a covering of tachash skin, and set its poles.…"
+        },
+        {
+          "v": 8,
+          "pre": "…pread over them a cloth of scarlet and cover it with a ",
+          "hit": "covering",
+          "post": " of tachash skin, and set its poles.…"
+        },
+        {
+          "v": 9,
+          "pre": "…They shall take a cloth of blue and ",
+          "hit": "cover",
+          "post": " the lampstand of the light, and its lamps, and its ton…"
+        },
+        {
+          "v": 10,
+          "pre": "…They shall put it and all its vessels into a ",
+          "hit": "covering",
+          "post": " of tachash skin and put it on the carrying frame.…"
+        },
+        {
+          "v": 11,
+          "pre": "…the golden altar they shall spread a cloth of blue and ",
+          "hit": "cover",
+          "post": " it with a covering of tachash skin, and set its poles.…"
+        },
+        {
+          "v": 11,
+          "pre": "…they shall spread a cloth of blue and cover it with a ",
+          "hit": "covering",
+          "post": " of tachash skin, and set its poles.…"
+        },
+        {
+          "v": 12,
+          "pre": "…the holy place, and put them into a cloth of blue, and ",
+          "hit": "cover",
+          "post": " them with a covering of tachash skin, and put them on…"
+        },
+        {
+          "v": 12,
+          "pre": "…d put them into a cloth of blue, and cover them with a ",
+          "hit": "covering",
+          "post": " of tachash skin, and put them on the carrying frame.…"
+        },
+        {
+          "v": 14,
+          "pre": "…vessels of the altar; and they shall spread over it a ",
+          "hit": "covering",
+          "post": " of tachash skin and set its poles.…"
+        },
+        {
+          "v": 15,
+          "pre": "…When Aharon and his sons have finished ",
+          "hit": "covering",
+          "post": " the holy things and all the vessels of the holy place,…"
+        },
+        {
+          "v": 25,
+          "pre": "…curtains of the Dwelling and the Tent of Meeting, its ",
+          "hit": "covering",
+          "post": " and the covering of tachash that is on top of it, and…"
+        },
+        {
+          "v": 25,
+          "pre": "…curtains of the Dwelling and the Tent of Meeting, its ",
+          "hit": "covering",
+          "post": " and the covering of tachash that is on top of it, and…"
+        }
+      ],
+      "total": 14
+    },
+    "holy": {
+      "count": 10,
+      "verses": [
+        4,
+        12,
+        15,
+        16,
+        19,
+        20
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…of the sons of Kehat in the Tent of Meeting: the most ",
+          "hit": "holy",
+          "post": " things.…"
+        },
+        {
+          "v": 4,
+          "pre": "…he sons of Kehat in the Tent of Meeting: the most holy ",
+          "hit": "things",
+          "post": ".…"
+        },
+        {
+          "v": 12,
+          "pre": "…he vessels of ministry with which they minister in the ",
+          "hit": "holy place",
+          "post": ", and put them into a cloth of blue, and cover them wit…"
+        },
+        {
+          "v": 15,
+          "pre": "…When Aharon and his sons have finished covering the ",
+          "hit": "holy things",
+          "post": " and all the vessels of the holy place, when the camp s…"
+        },
+        {
+          "v": 15,
+          "pre": "…ed covering the holy things and all the vessels of the ",
+          "hit": "holy place",
+          "post": ", when the camp sets out, after that the sons of Kehat…"
+        },
+        {
+          "v": 15,
+          "pre": "…When Aharon and his sons have finished covering the ",
+          "hit": "holy",
+          "post": " things and all the vessels of the holy place, when the…"
+        },
+        {
+          "v": 16,
+          "pre": "…ight of all the Dwelling and all that is in it, in the ",
+          "hit": "holy place",
+          "post": " and in its vessels.…"
+        },
+        {
+          "v": 19,
+          "pre": "…t they live and do not die when they approach the most ",
+          "hit": "holy",
+          "post": " things: Aharon and his sons shall come in and set them…"
+        },
+        {
+          "v": 19,
+          "pre": "…y live and do not die when they approach the most holy ",
+          "hit": "things",
+          "post": ": Aharon and his sons shall come in and set them, each…"
+        },
+        {
+          "v": 20,
+          "pre": "…But they shall not come in to see the ",
+          "hit": "holy",
+          "post": ", even for the space of a swallow, and die.…"
+        }
+      ],
+      "total": 10
+    },
+    "serve": {
+      "count": 22,
+      "verses": [
+        4,
+        19,
+        23,
+        24,
+        26,
+        27,
+        28,
+        30,
+        31,
+        32,
+        33,
+        47,
+        49
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…This is the ",
+          "hit": "service",
+          "post": " of the sons of Kehat in the Tent of Meeting: the most…"
+        },
+        {
+          "v": 19,
+          "pre": "…his sons shall come in and set them, each man, to his ",
+          "hit": "service",
+          "post": " and to his burden.…"
+        },
+        {
+          "v": 23,
+          "pre": "…for them, everyone who comes to enlist in the army, to ",
+          "hit": "serve",
+          "post": " the service in the Tent of Meeting.…"
+        },
+        {
+          "v": 23,
+          "pre": "…everyone who comes to enlist in the army, to serve the ",
+          "hit": "service",
+          "post": " in the Tent of Meeting.…"
+        },
+        {
+          "v": 24,
+          "pre": "…This is the ",
+          "hit": "service",
+          "post": " of the clans of the Gershonite: to serve and to carry.…"
+        },
+        {
+          "v": 24,
+          "pre": "…This is the service of the clans of the Gershonite: to ",
+          "hit": "serve",
+          "post": " and to carry.…"
+        },
+        {
+          "v": 26,
+          "pre": "…he altar, and their cords and all the vessels of their ",
+          "hit": "service",
+          "post": ", and all that is to be done with them; so they shall s…"
+        },
+        {
+          "v": 26,
+          "pre": "…e, and all that is to be done with them; so they shall ",
+          "hit": "serve",
+          "post": ".…"
+        },
+        {
+          "v": 27,
+          "pre": "…At the mouth of Aharon and his sons shall be all the ",
+          "hit": "service",
+          "post": " of the sons of the Gershonite, for all their burden an…"
+        },
+        {
+          "v": 27,
+          "pre": "…At the mouth of Aharon and his sons shall be all the ",
+          "hit": "service",
+          "post": " of the sons of the Gershonite, for all their burden an…"
+        },
+        {
+          "v": 28,
+          "pre": "…This is the ",
+          "hit": "service",
+          "post": " of the clans of the sons of the Gershonite in the Tent…"
+        },
+        {
+          "v": 30,
+          "pre": "…account for them, everyone who comes into the army to ",
+          "hit": "serve",
+          "post": " the service of the Tent of Meeting.…"
+        },
+        {
+          "v": 30,
+          "pre": "…or them, everyone who comes into the army to serve the ",
+          "hit": "service",
+          "post": " of the Tent of Meeting.…"
+        },
+        {
+          "v": 31,
+          "pre": "…And this is the charge of their burden, for all their ",
+          "hit": "service",
+          "post": " in the Tent of Meeting: the frames of the Dwelling and…"
+        },
+        {
+          "v": 32,
+          "pre": "…d their cords, for all their vessels and for all their ",
+          "hit": "service",
+          "post": "; and by names you shall account for the vessels of the…"
+        },
+        {
+          "v": 33,
+          "pre": "…This is the ",
+          "hit": "service",
+          "post": " of the clans of the sons of Merari, for all their serv…"
+        },
+        {
+          "v": 33,
+          "pre": "…This is the ",
+          "hit": "service",
+          "post": " of the clans of the sons of Merari, for all their serv…"
+        },
+        {
+          "v": 47,
+          "pre": "…d and upward to fifty years old, everyone who comes to ",
+          "hit": "serve",
+          "post": " the service of service and the service of burden in th…"
+        },
+        {
+          "v": 47,
+          "pre": "…rd to fifty years old, everyone who comes to serve the ",
+          "hit": "service",
+          "post": " of service and the service of burden in the Tent of Me…"
+        },
+        {
+          "v": 47,
+          "pre": "…rd to fifty years old, everyone who comes to serve the ",
+          "hit": "service",
+          "post": " of service and the service of burden in the Tent of Me…"
+        },
+        {
+          "v": 47,
+          "pre": "…rd to fifty years old, everyone who comes to serve the ",
+          "hit": "service",
+          "post": " of service and the service of burden in the Tent of Me…"
+        },
+        {
+          "v": 49,
+          "pre": "…unted for them by the hand of Moshe, each man over his ",
+          "hit": "service",
+          "post": " and over his burden; and his accounted ones, as Yahweh…"
+        }
+      ],
+      "total": 22
+    },
+    "set-out": {
+      "count": 2,
+      "verses": [
+        5,
+        15
+      ],
+      "hits": [
+        {
+          "v": 5,
+          "pre": "…When the camp ",
+          "hit": "sets out",
+          "post": ", Aharon and his sons shall come in and take down the s…"
+        },
+        {
+          "v": 15,
+          "pre": "…s and all the vessels of the holy place, when the camp ",
+          "hit": "sets out",
+          "post": ", after that the sons of Kehat shall come to carry; but…"
+        }
+      ],
+      "total": 2
+    },
+    "swallow": {
+      "count": 1,
+      "verses": [
+        20
+      ],
+      "hits": [
+        {
+          "v": 20,
+          "pre": "…l not come in to see the holy, even for the space of a ",
+          "hit": "swallow",
+          "post": ", and die.…"
+        }
+      ],
+      "total": 1
+    },
+    "tachash": {
+      "count": 7,
+      "verses": [
+        6,
+        8,
+        10,
+        11,
+        12,
+        14,
+        25
+      ],
+      "hits": [
+        {
+          "v": 6,
+          "pre": "…They shall put on it a covering of ",
+          "hit": "tachash",
+          "post": " skin and spread a cloth wholly of blue over it, on top…"
+        },
+        {
+          "v": 8,
+          "pre": "…hem a cloth of scarlet and cover it with a covering of ",
+          "hit": "tachash",
+          "post": " skin, and set its poles.…"
+        },
+        {
+          "v": 10,
+          "pre": "…ey shall put it and all its vessels into a covering of ",
+          "hit": "tachash",
+          "post": " skin and put it on the carrying frame.…"
+        },
+        {
+          "v": 11,
+          "pre": "…spread a cloth of blue and cover it with a covering of ",
+          "hit": "tachash",
+          "post": " skin, and set its poles.…"
+        },
+        {
+          "v": 12,
+          "pre": "…nto a cloth of blue, and cover them with a covering of ",
+          "hit": "tachash",
+          "post": " skin, and put them on the carrying frame.…"
+        },
+        {
+          "v": 14,
+          "pre": "…the altar; and they shall spread over it a covering of ",
+          "hit": "tachash",
+          "post": " skin and set its poles.…"
+        },
+        {
+          "v": 25,
+          "pre": "…the Tent of Meeting, its covering and the covering of ",
+          "hit": "tachash",
+          "post": " that is on top of it, and the screen of the entrance o…"
+        }
+      ],
+      "total": 7
+    },
+    "touch": {
+      "count": 1,
+      "verses": [
+        15
+      ],
+      "hits": [
+        {
+          "v": 15,
+          "pre": "…sons of Kehat shall come to carry; but they shall not ",
+          "hit": "touch",
+          "post": " the holy, and die. These are the burden of the sons of…"
         }
       ],
       "total": 1

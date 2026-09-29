@@ -1,15 +1,15 @@
 # Cross-unit threads — canonical digest
 
-Generated from `data/threads.json` (version 1). 14 threads, 14 open.
+Generated from `data/threads.json` (version 1). 19 threads, 19 open.
 
 **This is the source of truth for thread tagging.** In a unit's fragment, a root that appears in the `id` column below is a *tracked thread*: tag every occurrence `<span class="r" data-root="<id>" data-w="<word id>">…</span>` (the word id from `Numbers-words.tsv`) and list it under `threads.opens` / `threads.payoffs` in the unit-meta block, with a matching id set in `data/roots.json`. A root that is recurring but *not* here is unit-local — tag it with its own name (no `data-w` needed) and just declare it in the unit's own `roots`. To propose promoting a local root to a tracked thread, add it to `threads.candidates` with a one-line reason (the Strong's/lemma `ids` you've actually observed in `Numbers-words.tsv`, plus a few representative `refs`, if you have them). **Claude decides, biased toward book-wide**: a local root that later pays off is worse than a tracked one that doesn't, so promote on a real second sighting. Ask Lane only when genuinely unsure.
 
 | id | root (data-root) | translit | gloss | opens | payoffs | status |
 |---|---|---|---|---|---|---|
-| `account` | `account` | paqad | take account of, attend to; call to account; appoint, put in charge | 1 (1:3) | 2 (2:33) · 3 (3:10) · 3 (3:39) | open |
-| `army` | `army` | tsavaʾ | army, fighting force; organized service | 1 (1:3) | — | open |
+| `account` | `account` | paqad | take account of, attend to; call to account; appoint, put in charge | 1 (1:3) | 2 (2:33) · 3 (3:10) · 3 (3:39) · 4 (4:32) | open |
+| `army` | `army` | tsavaʾ | army, fighting force; organized service | 1 (1:3) | 4 (4:3) | open |
 | `called` | `called` | qaraʾ | call, summon; the summoned ones | 1 (1:16) | — | open |
-| `charge` | `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) | open |
+| `charge` | `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) · 4 (4:27) | open |
 | `community` | `community` | ʿedah | community, assembly gathered as one body | 1 (1:2) | 3 (3:7) | open |
 | `wrath` | `wrath` | qetsef | wrath, anger that breaks out | 1 (1:53) | — | open |
 | `camp` | `camp` | ḥanah | encamp; a camp, the body encamped | 2 (2:2) | — | open |
@@ -17,23 +17,33 @@ Generated from `data/threads.json` (version 1). 14 threads, 14 open.
 | `set-out` | `set-out` | nasaʿ | pull up stakes, set out, march | 2 (2:9) | — | open |
 | `tribe-staff` | `tribe-staff` | maṭṭeh | staff; a tribe | 2 (2:5) | — | open |
 | `firstborn` | `firstborn` | bekhor | firstborn | 3 (3:12) | — | open |
-| `holy` | `holy` | qadash | holy; set apart; the holy place | 3 (3:13) | — | open |
+| `holy` | `holy` | qadash | holy; set apart; the holy place | 3 (3:13) | 4 (4:15) | open |
 | `near` | `near` | qarav | draw near; bring near, present | 3 (3:4) | — | open |
 | `stranger` | `stranger` | zar | stranger, one not authorized; strange, unsanctioned | 3 (3:4) | — | open |
+| `blue` | `blue` | tekhelet | blue | 4 (4:6) | — | open |
+| `carry` | `carry` | nasaʾ / masaʾ | carry, lift, burden | 4 (4:15) | — | open |
+| `cover` | `cover` | kasah / miksah | cover, covering | 4 (4:6) | — | open |
+| `serve` | `serve` | ʿavad / ʿavodah | serve, service | 4 (4:3) | — | open |
+| `touch` | `touch` | nagaʿ | touch | 4 (4:15) | — | open |
 
 ## Notes per thread
 
 - **`account`**: paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29).
 - **`army`**: tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign.
+- **`blue`**: Blue marks the chest on the road and every Israelite's tassel (15:38).
 - **`called`**: ‘The summoned of the community’ opens here and returns for Korach’s company and in the second census’s note on Datan and Aviram (16:2; 26:9).
 - **`camp`**: ḥanah / maḥaneh, the camp and its camping: the ordered space around the tent whose purity, edge and outside carry the book (5:2–4; 12:14–15; 14:44; 19:3).
+- **`carry`**: Counting (lift the head), carrying and the burden are one lexeme; it returns for Moshe's burden and for bearing iniquity.
 - **`charge`**: mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18.
 - **`chieftain`**: nasiʾ, the tribal heads: offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34).
 - **`community`**: ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2).
+- **`cover`**: The wrapping verb; the cloud covers the Dwelling (9:15) and the earth covers Korach's company (16:33).
 - **`firstborn`**: bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4.
 - **`holy`**: qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel.
 - **`near`**: qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near.
+- **`serve`**: The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it.
 - **`set-out`**: nasaʿ, pulling up stakes: the itinerary verb, first ordered here, first narrated at 10:11–36, and repeated at every station of ch. 33.
 - **`stranger`**: zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18.
+- **`touch`**: The contact line of 4:15 returns in the corpse-contact law and the Midian purification.
 - **`tribe-staff`**: maṭṭeh, ‘tribe’ that is literally ‘staff’: ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it.
 - **`wrath`**: The Levite cordon keeps wrath off the community; the word returns when the cordon is breached (16:46; 18:5).

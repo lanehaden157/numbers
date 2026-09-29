@@ -12,3 +12,5 @@ Read this first. 3 lines max per session.
 - **2026-09-27**: Unit 3 ported ("Aharon's line and the Levites in place of the firstborn"). Answered by popup: zar = stranger / strange fire (1:51 retrofitted), redemption price, ʿal pi YHWH literal, 6486 joins account.
   Promoted stranger, near, holy, firstborn (14 threads). Core 0.9.1 (bible-core `80642f8`): tracked spans inside a data-verses table are colour-only summary tags, so unit 3's table keeps its colours. Audit 0 gaps, test 8/8.
 - **2026-09-27 (b)**: Closed the open BHS check (`CLAUDE.md` "Corpus"): BHS's own Masorah finalis gives 1,288 verses / 158 breaks for Numbers, in Hebrew — not 1,289/159 as morphhb has it. New section in `numbers-versification-map.md`; not a corpus error, doesn't affect porting.
+- **2026-09-28**: Unit 4 ported (Kehat load, Levite service ages 30–50); all 8 porter questions answered as drafted (tachash skin, most holy things, serve/service, army + 6633).
+  Promoted carry, serve, touch, cover, blue (19 threads); nine retro tags into units 1/3. Audit 0 gaps, test 8/8. Not yet browser-checked.

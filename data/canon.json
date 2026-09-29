@@ -456,6 +456,222 @@
       "unit": 3,
       "note": "root redemption",
       "source": "echo"
+    },
+    {
+      "from": "Num 4:3",
+      "to": "1 Chr 23:24–27",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:3",
+      "to": "1 Chr 23:3",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:3",
+      "to": "2 Chr 35:3",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:5",
+      "to": "Exod 26:33",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:5",
+      "to": "Exod 40:21",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:5",
+      "to": "Exod 40:3",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:5",
+      "to": "Heb 10:19–20",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:5",
+      "to": "Heb 10:20",
+      "kind": "echo",
+      "unit": 4,
+      "note": "Entry 'through the curtain' read against the curtain that wraps the chest.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 4:6",
+      "to": "Exod 28:31",
+      "kind": "echo",
+      "unit": 4,
+      "note": "root blue",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:14",
+      "to": "2 Kgs 25:14–15",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:14",
+      "to": "Ezra 1:7–11",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:14",
+      "to": "Ezra 8:28",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:14",
+      "to": "Isa 52:11",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:14",
+      "to": "Jer 52:18–19",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:15",
+      "to": "1 Chr 15:13–15",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:15",
+      "to": "1 Chr 15:2",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:15",
+      "to": "2 Sam 6:6–7",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:15",
+      "to": "Exod 19:12",
+      "kind": "allusion",
+      "unit": 4,
+      "note": "Sinai's touch-and-die limit, taken up for the holy things on the road.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 4:16",
+      "to": "Lev 16:12–13",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:20",
+      "to": "1 Sam 6:19",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:20",
+      "to": "Exod 19:12",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:20",
+      "to": "Exod 19:21",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:20",
+      "to": "Exod 33:20",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:26",
+      "to": "Isa 33:20",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:26",
+      "to": "Isa 54:2",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:26",
+      "to": "Jer 10:20",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 4:32",
+      "to": "Exod 38:21",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
     }
   ],
   "typescenes": [
@@ -486,6 +702,13 @@
       "ref": "Num 3:40",
       "unit": 3,
       "note": "Yisrael's firstborn accounted for, to be matched against the Levites.",
+      "source": "meta"
+    },
+    {
+      "id": "census",
+      "ref": "Num 4:2",
+      "unit": 4,
+      "note": "A working-age count of the Levite houses, done 'at the mouth of Yahweh' (4:37, 41, 45, 49).",
       "source": "meta"
     }
   ]

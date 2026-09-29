@@ -52,3 +52,8 @@ Append-only. Concrete changes to this book's repo, most recent last.
 - Unit 3 fixes: tagged camp (3:38) and tribe-staff (3:6); stripped tracked-thread spans from the 3:21–37 table, since core can't give table words a data-w (same as unit 1's table); soft pe → ph (Elyasaph, Elitsaphan, Tselophchad).
 - Build ok, audit 0 gaps / 0 missing data-w across 14 threads, test 8/8, browser-checked in dark mode.
 - bible-core `80642f8` (core 0.9.1): tracked-thread spans inside a `data-verses` component need no `data-w` (summary tags; a data-w given there is still audited). Checklist 7 and the audit's missing-data-w skip them; list/itin snippets, template style reference and ARCHITECTURE updated; core tests 233/233. Vendored into Numbers from a clean worktree (another session had uncommitted core.css); `book.json` core → 0.9.1. Unit 3's table colour spans restored and re-ported.
+
+## 2026-09-28
+- Unit 4 ported ("The Kehat load and the Levite service" per units/unit-04.html). Porter questions all answered as drafted: tachash skin, the most holy things, even for the space of a swallow, set its poles, serve/service throughout; nagash stays out of near; basin textform left out (unverified). Add `6633` (li-tsvo) to `army` (4:23 tagged "enlist").
+- Promoted carry, serve, touch, cover, blue (19 threads); colours assigned one at a time via `biblecore colour` (batch-calling it gives every root the same colour). Applied army/holy/charge/account payoffs at 4:3/4:15/4:27/4:32.
+- "most holy things" split into two spans (qodesh, ha-qodashim) so data-w aligns. Nine retrofit `add` tags in `retrofit/retrofit-tags.json` for carry/serve in units 1 and 3 and the 4:23 verb. Audit 0 gaps, test 8/8.

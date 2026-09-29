@@ -303,7 +303,47 @@
       "title": "Carrying the holy things",
       "movement": 1,
       "part": 1,
-      "built": false
+      "built": true,
+      "roots": {
+        "carry": {
+          "color": "#55642f",
+          "translit": "nasaʾ",
+          "gloss": "lift, carry, bear; a load, a burden",
+          "example": "the sons of Kehat shall come to carry"
+        },
+        "serve": {
+          "color": "#3d6b4a",
+          "translit": "ʿavad",
+          "gloss": "serve, work; service, the work assigned"
+        },
+        "touch": {
+          "color": "#9c5a1e",
+          "translit": "nagaʿ",
+          "gloss": "touch, reach, lay hold of"
+        },
+        "cover": {
+          "color": "#2f4f7a",
+          "translit": "kasah",
+          "gloss": "cover; a covering, a wrapping"
+        },
+        "blue": {
+          "color": "#005847",
+          "translit": "tekelet",
+          "gloss": "blue-violet dyed cloth or thread",
+          "echo": "Exod 28:31 — the same 'wholly blue' makes the high priest's robe; 15:38 later puts a thread of it on every Israelite's tassel"
+        },
+        "tachash": {
+          "color": "#5a5a9c",
+          "translit": "taḥash",
+          "gloss": "a skin or leather of uncertain kind, the outer weatherproof layer"
+        },
+        "swallow": {
+          "color": "#7f5482",
+          "translit": "balaʿ",
+          "gloss": "swallow; here, the space of a swallow, an instant"
+        }
+      },
+      "contract": "0.9.7"
     },
     {
       "n": 5,
