@@ -113,6 +113,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 - *Grid:* Aligns.
 - *Commentators:* Levine takes ch. 6 as one Part.
 - *Legal handling — stands alone.* The unit moves from lay holiness (the Nazirite vow) to the priests putting the Name on Israel (6:27). It is a hinge: A's weak break at 6:27/7:1 invites reading the blessing together with the tabernacle's consecration. Flag that connection in pass 1 of U07.
+- *Note:* The blessing's later use in liturgy is an intertext-pass lead.
 
 **U07 · 7:1–89 · The chieftains' gifts and the Voice above the cover**
 - *Markers:* S after 7:11, then a petuhah after each day's offering (7:17 through 7:83), then after 7:88 and after 7:89.
@@ -139,6 +140,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 - *Grid:* **Diverges.** The unit starts mid-chapter.
 - *Commentators:* Levine splits the unit at 10:28/29 and takes 10:29–12:16 as "Encounters and Experiences." Constable's "Departure" is the whole chapter.
 - *Why here:* Narrative logic follows the date at 10:11 and the strong break after 10:36. Hobab (10:29–32) and the ark going ahead (10:33–36) are the last scenes before complaint begins.
+- *Note:* Psalm 68:1 reuses the ark saying (10:35–36). This is an intertext-pass lead.
 
 **U11 · 11:1–35 · Craving: fire, quail, and seventy elders**
 - *Markers:* P after 11:15, P after 11:22, P after 11:35.
@@ -157,11 +159,12 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 - *Grid:* **Diverges.** The unit crosses the 13|14 chapter break.
 - *Commentators:* Levine takes 13–14 as one Part. Constable's section runs across chs. 11–20.
 - *Why here:* The break sits at the climax, where the people are about to stone Joshua and Caleb and the *kavod* ("glory") intervenes. It separates the human crisis from the divine response.
+- *Note:* The report is a type-scene: the spies' majority report set against Joshua and Caleb's dissent.
 
 **U14 · 14:11–45 · Intercession, sentence, and the failed assault**
 - *Markers:* P after 14:25, P after 14:45.
 - *Grid:* The unit starts mid-chapter.
-- *Why here:* This unit is the thematic centre of the book. Moses quotes Exod 34:6–7 back to God (14:18). The forty-years sentence is declared "a year for each day." The unit ends in defeat at Hormah (14:45), which U21 reverses. The Exodus 32–34 intercession is the controlling intertext, and Psalm 95 and Hebrews 3–4 read this chapter later.
+- *Why here:* This unit is the thematic centre of the book. Moses quotes Exod 34:6–7 back to God (14:18). The forty-years sentence is declared "a year for each day." The unit ends in defeat at Hormah (14:45), which U21 reverses. The Exodus 32–34 intercession is the controlling intertext, and Psalm 95 and Hebrews 3:7–4:11 read this chapter's unbelief later.
 
 **U15 · 15:1–41 · "When you come into the land": offerings, sin, and tassels**
 - *Markers:* P after 15:16, S after 15:21, S after 15:26, P after 15:31, S after 15:34, P after 15:36, P after 15:41.
@@ -175,6 +178,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 - *Markers:* L has petuhot after 16:19, 16:22, and 16:35. A has setumot at all three and no major break until 16:40.
 - *Grid:* Aligns.
 - *Commentators:* Levine takes 16–17 as one Part, "The Korah Incident."
+- *Note:* Jude 11 reads Korah's rebellion later.
 
 **U17 · 16:36–17:13 [Heb 17:1–28] · Two memorials: bronze plating and the budding staff**
 - *Markers:* L has P after 16:43 [Heb 17:8], P after 16:50 [Heb 17:15], S after 17:9 [Heb 17:24], S after 17:11 [Heb 17:26], and S after 17:13 [Heb 17:28]. **A has a petuhah after 16:40 [Heb 17:5] that L lacks**, and a setumah (not a petuhah) after 16:43.
@@ -209,7 +213,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 - *Markers:* S after 21:16, P after 21:20.
 - *Grid:* The unit starts mid-chapter.
 - *Why here:* This is the last complaint story (21:4–9), followed by an itinerary laced with poetry: the "Book of the Wars of the LORD" (21:14–15) and the well song (21:17–18).
-- *Note:* NT reception is central (John 3:14), as is later reuse in 2 Kgs 18:4 (Nehushtan).
+- *Note:* NT reception is central (John 3:14–15), as is later reuse in 2 Kgs 18:4 (Nehushtan).
 
 **U23 · 21:21–22:1 · Sihon and Og; arrival on the plains of Moab**
 - *Markers:* There are no breaks from 21:21 until the setumah after 22:1.
@@ -219,6 +223,8 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 #### VI. On the plains of Moab: Balaam and Peor (22:2–25:18)
 
 The Masoretic text treats **22:2–24:25 as a single unbroken open paragraph** (setumah after 22:1, petuhah after 24:25). The five units below divide it for session size. They follow the story's own markers: scene changes, and the oracle formula *wayyissa' meshalo* ("he took up his discourse," 23:7, 18; 24:3, 15, 20, 21, 23). This is one of the two stretches where Rashi gets real weight. Levine takes 22–24 as one Part.
+
+The block's type-scene is the outside prophet compelled to bless (compare Gen 12:3). The New Testament reads Balaam later in 2 Pet 2:15–16, Jude 11, and Rev 2:14; search these in the intertext pass of every unit here, not only where they are noted (U25, U28).
 
 **U24 · 22:2–21 · Balak's summons**
 - *Why here:* Two embassies. In both, God says what Balaam may do. The unit ends with Balaam setting out.
@@ -251,7 +257,7 @@ The Masoretic text treats **22:2–24:25 as a single unbroken open paragraph** (
 - *Markers:* S after 27:5, where Moses brings the case before the LORD; the scroll tradition also enlarges a letter in this verse. S after 27:11. L has a petuhah after 27:14 where A has a setumah. P after 27:23.
 - *Grid:* Aligns.
 - *Commentators:* Levine takes ch. 27 as one Part.
-- *Why here:* Two continuity problems face the new generation: land passing through daughters, and leadership passing to Joshua. The unit opens an **inclusio with U38** (ch. 36), which brackets the legal material of Part Two. "Like sheep that have no shepherd" (27:17) is heard again in 1 Kgs 22:17, Ezek 34, and Matt 9:36.
+- *Why here:* Two continuity problems face the new generation: land passing through daughters, and leadership passing to Joshua. The daughters' case is a type-scene: a legal petition that changes the law. The unit opens an **inclusio with U38** (ch. 36), which brackets the legal material of Part Two. "Like sheep that have no shepherd" (27:17) is heard again in 1 Kgs 22:17, Ezek 34, and Matt 9:36.
 
 **U31 · 28:1–29:40 [Heb 28:1–30:1] · The calendar of public offerings**
 - *Markers:* There is a paragraph for each occasion. The main break is P after 28:31, which divides the daily/Sabbath/new-moon/spring festivals from the seventh-month festivals. The unit ends at P after Heb 30:1 (= Eng 29:40).
@@ -299,4 +305,4 @@ The Masoretic text treats **22:2–24:25 as a single unbroken open paragraph** (
 **U38 · 36:1–13 · Zelophehad's daughters again; colophon**
 - *Markers:* There are no internal breaks. The book ends with the colophon at 36:13, which contains the final "plains of Moab" notice.
 - *Grid:* Aligns.
-- *Why here:* This closes the inclusio with U30, and inheritance (*nachalah*) gets the book's last word. Josh 17:3–6 carries the story forward.
+- *Why here:* This closes the inclusio with U30 and repeats its type-scene (a second legal petition changes the law again), and inheritance (*nachalah*) gets the book's last word. Josh 17:3–6 carries the story forward.
