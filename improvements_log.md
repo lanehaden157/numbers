@@ -77,3 +77,7 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-09-30 (structural audit step 5)
 - CI workflow + template drift pass, c792c12: CLAUDE.md --template line + CI line, theme.css header (was stale), style ref data-verses clause (§2) and paragraph (§4), synced `4bbb10c`. book.json template -> `39fca4f`. Test 8/8 locally and on Actions.
+
+## 2026-09-30 (lens notes move)
+- `CHAT_SIDE_INSTRUCTIONS.md` 415 -> 364 words: the forward-reuse and type-scene bullets (each item matters in one unit) moved out; "not filler" bullet cut to one sentence; new pointer bullet sends the chat side to the unit's entry in the unit map before pass 1. Needs a re-paste.
+- `numbers-literary-unit-map.md` now carries those leads at their units: U06 (blessing in liturgy), U10 (Ps 68:1), U13 (spies' report type-scene), U14 (Heb 3:7–4:11), U16 (Jude 11), U22 (John 3:14–15), movement VI intro (outside prophet compelled to bless; 2 Pet 2:15–16, Jude 11, Rev 2:14), U30/U38 (legal petition that changes the law). `units-from-map --dry`: 38 rows untouched. Test 8/8.
