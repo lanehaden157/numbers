@@ -61,3 +61,7 @@ Append-only. Concrete changes to this book's repo, most recent last.
 ## 2026-09-29
 - Vendored bible-core 0.9.9 (`2219cb5`, `book.json` core 0.9.9): speed only (audit and leads indexes, caches, one git call for sync-check). Build 18.6s to about 4.5s; output identical. Build ok, test 8/8.
 - Instruction-file review, each change approved by Lane (`../instructions_review_2026-09-29.md`, R8, R12, R18, R19, R21, R22, R25, R30): CLAUDE.md (concurrent-sessions paragraph now a pointer to core CLAUDE.md, policy paragraph points to style reference §3 with colours as a default, Corpus section cut to pin + counts + pointer; chapter list fixed: 16, 17, 25, 29, 30 not 26). Style reference: §8 is now a real abridged unit 1 example (`biblecore test` example check ok), type-scene bullet dropped from the genre cautions (kept in the chat-side field), §5 ✎ dropped. CHAT_SIDE_INSTRUCTIONS: one precedence sentence (needs a re-paste). project-side README: sync pushes on its own, run when Lane OKs. Numbers `biblecore test --quick` 8/8. Uncommitted; mirror not synced yet.
+
+## 2026-09-29 (structural audit step 1)
+- `.gitattributes` (`* text=auto eol=lf`, from the template; `b782b81`); working copy re-checked out LF. Vendored core 0.9.10 (`a38d235`; `b138613`): every core writer writes LF, plus core `b625d80`'s canon file wording. Build changes no files; test 8/8.
+- `CHAT_SIDE_INSTRUCTIONS.md` trimmed 595 -> 415 words (`c409ae4`): cut the canon-leads framing core-workflow.md already gives, process notes, the ANE bullet, the priestly example list. Needs a re-paste.
