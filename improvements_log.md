@@ -68,3 +68,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-09-29 (structural audit step 2)
 - Vendored core 0.10.0 (`561e618`; `57d69a2`): `book.json` `sync` -> `{"extra": [], "skip": []}` (core supplies the defaults; resolved list unchanged, 17 files). CLAUDE.md State line -> `python -m biblecore book`; commands cut to the everyday six. project-side README: extras/skips, pruning. Build changed only version stamps; test 8/8. Synced `331e4bc` (index row order).
+
+## 2026-09-29 (structural audit step 3)
+- Vendored core 0.11.0 (`59068a9`; `a1a555c`): the app shell is written by `assets` from `biblecore/web/`, content-hash `?v=` replaces the hand-bumped `?v=N`. Shell diff only ?v values + generated-file comments. CLAUDE.md "Site" section. Test 8/8.
