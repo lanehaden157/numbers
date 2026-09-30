@@ -42,6 +42,16 @@ repo at the same time. See "Concurrent sessions" in `../bible-core/CLAUDE.md`:
 check `git status` first, work in a worktree if it's dirty, stage explicit
 paths, and check `book.json`'s `core` version after vendoring.
 
+## Site
+
+The build's `assets` step writes the app shell (`index.html`, `app/*.js`) and
+`css/core.css`, `components.css`, `division.css` from bible-core, with the
+book name filled in and a content hash on every link. Each one says
+"generated, don't edit", and `python -m biblecore test` reports a hand edit.
+This book's look is `css/theme.css` plus the `book.json` settings (groupings,
+components, theme). A change to the shell itself goes into bible-core's
+`biblecore/web/` and reaches the book with the next vendor and build.
+
 ## Policy files
 
 `data/threads.json` and `data/roots.json` are policy: the porter proposes, a
