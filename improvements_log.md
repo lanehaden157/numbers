@@ -65,3 +65,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 ## 2026-09-29 (structural audit step 1)
 - `.gitattributes` (`* text=auto eol=lf`, from the template; `b782b81`); working copy re-checked out LF. Vendored core 0.9.10 (`a38d235`; `b138613`): every core writer writes LF, plus core `b625d80`'s canon file wording. Build changes no files; test 8/8.
 - `CHAT_SIDE_INSTRUCTIONS.md` trimmed 595 -> 415 words (`c409ae4`): cut the canon-leads framing core-workflow.md already gives, process notes, the ANE bullet, the priestly example list. Needs a re-paste.
+
+## 2026-09-29 (structural audit step 2)
+- Vendored core 0.10.0 (`561e618`; `57d69a2`): `book.json` `sync` -> `{"extra": [], "skip": []}` (core supplies the defaults; resolved list unchanged, 17 files). CLAUDE.md State line -> `python -m biblecore book`; commands cut to the everyday six. project-side README: extras/skips, pruning. Build changed only version stamps; test 8/8. Synced `331e4bc` (index row order).

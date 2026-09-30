@@ -18,3 +18,4 @@ Read this first. 3 lines max per session.
 - **2026-09-29 (instructions review)**: Lane-approved cleanups from the cross-repo instruction-file review (CLAUDE.md, style reference §8 real example, chat-side field precedence line, project-side README). Uncommitted; chat-side field needs a re-paste.
   Flags and decisions: `../instructions_review_2026-09-29.md`.
 - **2026-09-29 (audit step 1)**: `.gitattributes` (LF), core 0.9.10 (writers write LF; build now changes no files). Instruction field trimmed 595->415 words (Lane: cut deeper). Test 8/8; pushed + synced. Needs a re-paste, then `sync-check --mark-pasted`.
+- **2026-09-29 (audit step 2)**: Core 0.10.0: `book.json` sync is now extras/skips on core's defaults (Numbers: none; same 17 files), `python -m biblecore book` shows state (CLAUDE.md points there), everyday command list. Test 8/8; pushed + synced. Field paste still pending. See ../session_summary_2026-09-29_step2.md.
