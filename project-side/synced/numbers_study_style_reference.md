@@ -67,7 +67,7 @@ suffixed id (`2416e`) claims exactly one.
 <span class="r" data-root="devote" data-w="068w5">devoted</span>
 ```
 
-Local roots don't need `data-w`. **You never hand-chase word ids**: the porter
+Local roots don't need `data-w`, and neither do tracked spans inside a `data-verses` component (a condensed table cell is a colour-only summary tag). **You never hand-chase word ids**: the porter
 fills them by per-verse alignment and reports the few it can't decide.
 
 **Never hand-type Hebrew; pull by word id. (learned:** NFC normalisation alone
@@ -184,6 +184,15 @@ its snippet.
 | pericope heading | `<h3 class="pericope">Title <span>· 6:1–7</span></h3>` | `· C:V` range required |
 | legend | `<section class="block legend" aria-label="color key"><ul></ul></section>` | **required, even as an empty stub** |
 | notes | `<div class="notes"><h2>Notes</h2><ol><li id="n3"><strong>hid him (v4).</strong> …</li></ol></div>` | every `href` resolves to an `id` in the fragment |
+
+**`data-verses`**: any component that presents verses *in place of*
+verse-by-verse text (a table that condenses a repeated formula, say) carries
+`data-verses="C:V–V"` (or `C:V–C:V`) naming exactly the verses it replaces.
+Tracked-thread occurrences in those verses are then reported as covered by
+the component, not as untagged gaps. The build fails if a declared verse is
+also written out as a `p.v`, or if the range reaches outside the unit's
+passage, so the declaration can't quietly excuse text a reader actually sees.
+Say in the pericope's gloss that the verses are condensed.
 
 **Where Numbers uses each optional component** (markup and rules in
 `components-reference.md`):
