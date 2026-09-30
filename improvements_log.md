@@ -71,3 +71,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-09-29 (structural audit step 3)
 - Vendored core 0.11.0 (`59068a9`; `a1a555c`): the app shell is written by `assets` from `biblecore/web/`, content-hash `?v=` replaces the hand-bumped `?v=N`. Shell diff only ?v values + generated-file comments. CLAUDE.md "Site" section. Test 8/8.
+
+## 2026-09-30 (structural audit step 4)
+- Core 0.11.1 (`4cde316`) by `tools/core_sync.py --all` (`5edadbf`, 13 files). book.json `template: ecd5bf6` (`060a09f`), read by `core_diff.py --template`. Test 8/8.
