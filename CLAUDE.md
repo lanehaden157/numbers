@@ -31,11 +31,18 @@ status), read from its data. It isn't written here, so it can't go stale.
 thread, `leads`, `units-from-map`, `corpus`, `migrate` after re-vendoring,
 `sync-check --mark-pasted` after pasting the instruction field.
 
+GitHub Actions runs `python -m biblecore test` on every push
+(`.github/workflows/tests.yml`, shipped unchanged by bible-core's template;
+commits touching only `project-side/` or session files skip it).
+
 `book.json` holds everything book-specific (closed keys: an unknown key is an
 error). Change behaviour for this book by adding a book-local module that
 wraps a core function, not by editing `biblecore/`; `python ../bible-core/tools/core_diff.py`
 reports edits made there. Update the vendored copy with
-`python ../bible-core/tools/core_sync.py .`.
+`python ../bible-core/tools/core_sync.py .` (a core release does this for
+every book). `python ../bible-core/tools/core_diff.py . --template` shows the
+template changes this book hasn't taken (optional; `--set-base` after
+taking them).
 
 **Concurrent sessions.** Another session may be editing `../bible-core` or this
 repo at the same time. See "Concurrent sessions" in `../bible-core/CLAUDE.md`:
