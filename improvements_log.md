@@ -74,3 +74,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-09-30 (structural audit step 4)
 - Core 0.11.1 (`4cde316`) by `tools/core_sync.py --all` (`5edadbf`, 13 files). book.json `template: ecd5bf6` (`060a09f`), read by `core_diff.py --template`. Test 8/8.
+
+## 2026-09-30 (structural audit step 5)
+- CI workflow + template drift pass, c792c12: CLAUDE.md --template line + CI line, theme.css header (was stale), style ref data-verses clause (§2) and paragraph (§4), synced `4bbb10c`. book.json template -> `39fca4f`. Test 8/8 locally and on Actions.
