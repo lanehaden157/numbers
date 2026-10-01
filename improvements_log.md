@@ -84,3 +84,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-10-01 (Greek pass 1)
 - Core 0.12.0 (`dea9975`) by `core_sync --all`, `76f2f2a` (10 files: vendored core incl. new fetch.py, book.json core, manifest). Test 8/8; chat-side mirror unchanged.
+
+## 2026-10-01 (Greek pass 2)
+- Core 0.13.0 (`885314c`) by `core_sync --all`, `396238c` (27 files: vendored core incl. verify_words.py, book.json core, css/app shell, manifest, components-reference.md). Test 9/9 (new `words` check).
