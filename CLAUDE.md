@@ -21,9 +21,11 @@ status), read from its data. It isn't written here, so it can't go stale.
 ## Commands (run from this folder)
 
     python -m biblecore book             # where the book stands (see State above)
-    python -m biblecore port 5 [--dry]   # port source-artifacts/numbers_05_translation.html (--force re-ports)
+    python -m biblecore port 5 [--dry]   # port source-artifacts/numbers_05_translation.html (--force re-ports;
+                                         # --answers FILE: {question topic: answer} so a dry run's answers carry over)
     python -m biblecore build            # everything downstream of units/*.html
-    python -m biblecore audit            # tracked-thread coverage (--ids ROOT to preview an id set)
+    python -m biblecore audit            # tracked-thread coverage (--ids ROOT to preview an id set);
+                                         # gaps end with ready `add` JSON for retrofit/retrofit-tags.json
     python -m biblecore test [--quick]   # check the book: pin, units, contracts, build idempotence
     python -m biblecore sync             # mirror chat-side files, commit and push (after Lane's OK)
 
