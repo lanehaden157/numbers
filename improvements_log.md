@@ -90,3 +90,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-10-28 — Core 0.18.0
 - `core_sync` + `migrate` to 0.18.0; new synced `canon-handoff-template.md`; instruction field two-chat note; style reference: `checks`, `threads.promote`, §3a rewrite, checklist items for questions/checks/promote.
+
+## 2026-10-28 — Core 0.19.0
+- Vendored 0.19.0: `python -m biblecore lxx` (verse lemmas, `--expect`, `--checks N`; `!lemma` = absent), `audit` ends with paste-ready retrofit `add` JSON, `port --answers FILE`, `biblecore test` notes CRLF policy files.
