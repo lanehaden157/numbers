@@ -87,3 +87,6 @@ Append-only. Concrete changes to this book's repo, most recent last.
 
 ## 2026-10-01 (Greek pass 2)
 - Core 0.13.0 (`885314c`) by `core_sync --all`, `396238c` (27 files: vendored core incl. verify_words.py, book.json core, css/app shell, manifest, components-reference.md). Test 9/9 (new `words` check).
+
+## 2026-10-28 — Core 0.18.0
+- `core_sync` + `migrate` to 0.18.0; new synced `canon-handoff-template.md`; instruction field two-chat note; style reference: `checks`, `threads.promote`, §3a rewrite, checklist items for questions/checks/promote.

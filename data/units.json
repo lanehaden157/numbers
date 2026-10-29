@@ -210,7 +210,7 @@
           "echo": "Song 2:4 — the only use outside Numbers, usually read ‘his banner over me is love’"
         }
       },
-      "contract": "0.8.5"
+      "contract": "0.18.0"
     },
     {
       "n": 2,
@@ -243,7 +243,7 @@
           "echo": "Deut 32:52 — Moshe will see the land from a distance but not enter it"
         }
       },
-      "contract": "0.8.3"
+      "contract": "0.18.0"
     },
     {
       "n": 3,
@@ -294,7 +294,7 @@
           "echo": "Exod 30:12–13 — a census ransom 'for his life' at twenty gerahs to the shekel, 'so there be no plague'; Ps 49:7–8 — no one can redeem a brother."
         }
       },
-      "contract": "0.9.1"
+      "contract": "0.18.0"
     },
     {
       "n": 4,
@@ -343,7 +343,7 @@
           "gloss": "swallow; here, the space of a swallow, an instant"
         }
       },
-      "contract": "0.9.7"
+      "contract": "0.18.0"
     },
     {
       "n": 5,
