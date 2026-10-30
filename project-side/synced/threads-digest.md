@@ -2,29 +2,29 @@
 
 Generated from `data/threads.json` (version 1). 19 threads, 19 open.
 
-**This is the source of truth for thread tagging.** In a unit's fragment, a root that appears in the `id` column below is a *tracked thread*: tag every occurrence `<span class="r" data-root="<id>" data-w="<word id>">…</span>` (the word id from `Numbers-words.tsv`) and list it under `threads.opens` / `threads.payoffs` in the unit-meta block, with a matching id set in `data/roots.json`. A root that is recurring but *not* here is unit-local — tag it with its own name (no `data-w` needed) and just declare it in the unit's own `roots`. To propose promoting a local root to a tracked thread, add it to `threads.candidates` with a one-line reason (the Strong's/lemma `ids` you've actually observed in `Numbers-words.tsv`, plus a few representative `refs`, if you have them). **Claude decides, biased toward book-wide**: a local root that later pays off is worse than a tracked one that doesn't, so promote on a real second sighting. Ask Lane only when genuinely unsure.
+**The source of truth for thread tagging.** Tag every occurrence of a thread below with `<span class="r" data-root="<id>">…</span>` (the porter fills `data-w`) and list it under `threads.opens` / `threads.payoffs`. A root not listed here is unit-local: declare it in the unit's `roots`. To propose one, add it to `threads.candidates` with a one-line reason and the lemma `ids` you saw in `Numbers-words.tsv`. **Claude decides, biased toward book-wide** (a local root that later pays off is worse than a tracked one that doesn't), and asks Lane only when genuinely unsure.
 
-| id | root (data-root) | translit | gloss | opens | payoffs | status |
-|---|---|---|---|---|---|---|
-| `account` | `account` | paqad | take account of, attend to; call to account; appoint, put in charge | 1 (1:3) | 2 (2:33) · 3 (3:10) · 3 (3:39) · 4 (4:32) | open |
-| `army` | `army` | tsavaʾ | army, fighting force; organized service | 1 (1:3) | 4 (4:3) | open |
-| `called` | `called` | qaraʾ | call, summon; the summoned ones | 1 (1:16) | — | open |
-| `charge` | `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) · 4 (4:27) | open |
-| `community` | `community` | ʿedah | community, assembly gathered as one body | 1 (1:2) | 3 (3:7) | open |
-| `wrath` | `wrath` | qetsef | wrath, anger that breaks out | 1 (1:53) | — | open |
-| `camp` | `camp` | ḥanah | encamp; a camp, the body encamped | 2 (2:2) | — | open |
-| `chieftain` | `chieftain` | nasiʾ | chieftain, one lifted up to lead | 2 (2:3) | — | open |
-| `set-out` | `set-out` | nasaʿ | pull up stakes, set out, march | 2 (2:9) | — | open |
-| `tribe-staff` | `tribe-staff` | maṭṭeh | staff; a tribe | 2 (2:5) | — | open |
-| `firstborn` | `firstborn` | bekhor | firstborn | 3 (3:12) | — | open |
-| `holy` | `holy` | qadash | holy; set apart; the holy place | 3 (3:13) | 4 (4:15) | open |
-| `near` | `near` | qarav | draw near; bring near, present | 3 (3:4) | — | open |
-| `stranger` | `stranger` | zar | stranger, one not authorized; strange, unsanctioned | 3 (3:4) | — | open |
-| `blue` | `blue` | tekhelet | blue | 4 (4:6) | — | open |
-| `carry` | `carry` | nasaʾ / masaʾ | carry, lift, burden | 4 (4:15) | — | open |
-| `cover` | `cover` | kasah / miksah | cover, covering | 4 (4:6) | — | open |
-| `serve` | `serve` | ʿavad / ʿavodah | serve, service | 4 (4:3) | — | open |
-| `touch` | `touch` | nagaʿ | touch | 4 (4:15) | — | open |
+| id | translit | gloss | opens | payoffs |
+|---|---|---|---|---|
+| `account` | paqad | take account of, attend to; call to account; appoint, put in charge | 1 (1:3) | 2 (2:33) · 3 (3:10) · 3 (3:39) · 4 (4:32) |
+| `army` | tsavaʾ | army, fighting force; organized service | 1 (1:3) | 4 (4:3) |
+| `called` | qaraʾ | call, summon; the summoned ones | 1 (1:16) | — |
+| `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) · 4 (4:27) |
+| `community` | ʿedah | community, assembly gathered as one body | 1 (1:2) | 3 (3:7) |
+| `wrath` | qetsef | wrath, anger that breaks out | 1 (1:53) | — |
+| `camp` | ḥanah | encamp; a camp, the body encamped | 2 (2:2) | — |
+| `chieftain` | nasiʾ | chieftain, one lifted up to lead | 2 (2:3) | — |
+| `set-out` | nasaʿ | pull up stakes, set out, march | 2 (2:9) | — |
+| `tribe-staff` | maṭṭeh | staff; a tribe | 2 (2:5) | — |
+| `firstborn` | bekhor | firstborn | 3 (3:12) | — |
+| `holy` | qadash | holy; set apart; the holy place | 3 (3:13) | 4 (4:15) |
+| `near` | qarav | draw near; bring near, present | 3 (3:4) | — |
+| `stranger` | zar | stranger, one not authorized; strange, unsanctioned | 3 (3:4) | — |
+| `blue` | tekhelet | blue | 4 (4:6) | — |
+| `carry` | nasaʾ / masaʾ | carry, lift, burden | 4 (4:15) | — |
+| `cover` | kasah / miksah | cover, covering | 4 (4:6) | — |
+| `serve` | ʿavad / ʿavodah | serve, service | 4 (4:3) | — |
+| `touch` | nagaʿ | touch | 4 (4:15) | — |
 
 ## Notes per thread
 
