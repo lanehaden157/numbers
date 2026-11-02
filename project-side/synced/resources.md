@@ -1,6 +1,6 @@
 # Numbers Study — Resources
 
-Read before pass 1 of every unit. This file lives in the repo and syncs here; edit it in the repo, never on the project side. Cite only the commentators below by name. Where these five can't reach something (a lead, a background question, a cross-reference), say so in the relevant pass and search the web there — don't stretch one of these past its actual content.
+Read before pass 1 of every unit. This file lives in the repo and syncs here; edit it in the repo, never on the project side. This list is a starting point, not a limit: search the web freely in every pass and cite any source by name (`core-workflow.md`). Don't stretch one of these past its actual content.
 
 ## Baruch A. Levine, *Numbers 1–20* (Anchor Bible, 1993)
 File: `abNumbers1-20_LevineBA_1993-opt.txt`
@@ -33,6 +33,6 @@ Classical medieval commentary, verse-by-verse, English translation alongside the
 
 No Milgrom (JPS), Wenham (Tyndale), Ashley (NICOT), or Sailhamer in the project files; Constable's bibliography names them secondhand but their actual arguments aren't available here. Flag any unit where one of these would materially change the reading, and search the web for it in pass 2 rather than relying on Constable's summary.
 
-## The synced folder
+## Synced files
 
-`synced-index.md` in the synced folder lists every file the repo mirrors there and what each one is for. It's generated on every sync, so it's always complete. Everything in that folder round-trips from the repo automatically, including this file. Nothing is uploaded by hand, so re-read a file there rather than trusting an earlier read in the conversation. The one exception is the project's instruction field, which Lane pastes.
+`synced-index.md` lists every file the repo mirrors to the project and what each one is for. It's generated on every sync, so it's always complete. Everything on it updates from the repo automatically, including this file. Nothing is uploaded by hand, so fetch a file again rather than trusting an earlier read in the conversation. The one exception is the project's instruction field, which Lane pastes.
