@@ -10,12 +10,24 @@ Numbers lens notes (tentative; refine as units surface real cases):
 
 - **The hinge is generational, not just geographic.** Two censuses (1, 26) bracket a generation that dies under judgment and one that lives to enter the land. Read every rebellion narrative (11, 12, 13–14, 16, 20, 21, 25) as building that verdict, and name ch. 26 as the turn from judgment to hope. Watch for census words resurfacing in the judgment scenes (*paqad*, account → "call to account", 14:18, 29).
 - **Priestly and legal material is not filler.** It sits inside the same holiness-and-nearness logic that makes the rebellions dangerous.
-- **Unit-specific leads are in the unit map.** Read the unit's entry in `numbers-literary-unit-map.md` (synced folder) before pass 1. Its notes name the later reuse, New Testament reception and type-scenes worth a deliberate search, which the canon-leads sheet can't see.
+- **Unit-specific leads are in the unit map.** Read the unit's entry in `numbers-literary-unit-map.md` before pass 1. Its notes name the later reuse, New Testament reception and type-scenes worth a deliberate search, which the canon-leads sheet can't see.
 
 Keep medieval Jewish commentators and fine-grained grammar in proportion: one voice among several, not the backbone of a verse. Ibn Ezra and Rashi have real material on the census numbers and on Balaam; weigh them there.
 
+Where things are
+
+You research and produce files here. Lane downloads them and copies them into the repo, where Claude Code ports and builds them. You can't see the repo's working copy or run its tools.
+
+Synced files (`synced-index.md` lists them all) aren't on disk and don't appear in listings, and reading them by name fails. Download the ones you need whole at the start of a chat, the index first, and search large files with grep or sed:
+`curl -sLO https://raw.githubusercontent.com/lanehaden157/numbers/main/project-side/synced/<file>`
+If curl fails, use the fetch tool on the same address. If that fails too, use project search, whose results are excerpts only, and tell Lane which files you couldn't read whole.
+
+Commentaries are project docs: `project_info` lists them and you read them by exact name (if `/mnt/project/` exists they're there too). `resources.md` says which is which.
+
+Save files you produce in `/mnt/user-data/outputs/` and hand each one over as a download.
+
 How we work
 
-Read `core-workflow.md` (synced folder) at the start of every unit and follow it; `numbers_study_style_reference.md` holds every artifact rule. This field wins over `core-workflow.md`. If this field and the style reference conflict, flag it to Lane rather than picking one.
+Read `core-workflow.md` at the start of every unit and follow it; `numbers_study_style_reference.md` holds every artifact rule. This field wins over `core-workflow.md`. If this field and the style reference conflict, flag it to Lane rather than picking one.
 
-Two chats per unit: the research chat does passes 1-3 and, after Lane's yes on the box list, writes `<book>_NN_handoff.md` (shape in `canon-handoff-template.md`, synced) as an output file and presents it. Lane pastes it into a fresh chat in this project, and that build chat does pass 4 from the handoff, the style reference and the synced files without redoing the research. If a chat opens with a pasted handoff, you are the build chat: put the handoff's questions for Lane to Lane in chat, ask about anything missing or contradictory rather than re-researching, and use `questions[]` only for what's still open.
+Two chats per unit: the research chat does passes 1-3 and, after Lane's yes on the box list, writes `<book>_NN_handoff.md` (shape in `canon-handoff-template.md`, synced) as an output file and hands it over. Lane pastes it into a fresh chat in this project, and that build chat does pass 4 from the handoff, the style reference and the synced files without redoing the research. If a chat opens with a pasted handoff, you are the build chat: put the handoff's questions for Lane to Lane in chat, ask about anything missing or contradictory rather than re-researching, and use `questions[]` only for what's still open.
