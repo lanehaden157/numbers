@@ -2,6 +2,8 @@
 
 Working map for the unit-by-unit study. There are 38 session-sized units, one four-pass walk each, grouped under nine movements for orientation. Hebrew terms appear in transliteration only.
 
+**Names.** This map is exempt from the Moshe/Aharon/Yahweh convention: it is a reference file, so it keeps Moses, Aaron and the LORD. Spoken passes, handoffs and fragments use Moshe, Aharon and Yahweh. A built unit's title follows `data/units.json`, so U03 here differs from its fragment title only in that spelling.
+
 ## Ground rules this map follows
 
 **Versification.** References are in **English** versification. Where the Hebrew (MT/OSHB) numbering differs, it appears in brackets. Numbers has two such stretches: Eng 16:36–17:13 = Heb 17:1–28, and Eng 29:40–30:16 = Heb 30:1–17. The candidate-boundaries list uses Hebrew numbering, so every marker cited in those stretches below has been converted.
@@ -26,7 +28,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 | | *I. At Sinai: ordering the camp (1:1–10:10)* | |
 | 01 | 1:1–54 | The first accounting |
 | 02 | 2:1–34 | The camp around the tent |
-| 03 | 3:1–51 | Aaron's line and the Levites as ransom for the firstborn |
+| 03 | 3:1–51 | Aaron's line and the Levites in place of the firstborn |
 | 04 | 4:1–49 | Carrying the holy things |
 | 05 | 5:1–31 | Keeping the camp clean: three laws |
 | 06 | 6:1–27 | The Nazirite and the priestly blessing |
@@ -92,7 +94,7 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 - *Why here:* The tent sits at the centre and the tribes camp around it. This is the presence theme drawn as a picture.
 - *Decision:* The boundary follows A and the chapter grid, because 3:1 opens with its own formula (next unit).
 
-**U03 · 3:1–51 · Aaron's line and the Levites as ransom for the firstborn**
+**U03 · 3:1–51 · Aaron's line and the Levites in place of the firstborn**
 - *Markers:* P after 3:4 (Nadab and Abihu), P after 3:10, S after 3:13, S after 3:39, P after 3:43, P after 3:51.
 - *Grid:* Aligns.
 - *Why here:* Opens with *'elleh toledot* ("these are the generations of…") at 3:1. That formula is Genesis's own structuring device, used here for Aaron and Moses, so it is a strong book-internal marker. The unit runs through the firstborn-redemption arithmetic (3:40–51).
@@ -240,9 +242,9 @@ The block's type-scene is the outside prophet compelled to bless (compare Gen 12
 
 **U28 · 25:1–26:1a [Heb 25:1–19] · Baal Peor and Phinehas**
 - *Markers:* P after 25:9, P after 25:15, P after Heb 25:19.
-- *Grid:* **Diverges, mid-verse.** The Hebrew petuhah falls between "And it came to pass after the plague" (Heb 25:19) and the census command (Heb 26:1). English joins them as 26:1. The Masoretic break thus attaches "after the plague" to Peor.
+- *Grid:* **Diverges, mid-verse.** The Hebrew petuhah falls between "And it came to pass after the plague" (Heb 25:19) and the census command (Heb 26:1). English joins them as 26:1. The Masoretic break thus attaches "after the plague" to Peor. No ref-format change: the mid-verse boundary (25:1–26:1a, then 26:1b) is handled by English numbering, which `units-from-map` converts through `versify.py`.
 - *Commentators:* Levine takes ch. 25 as one Part.
-- *Why here:* The old generation's last sin. The covenant of peace with Phinehas (25:12–13) links to Mal 2:4–5 and Ps 106:30–31, and 1 Cor 10:8 and Rev 2:14 read the episode later. Numbers 31:16 later ties Peor to Balaam retroactively, which is a threads.retro candidate once U33 is walked.
+- *Why here:* Placement against the 26:64–65 verdict is an open question, not a given. Deut 2:14 counts 38 years from Kadesh to the Zered (Num 21:12), "until the entire generation of the men of war had perished," and Balaam (22–24) comes after the Zered. On that reading Peor is the new generation's first sin on the threshold, inside Part One's label (1:1–25:18) but after the verdict's work is done; weigh it in pass 2. The covenant of peace with Phinehas (25:12–13) links to Mal 2:4–5 and Ps 106:30–31, and 1 Cor 10:8 and Rev 2:14 read the episode later. Numbers 31:16 later ties Peor to Balaam retroactively, which is a threads.retro candidate once U33 is walked.
 
 ### PART TWO — 26:1–36:13
 

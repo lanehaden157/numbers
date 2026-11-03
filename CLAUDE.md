@@ -65,7 +65,7 @@ components, theme). A change to the shell itself goes into bible-core's
 
 `data/threads.json` and `data/roots.json` are policy: the porter proposes, a
 human applies. Who decides whether a candidate becomes a tracked thread is set
-in the style reference §3. Thread colours come from `python -m biblecore colour`
+in the style reference §6. Thread colours come from `python -m biblecore colour`
 by default (colours picked by eye collided before); hand-pick one only if Lane
 asks.
 

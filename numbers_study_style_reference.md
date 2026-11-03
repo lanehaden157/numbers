@@ -156,8 +156,8 @@ Lane only when genuinely unsure.
 opens: {unit, ref, note?}, payoffs: [{unit, ref, note?}], translit?, note?}`
 (`ids` the lemma ids; no colour, the site assigns it; `root` is optional and defaults to `id`, ASCII `[a-z0-9-]` only, e.g. `kerdaino` not `kerdainō`; a `retro[]` in the same unit may tag the promoted id, and `apply-delta` creates the `threads.json` and `roots.json` entries), `reach` a sentence
 ("16 occurrences, retrofit in units 1, 2, 5"), `retrofit` the unit numbers
-that need tags added. Use it for a thread Lane has ruled on with the reach in
-view; `candidates[]` stays for a proposal that still needs an id set.
+that need tags added. Use it for a thread Claude has decided to promote, with
+the reach in view (a close call goes to Lane through the handoff); `candidates[]` stays for a proposal that still needs an id set.
 
 ---
 
@@ -272,7 +272,8 @@ unit 1's first draft named eight sources and two repo files.**)**
 (`biblecore/lang/hebrew.py`; its test file is the authoritative definition).
 Scheme: a diacritic only where the plain letter is already claimed (`ḥ ṭ ś`,
 `ʾ`/`ʿ`); no vowel length; no spirantization; dagesh forte doubles; `יהוה` →
-`YHWH`, rendered **Yahweh**.
+`YHWH`, rendered **Yahweh**. **Do not copy native script** (the `יהוה` above is reference only): chat,
+handoffs and fragments carry none, and the validator rejects it in a fragment.
 
 **Translation philosophy.** A fresh, wooden-but-readable rendering from the
 Hebrew, not a polish of an existing English version. Creative, intentional
@@ -280,8 +281,8 @@ glosses are encouraged.
 
 **Wording.** Check `translation-choices.md` (which starts from
 `canon-conventions.md`) before rendering a lexeme. A better
-verse-specific rendering is fine — **flag the deviation**. Update the file in
-the same turn as any wording decision. **(learned:** Matthew started its
+verse-specific rendering is fine — **flag the deviation**. A wording call made in chat goes in the handoff's "Decisions" section; Claude
+Code applies it to `translation-choices.md` after the session. **(learned:** Matthew started its
 glossary at unit 10 and paid with a retroactive audit.**)**
 
 ---
@@ -293,8 +294,9 @@ Prefer the Masoretic paragraph breaks (`candidate-boundaries.md`) over
 patterns you noticed. **(learned:** eight over-reaching chiasms were cut from
 Matthew.**)**
 
-**`threads.json` and `roots.json` are Lane's policy.** Nothing in the pipeline
-writes either.
+**Promotion: Claude decides; close calls go to Lane through the handoff.**
+`threads.json` and `roots.json` change only through the handoff's promotions
+and `threads.promote[]`, applied by Claude Code; the porter only proposes.
 
 **Names are joined by hand.** Place-name wordplay is real but Strong's
 etymology is unreliable. Add names to `roots.json` one at a time, with the
