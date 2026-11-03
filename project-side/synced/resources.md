@@ -8,12 +8,12 @@ File: `abNumbers1-20 LevineBA 1993-opt.txt`
 Full critical commentary — translation, textual notes (LXX, Samaritan Pentateuch, Peshitta, Targum variants), and extended philological/historical comments. Source-critical method throughout (identifies P, J/E, and other strata) and strong on Ancient Near Eastern comparanda — this is the primary source for the military-census and royal-itinerary background the lens notes call for (chs. 1–4, 20 in this volume). Covers Numbers 1–20. Use it for: philology, ANE parallels, textual variants, the history-of-composition angle on a unit. Its source-critical judgments are a fact about the field, not a verdict to adopt uncritically — note where they shape a reading and where a synchronic reading of the received text differs.
 
 ## Baruch A. Levine, *Numbers 21–36* (Anchor Bible, 2000)
-File: the doc whose name starts `Numbers 21-36 (Baruch A. Levine)` in `project_info`. TODO(Lane): exact attachment name
+File: `Numbers 21-36 (Baruch A. Levine) (z library.sk, 1lib.sk, z lib.sk)`
 
 Companion volume, same method and strengths as above, covering the Transjordan narratives, the Balaam pericope (22–24), Baal Peor (25), the second census and homicide/inheritance law (26–30), the Midian campaign (31), Transjordan settlement (32), the itinerary (33), and the boundary/inheritance material (34–36). Includes maps (Israel in Transjordan, the Moabite Stele evidence for ch. 21, the two Kadesh-to-Moab route options, greater Canaan's boundaries per ch. 34) worth pulling into pre-read briefings for those units.
 
 ## Thomas L. Constable, *Notes on Numbers* (2015 ed.)
-File: the doc named `Expository Notes on the Whole Bible – Numbers (Thomas Constable)` in `project_info`. TODO(Lane): confirm exact attachment name
+File: `040125《Expository Notes on the Whole Bible – Numbers》(Thomas Constable)`
 
 Conservative evangelical expository commentary, verse-by-verse, traditional Mosaic-authorship position, dispensational leaning. Its own argument is thinner than Levine's, but its bibliography is enormous and it functions as a digest of a wide range of other commentators (Wenham, Ashley, Milgrom, Wiersbe, and many journal articles) — useful for surfacing where a crux has been discussed elsewhere even when Constable's own take is brief. Good for quick doctrinal/devotional orientation and NT cross-references; treat its citations of other scholars as leads to verify, not as Constable's own research.
 
