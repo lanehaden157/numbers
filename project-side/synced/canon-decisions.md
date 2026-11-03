@@ -15,7 +15,7 @@ ask again.
 | date | call | where it shows |
 |---|---|---|
 | 2026-09-22 | ḥesed stays untranslated as the Hebrew Bible default. | `canon-conventions.md` |
-| 2026-09-22 | The promotion policy is Joshua's: Claude decides, mostly autonomously, and asks when unsure. | style reference, core workflow |
+| 2026-09-22 | Promotion: Claude decides, biased book-wide; a close call goes to Lane through the handoff's "Calls for Lane". | style reference, core workflow |
 | 2026-09-22 | Each book's unit map comes from its own project side, once its resources are compiled. | book setup |
 | 2026-09-24 | Studies cite English (KJV) verse numbering. The word table and reading text keep the corpus's own. | `book.json` `versification`, `<book>-versification.md` |
 | 2026-09-24 | Canon registries are four flat files in bible-core `canon/`: arcs (creation, covenant, exile, presence; extendable), canon threads, type-scenes, intertext. | `canon/*.json` |

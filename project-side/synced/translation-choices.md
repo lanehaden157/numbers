@@ -1,5 +1,7 @@
 # Translation Choices
 
+> **Do not copy native script.** The Hebrew column below is reference only. Never put it in chat, a handoff or a fragment; use the transliteration and the English rendering.
+
 A working glossary of deliberate English renderings for this study's own
 translation. **Starts from `canon-conventions.md`** (a vendored copy of `bible-core/canon/conventions.md`; don't edit it here): every row
 there is this book's default too (y'all, Yahweh, sky/skies, slave, life/being,
@@ -15,8 +17,8 @@ immediately cost a retroactive audit.
 Before rendering a Hebrew word in a new unit, check here and in the canon
 conventions for a prior decision and match it. If a different rendering fits
 better in one verse, use it and flag the deviation; Lane decides whether it's
-a one-off or a correction. Any session that changes a rendering updates the
-row and the Log in the same turn. If a unit and this file disagree, the unit
+a one-off or a correction. A rendering changed in chat goes in the handoff's "Decisions" section; Claude Code updates the
+row and the Log after the session. If a unit and this file disagree, the unit
 is more likely right; flag the mismatch.
 
 ## Glossary
