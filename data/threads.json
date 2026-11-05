@@ -471,6 +471,64 @@
       ],
       "note": "mispar, the count itself; 34 occurrences. In chs. 15 and 29 it tallies offerings, not persons.",
       "color": "#a66566"
+    },
+    {
+      "id": "company",
+      "root": "company",
+      "translit": "degel",
+      "gloss": "company, the tribal unit camped under one standard",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:52",
+        "note": "degel, company: the tribal unit camped under one standard, not the flag itself. It first appears at 1:52, orders the whole camp in ch. 2 and the march in ch. 10."
+      },
+      "payoffs": [
+        {
+          "unit": 2,
+          "note": "Four companies of three tribes each camp around the Tent, and each company sets out in turn.",
+          "ref": "2:2"
+        },
+        {
+          "unit": 10,
+          "note": "The march of 10:14–25 follows the companies of ch. 2, one after another.",
+          "ref": "10:14"
+        }
+      ],
+      "note": "Occurs only in units 1, 2 and 10 (13 verses); its one appearance outside Numbers (Song 2:4) is uncertain in sense.",
+      "color": "#827b4a"
+    },
+    {
+      "id": "sign",
+      "root": "sign",
+      "translit": "ʾot",
+      "gloss": "sign, a visible mark that points beyond itself",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 2,
+        "ref": "2:2",
+        "note": "ʾot, sign: first the emblems each fathers’ house camps by (2:2). The word returns when Yahweh complains that the people refuse to trust him despite all his signs (14:11, 22), and for the censers and Aharon’s staff kept as signs (17:3, 17:25 in Hebrew numbering)."
+      },
+      "payoffs": [
+        {
+          "unit": 14,
+          "note": "The signs done among the people, and still they would not trust (14:11, 22).",
+          "ref": "14:11"
+        },
+        {
+          "unit": 16,
+          "note": "The rebels’ censers hammered into plating become a sign for Yisrael’s sons."
+        },
+        {
+          "unit": 17,
+          "note": "Aharon’s budding staff kept as a sign against the rebels.",
+          "ref": "16:38"
+        }
+      ],
+      "note": "Five occurrences in the book. Genesis 1:14 uses it of the lights that mark the set times.",
+      "color": "#8b6cae"
     }
   ]
 }

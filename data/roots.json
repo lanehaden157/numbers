@@ -130,6 +130,18 @@
         "4557"
       ],
       "note": "mispar, the count itself; 34 occurrences. In chs. 15 and 29 it tallies offerings, not persons."
+    },
+    "company": {
+      "ids": [
+        "1714"
+      ],
+      "note": "Occurs only in units 1, 2 and 10 (13 verses); its one appearance outside Numbers (Song 2:4) is uncertain in sense."
+    },
+    "sign": {
+      "ids": [
+        "226"
+      ],
+      "note": "Five occurrences in the book. Genesis 1:14 uses it of the lights that mark the set times."
     }
   },
   "declined": {}
