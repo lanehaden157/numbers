@@ -31,7 +31,7 @@ Classical medieval commentary, verse-by-verse, English translation alongside the
 
 ## Gaps — not on hand
 
-No Ibn Ezra: the field and the unit map (U01, the census numbers) point to him, so search for him in pass 2 and say what you read. Name him in chat and the handoff, never in fragment prose.
+No Ibn Ezra file. Sefaria has him piecemeal at `Ibn_Ezra_on_Numbers.<ch>.<v>`; at Unit 1 nothing came back for 1:17–19, 1:51, 1:52 or 1:54. Rashi has no comments on the chapter 1 numbers verses. The Ibn Ezra / Rashi / Ramban dispute over the identical totals (Exod 38:26, Num 1:46) is on hand only as a modern summary, so say it is secondhand. Search for him in pass 2 and say what you read. Name him in chat and the handoff, never in fragment prose.
 
 No Milgrom (JPS), Wenham (Tyndale), Ashley (NICOT), or Sailhamer in the project files; Constable's bibliography names them secondhand but their actual arguments aren't available here. Flag any unit where one of these would materially change the reading, and search the web for it in pass 2 rather than relying on Constable's summary.
 

@@ -13,6 +13,7 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 | `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) · 4 (4:27) |
 | `chieftain` | nasiʾ | chieftain, one lifted up to lead | 1 (1:16) | — |
 | `community` | ʿedah | community, assembly gathered as one body | 1 (1:2) | 3 (3:7) |
+| `firstborn` | bekhor | firstborn | 1 (1:20) | 3 (3:12) |
 | `near` | qarav | draw near; bring near, present | 1 (1:51) | 3 (3:4) |
 | `number` | mispar | number, tally | 1 (1:2) | 3 (3:22) · 9 (9:20) · 14 (14:29) · 15 (15:12) · 26 (23:10) · 29 (26:53) · 31 (29:18) · 33 (31:36) |
 | `set-out` | nasaʿ | pull up stakes, set out, march | 1 (1:51) | 2 (2:9) |
@@ -20,7 +21,6 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 | `tribe-staff` | maṭṭeh | staff; a tribe | 1 (1:4) | — |
 | `wrath` | qetsef | wrath, anger that breaks out | 1 (1:53) | — |
 | `cover` | kasah / miksah | cover, covering | 3 (3:25) | 4 (4:6) |
-| `firstborn` | bekhor | firstborn | 3 (3:12) | — |
 | `holy` | qadash | holy; set apart; the holy place | 3 (3:13) | 4 (4:15) |
 | `serve` | ʿavad / ʿavodah | serve, service | 3 (3:7) | 4 (4:3) |
 | `blue` | tekhelet | blue | 4 (4:6) | — |
@@ -39,7 +39,7 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 - **`chieftain`**: nasiʾ, the tribal heads: named here as the called of the community (1:16) and counted among the accounted (1:44); offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34).
 - **`community`**: ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2).
 - **`cover`**: The wrapping verb, first as the Dwelling’s covering (3:25); ch. 4 wraps each holy thing; the cloud covers the Dwelling (9:15) and the earth covers Korach’s company (16:33).
-- **`firstborn`**: bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4.
+- **`firstborn`**: bekhor: first as Reuven's title, Yisrael's firstborn (1:20); the Levites later stand in for the firstborn claimed at the plague on Egypt (3:12), and it returns at 8:16–18, 18:15–17 and 33:4.
 - **`holy`**: qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel.
 - **`near`**: qarav, the verb of legitimate presentation and lethal presumption alike: first the stranger who comes near is put to death (1:51); chs. 16–18 turn on who may draw near.
 - **`number`**: mispar, the count itself; 34 occurrences. In chs. 15 and 29 it tallies offerings, not persons.

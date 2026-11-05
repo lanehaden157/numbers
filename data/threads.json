@@ -304,12 +304,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 3,
-        "ref": "3:12",
-        "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
+        "unit": 1,
+        "ref": "1:20",
+        "note": "bekhor: first as Reuven's title, Yisrael's firstborn (1:20); the Levites later stand in for the firstborn claimed at the plague on Egypt (3:12), and it returns at 8:16–18, 18:15–17 and 33:4."
       },
-      "payoffs": [],
-      "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
+      "payoffs": [
+        {
+          "unit": 3,
+          "ref": "3:12",
+          "note": "bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4."
+        }
+      ],
+      "note": "bekhor: first as Reuven's title, Yisrael's firstborn (1:20); the Levites later stand in for the firstborn claimed at the plague on Egypt (3:12), and it returns at 8:16–18, 18:15–17 and 33:4."
     },
     {
       "id": "carry",

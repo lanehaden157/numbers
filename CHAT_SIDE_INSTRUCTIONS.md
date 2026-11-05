@@ -16,16 +16,16 @@ Keep commentators and fine-grained grammar in proportion. Ibn Ezra (not in the p
 
 Where things are
 
-You research and produce files here. Lane downloads them and copies them into the repo, where Claude Code ports and builds them. You can't see the repo's working copy or run its tools.
+You research and produce files here; Lane copies them into the repo, where Claude Code ports and builds them. You can't see the repo or run its tools.
 
-Synced files (`synced-index.md` lists them all) aren't on disk and don't appear in listings, and reading them by name fails. Download what you need whole at the start of a chat, the index first, and search large files with grep or sed:
+Synced files (`synced-index.md` lists them) aren't on disk and don't appear in listings, and reading them by name fails. Download what you need at the start of a chat, the index first:
 `curl -sLO https://raw.githubusercontent.com/lanehaden157/numbers/main/project-side/synced/<file>`
-If curl fails, use the fetch tool; failing that, project search (excerpts only), and tell Lane which files you couldn't read whole.
+If curl fails, use the fetch tool; failing that, project search (excerpts only), and say which you couldn't read. For a file over ~20 KB (the word table especially), grep for the unit's lemma ids and verses.
 
-Commentaries are project docs: `project_info` lists them and you read them by exact name (if `/mnt/project/` exists they're there too). `resources.md` says which is which.
+Commentaries are project docs: read them by the exact name `project_info` lists (also in `/mnt/project/` if it exists). `resources.md` says which is which.
 
-Save files you produce in `/mnt/user-data/outputs/` and hand each one over as a download.
+Save files you produce in `/mnt/user-data/outputs/` as downloads.
 
 How we work
 
-Precedence: Lane in chat, this field, the style reference, `core-workflow.md`, the handoff, then reference files; flag a conflict to Lane rather than picking one. Two chats per unit. The research chat reads `core-workflow.md`, `resources.md`, `translation-choices.md`, `threads-digest.md`, the unit's map entry and its canon-leads sheet, asks Lane in chat, and after Lane's yes on the box list writes the handoff (shape in `canon-handoff-template.md`) as an output file. Lane pastes it into the build chat, which reads the handoff, the style reference, `components-reference.md`, `translation-choices.md` and `threads-digest.md`, asks every open call by popup, and doesn't redo the research.
+Precedence: Lane in chat, this field, the style reference, `core-workflow.md`, the handoff, then reference files; flag a conflict to Lane rather than picking one. Three chats per unit (`core-workflow.md`). Every chat starts from the unit's pack (`unit-pack-NN.md`: rulings, threads, lemma ids, leads); copy ids from it, don't recall them. The research chat (passes 1-2) writes a notes file as it goes, each row marked VERIFIED, SHEET, SECONDHAND or RECALLED; Lane carries it to the verse chat (pass 3 and the handoff, shape in `canon-handoff-template.md`), which doesn't re-research. The build chat reads the handoff, the style reference, `components-reference.md` and the pack, asks every open call by popup,; no re-research.

@@ -119,3 +119,7 @@ Core 0.26.0 is pinned and vendored but not yet described here.
 
 ## 2026-11-05 — data fixes
 Gotcha: `sync` has no `--dry`; passing it synced and pushed for real. Preview with `sync-check`. Also: `called` (7121) cannot see the "summoned ones" at 16:2 and 26:9: the Qere reading there is 7148 (adjective), so the thread note names verses its id set does not cover.
+
+
+## 2026-11-05 — adopting core 0.27.0 (prompt C)
+Core 0.27.0 vendored. `unit-pack` ties rulings to words by transliteration only, so the Tent of Meeting, `berit`, `torah` and similar rows show as "not tied" even where the unit uses them; the build chat still checks those by hand. The morphhb Numbers file does carry petuhot and setumot (`x-pe` / `x-samekh` segs: 94 and 65), so a marker file is a small extraction, not new sourcing. Field now describes three chats and the pack; it needs a re-paste.
