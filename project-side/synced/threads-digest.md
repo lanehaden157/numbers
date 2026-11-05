@@ -1,6 +1,6 @@
 # Cross-unit threads — canonical digest
 
-Generated from `data/threads.json` (version 1). 20 threads, 20 open.
+Generated from `data/threads.json` (version 1). 22 threads, 22 open.
 
 **The source of truth for thread tagging.** Tag every occurrence of a thread below with `<span class="r" data-root="<id>">…</span>` (the porter fills `data-w`) and list it under `threads.opens` / `threads.payoffs`. A root not listed here is unit-local: declare it in the unit's `roots`. To propose one, add it to `threads.candidates` with a one-line reason and the lemma `ids` you saw in `Numbers-words.tsv`. **Claude decides, biased toward book-wide** (a local root that later pays off is worse than a tracked one that doesn't), and asks Lane only when genuinely unsure.
 
@@ -13,6 +13,7 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 | `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) · 4 (4:27) |
 | `chieftain` | nasiʾ | chieftain, one lifted up to lead | 1 (1:16) | — |
 | `community` | ʿedah | community, assembly gathered as one body | 1 (1:2) | 3 (3:7) |
+| `company` | degel | company, the tribal unit camped under one standard | 1 (1:52) | 2 (2:2) · 10 (10:14) |
 | `firstborn` | bekhor | firstborn | 1 (1:20) | 3 (3:12) |
 | `near` | qarav | draw near; bring near, present | 1 (1:51) | 3 (3:4) |
 | `number` | mispar | number, tally | 1 (1:2) | 3 (3:22) · 9 (9:20) · 14 (14:29) · 15 (15:12) · 26 (23:10) · 29 (26:53) · 31 (29:18) · 33 (31:36) |
@@ -20,6 +21,7 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 | `stranger` | zar | stranger, one not authorized; strange, unsanctioned | 1 (1:51) | 3 (3:4) |
 | `tribe-staff` | maṭṭeh | staff; a tribe | 1 (1:4) | — |
 | `wrath` | qetsef | wrath, anger that breaks out | 1 (1:53) | — |
+| `sign` | ʾot | sign, a visible mark that points beyond itself | 2 (2:2) | 14 (14:11) · 16 · 17 (16:38) |
 | `cover` | kasah / miksah | cover, covering | 3 (3:25) | 4 (4:6) |
 | `holy` | qadash | holy; set apart; the holy place | 3 (3:13) | 4 (4:15) |
 | `serve` | ʿavad / ʿavodah | serve, service | 3 (3:7) | 4 (4:3) |
@@ -38,6 +40,7 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 - **`charge`**: mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18.
 - **`chieftain`**: nasiʾ, the tribal heads: named here as the called of the community (1:16) and counted among the accounted (1:44); offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34).
 - **`community`**: ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2).
+- **`company`**: Occurs only in units 1, 2 and 10 (13 verses); its one appearance outside Numbers (Song 2:4) is uncertain in sense.
 - **`cover`**: The wrapping verb, first as the Dwelling’s covering (3:25); ch. 4 wraps each holy thing; the cloud covers the Dwelling (9:15) and the earth covers Korach’s company (16:33).
 - **`firstborn`**: bekhor: first as Reuven's title, Yisrael's firstborn (1:20); the Levites later stand in for the firstborn claimed at the plague on Egypt (3:12), and it returns at 8:16–18, 18:15–17 and 33:4.
 - **`holy`**: qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel.
@@ -45,6 +48,7 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 - **`number`**: mispar, the count itself; 34 occurrences. In chs. 15 and 29 it tallies offerings, not persons.
 - **`serve`**: The Levite job word, first at 3:7–8 (‘to do the work of the Dwelling’); the exodus was ‘that they may serve me’, and chapters 8 and 18 build on it.
 - **`set-out`**: nasaʿ, ‘set out’: first as the Levites’ duty to take the Dwelling down when it sets out (1:51); ch. 2 orders the march, and it is narrated at 10:11–36 and repeated at every station of ch. 33.
+- **`sign`**: Five occurrences in the book. Genesis 1:14 uses it of the lights that mark the set times.
 - **`stranger`**: zar, the one not authorized to approach: the cordon refrain first sounds here (1:51; again 3:10, 38); Korach’s censers (16:40) and ch. 18 return to it.
 - **`touch`**: The contact line of 4:15 returns in the corpse-contact law and the Midian purification.
 - **`tribe-staff`**: maṭṭeh, ‘tribe’ that is literally ‘staff’: first as the man for each tribe (1:4, 16); ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it.
