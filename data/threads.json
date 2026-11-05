@@ -86,18 +86,24 @@
     {
       "id": "called",
       "root": "called",
-      "translit": "qaraʾ",
+      "translit": "qeriʾ",
       "gloss": "call, summon; the summoned ones",
       "color": "#6b3620",
       "status": "open",
-      "tagged": true,
+      "tagged": false,
       "opens": {
-        "unit": 1,
-        "ref": "1:16",
-        "note": "‘The summoned of the community’ opens here and returns for Korach’s company and in the second census’s note on Datan and Aviram (16:2; 26:9)."
+        "unit": 16,
+        "ref": "16:2",
+        "note": "qeriʾ, ‘called’: the called ones of the community (qeriʾe ha-ʿedah) are the chieftains at 16:2 and 26:9, where Korach’s company and Datan and Aviram are described by the title the chieftains bear in 1:16 (there a different form, qeruʾe)."
       },
-      "payoffs": [],
-      "note": "‘The summoned of the community’ opens here and returns for Korach’s company and in the second census’s note on Datan and Aviram (16:2; 26:9)."
+      "payoffs": [
+        {
+          "unit": 29,
+          "ref": "26:9",
+          "note": "The second census recalls the same title for Datan and Aviram, ‘called of the community’ (26:9)."
+        }
+      ],
+      "note": "qeriʾ, ‘called’: the called ones of the community (qeriʾe ha-ʿedah) are the chieftains at 16:2 and 26:9, where Korach’s company and Datan and Aviram are described by the title the chieftains bear in 1:16 (there a different form, qeruʾe)."
     },
     {
       "id": "wrath",
@@ -156,12 +162,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 2,
-        "ref": "2:2",
-        "note": "ḥanah / maḥaneh, the camp and its camping: the ordered space around the tent whose purity, edge and outside carry the book (5:2–4; 12:14–15; 14:44; 19:3)."
+        "unit": 1,
+        "ref": "1:50",
+        "note": "ḥanah, to camp: first the Levites camp around the Dwelling as a cordon (1:50, 53); ch. 2 then orders the whole camp around it, and the camp’s purity and edge carry the book (5:2–4; 12:14–15; 14:44; 19:3)."
       },
-      "payoffs": [],
-      "note": "ḥanah / maḥaneh, the camp and its camping: the ordered space around the tent whose purity, edge and outside carry the book (5:2–4; 12:14–15; 14:44; 19:3)."
+      "payoffs": [
+        {
+          "unit": 2,
+          "ref": "2:2",
+          "note": "ḥanah / maḥaneh, the camp and its camping: the ordered space around the tent whose purity, edge and outside carry the book (5:2–4; 12:14–15; 14:44; 19:3)."
+        }
+      ],
+      "note": "ḥanah, to camp: first the Levites camp around the Dwelling as a cordon (1:50, 53); ch. 2 then orders the whole camp around it, and the camp’s purity and edge carry the book (5:2–4; 12:14–15; 14:44; 19:3)."
     },
     {
       "id": "set-out",
@@ -172,12 +184,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 2,
-        "ref": "2:9",
-        "note": "nasaʿ, pulling up stakes: the itinerary verb, first ordered here, first narrated at 10:11–36, and repeated at every station of ch. 33."
+        "unit": 1,
+        "ref": "1:51",
+        "note": "nasaʿ, ‘set out’: first as the Levites’ duty to take the Dwelling down when it sets out (1:51); ch. 2 orders the march, and it is narrated at 10:11–36 and repeated at every station of ch. 33."
       },
-      "payoffs": [],
-      "note": "nasaʿ, pulling up stakes: the itinerary verb, first ordered here, first narrated at 10:11–36, and repeated at every station of ch. 33."
+      "payoffs": [
+        {
+          "unit": 2,
+          "ref": "2:9",
+          "note": "The march order itself: ‘First they shall set out’ (2:9) begins the sequence of ranks."
+        }
+      ],
+      "note": "nasaʿ, ‘set out’: first as the Levites’ duty to take the Dwelling down when it sets out (1:51); ch. 2 orders the march, and it is narrated at 10:11–36 and repeated at every station of ch. 33."
     },
     {
       "id": "tribe-staff",
@@ -188,12 +206,12 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 2,
-        "ref": "2:5",
-        "note": "maṭṭeh, ‘tribe’ that is literally ‘staff’: ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it."
+        "unit": 1,
+        "ref": "1:4",
+        "note": "maṭṭeh, ‘tribe’ that is literally ‘staff’: first as the man for each tribe (1:4, 16); ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it."
       },
       "payoffs": [],
-      "note": "maṭṭeh, ‘tribe’ that is literally ‘staff’: ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it."
+      "note": "maṭṭeh, ‘tribe’ that is literally ‘staff’: first as the man for each tribe (1:4, 16); ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it."
     },
     {
       "id": "chieftain",
@@ -204,12 +222,12 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 2,
-        "ref": "2:3",
-        "note": "nasiʾ, the tribal heads: offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34)."
+        "unit": 1,
+        "ref": "1:16",
+        "note": "nasiʾ, the tribal heads: named here as the called of the community (1:16) and counted among the accounted (1:44); offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34)."
       },
       "payoffs": [],
-      "note": "nasiʾ, the tribal heads: offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34)."
+      "note": "nasiʾ, the tribal heads: named here as the called of the community (1:16) and counted among the accounted (1:44); offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34)."
     },
     {
       "id": "stranger",
@@ -220,12 +238,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 3,
-        "ref": "3:4",
-        "note": "zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18."
+        "unit": 1,
+        "ref": "1:51",
+        "note": "zar, the one not authorized to approach: the cordon refrain first sounds here (1:51; again 3:10, 38); Korach’s censers (16:40) and ch. 18 return to it."
       },
-      "payoffs": [],
-      "note": "zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18."
+      "payoffs": [
+        {
+          "unit": 3,
+          "ref": "3:4",
+          "note": "Nadav and Avihu’s strange fire (3:4): zar and qarav together describe the offering that kills."
+        }
+      ],
+      "note": "zar, the one not authorized to approach: the cordon refrain first sounds here (1:51; again 3:10, 38); Korach’s censers (16:40) and ch. 18 return to it."
     },
     {
       "id": "near",
@@ -236,12 +260,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 3,
-        "ref": "3:4",
-        "note": "qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near."
+        "unit": 1,
+        "ref": "1:51",
+        "note": "qarav, the verb of legitimate presentation and lethal presumption alike: first the stranger who comes near is put to death (1:51); chs. 16–18 turn on who may draw near."
       },
-      "payoffs": [],
-      "note": "qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near."
+      "payoffs": [
+        {
+          "unit": 3,
+          "ref": "3:4",
+          "note": "Nadav and Avihu ‘brought near’ strange fire (3:4); in 3:6 the same verb presents Levi to Aharon."
+        }
+      ],
+      "note": "qarav, the verb of legitimate presentation and lethal presumption alike: first the stranger who comes near is put to death (1:51); chs. 16–18 turn on who may draw near."
     },
     {
       "id": "holy",
@@ -290,12 +320,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 4,
-        "ref": "4:15",
-        "note": "Counting (lift the head), carrying and the burden are one lexeme; it returns for Moshe's burden and for bearing iniquity."
+        "unit": 1,
+        "ref": "1:2",
+        "note": "Counting (‘lift the head’, 1:2), carrying and the burden are one lexeme; it returns for Moshe’s burden and for bearing iniquity."
       },
-      "payoffs": [],
-      "note": "Counting (lift the head), carrying and the burden are one lexeme; it returns for Moshe's burden and for bearing iniquity."
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:15",
+          "note": "The sons of Kehat come to carry, but must not touch the holy things (4:15)."
+        }
+      ],
+      "note": "Counting (‘lift the head’, 1:2), carrying and the burden are one lexeme; it returns for Moshe’s burden and for bearing iniquity."
     },
     {
       "id": "serve",
@@ -306,12 +342,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 4,
-        "ref": "4:3",
-        "note": "The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it."
+        "unit": 3,
+        "ref": "3:7",
+        "note": "The Levite job word, first at 3:7–8 (‘to do the work of the Dwelling’); the exodus was ‘that they may serve me’, and chapters 8 and 18 build on it."
       },
-      "payoffs": [],
-      "note": "The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it."
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:3",
+          "note": "The work assigned to the Kehatites (4:3)."
+        }
+      ],
+      "note": "The Levite job word, first at 3:7–8 (‘to do the work of the Dwelling’); the exodus was ‘that they may serve me’, and chapters 8 and 18 build on it."
     },
     {
       "id": "touch",
@@ -338,12 +380,18 @@
       "status": "open",
       "tagged": true,
       "opens": {
-        "unit": 4,
-        "ref": "4:6",
-        "note": "The wrapping verb; the cloud covers the Dwelling (9:15) and the earth covers Korach's company (16:33)."
+        "unit": 3,
+        "ref": "3:25",
+        "note": "The wrapping verb, first as the Dwelling’s covering (3:25); ch. 4 wraps each holy thing; the cloud covers the Dwelling (9:15) and the earth covers Korach’s company (16:33)."
       },
-      "payoffs": [],
-      "note": "The wrapping verb; the cloud covers the Dwelling (9:15) and the earth covers Korach's company (16:33)."
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:6",
+          "note": "The first wrapping of a holy thing: the ark covered in tachash skin and blue cloth (4:5–6)."
+        }
+      ],
+      "note": "The wrapping verb, first as the Dwelling’s covering (3:25); ch. 4 wraps each holy thing; the cloud covers the Dwelling (9:15) and the earth covers Korach’s company (16:33)."
     },
     {
       "id": "blue",

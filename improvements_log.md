@@ -115,3 +115,7 @@ Append-only. Concrete changes to this book's repo, most recent last.
 ## 2026-11-04 — unit 1 re-port and the `number` promotion
 Gotcha: a source with `data-root="number"` fails the port ("resolves to no colour") until `number` is a thread, but once `apply-delta` has made it one, the same source's `threads.promote` entry fails ("already a thread -- use opens/payoffs"). Worked around by porting from a copy with `promote` emptied; `apply-delta` had already written the opens/payoffs. `numbers_01_translation.html` still carries the `promote` entry, so a later `port 1 --force` will hit this again until it is removed.
 Core 0.26.0 is pinned and vendored but not yet described here.
+
+
+## 2026-11-05 — data fixes
+Gotcha: `sync` has no `--dry`; passing it synced and pushed for real. Preview with `sync-check`. Also: `called` (7121) cannot see the "summoned ones" at 16:2 and 26:9: the Qere reading there is 7148 (adjective), so the thread note names verses its id set does not cover.

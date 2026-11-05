@@ -105,21 +105,6 @@
       ],
       "total": 5
     },
-    "called": {
-      "count": 1,
-      "verses": [
-        16
-      ],
-      "hits": [
-        {
-          "v": 16,
-          "pre": "…These are the ",
-          "hit": "called",
-          "post": " of the community, chieftains of their fathers’ tribes;…"
-        }
-      ],
-      "total": 1
-    },
     "camp": {
       "count": 5,
       "verses": [
