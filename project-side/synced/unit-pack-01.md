@@ -47,7 +47,7 @@ First occurrence is computed from the word table by id set, not recalled. A mism
 | `army` | army, fighting force; organized service | 6635a 6633 | 1:3 (unit 1) | yes | unit 1 (1:3) | 1:3, 1:20, 1:22, 1:24, 1:26, 1:28, 1:30, 1:32, 1:34, 1:36, 1:38, 1:40, 1:42, 1:45, 1:52 | 81 |
 | `tribe-staff` | staff; a tribe | 4294 | 1:4 (unit 1) | yes | unit 1 (1:4) | 1:4, 1:16, 1:21, 1:23, 1:25, 1:27, 1:29, 1:31, 1:33, 1:35, 1:37, 1:39, 1:41, 1:43, 1:47, 1:49 | 111 |
 | `chieftain` | chieftain, one lifted up to lead | 5387a | 1:16 (unit 1) | yes | unit 1 (1:16) | 1:16, 1:44 | 62 |
-| `firstborn` | firstborn | 1060 | 1:20 (unit 1) | yes | unit 3 (3:12) **mismatch** | 1:20 | 25 |
+| `firstborn` | firstborn | 1060 | 1:20 (unit 1) | yes | unit 1 (1:20) | 1:20 | 25 |
 | `camp` | encamp; a camp, the body encamped | 2583 4264 | 1:50 (unit 1) | yes | unit 1 (1:50) | 1:50, 1:51, 1:52, 1:53 | 123 |
 | `set-out` | pull up stakes, set out, march | 5265 | 1:51 (unit 1) | yes | unit 1 (1:51) | 1:51 | 89 |
 | `stranger` | stranger, one not authorized; strange, unsanctioned | 2114a | 1:51 (unit 1) | yes | unit 1 (1:51) | 1:51 | 8 |
@@ -194,6 +194,6 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
 
 ## Known source gaps
 
-No Ibn Ezra: the field and the unit map (U01, the census numbers) point to him, so search for him in pass 2 and say what you read. Name him in chat and the handoff, never in fragment prose.
+No Ibn Ezra file. Sefaria has him piecemeal at `Ibn_Ezra_on_Numbers.<ch>.<v>`; at Unit 1 nothing came back for 1:17–19, 1:51, 1:52 or 1:54. Rashi has no comments on the chapter 1 numbers verses. The Ibn Ezra / Rashi / Ramban dispute over the identical totals (Exod 38:26, Num 1:46) is on hand only as a modern summary, so say it is secondhand. Search for him in pass 2 and say what you read. Name him in chat and the handoff, never in fragment prose.
 
 No Milgrom (JPS), Wenham (Tyndale), Ashley (NICOT), or Sailhamer in the project files; Constable's bibliography names them secondhand but their actual arguments aren't available here. Flag any unit where one of these would materially change the reading, and search the web for it in pass 2 rather than relying on Constable's summary.

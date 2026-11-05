@@ -43,7 +43,7 @@ First occurrence is computed from the word table by id set, not recalled. A mism
 | `account` | take account of, attend to; call to account; appoint, put in | 6485a 6486 | 1:3 (unit 1) | no | unit 1 (1:3) | 3:10, 3:15, 3:16, 3:22, 3:32, 3:34, 3:36, 3:39, 3:40, 3:42, 3:43 | 108 |
 | `tribe-staff` | staff; a tribe | 4294 | 1:4 (unit 1) | no | unit 1 (1:4) | 3:6 | 111 |
 | `chieftain` | chieftain, one lifted up to lead | 5387a | 1:16 (unit 1) | no | unit 1 (1:16) | 3:24, 3:30, 3:32, 3:35 | 62 |
-| `firstborn` | firstborn | 1060 | 1:20 (unit 1) | no | unit 3 (3:12) **mismatch** | 3:2, 3:12, 3:13, 3:40, 3:41, 3:42, 3:43, 3:45, 3:46, 3:50 | 25 |
+| `firstborn` | firstborn | 1060 | 1:20 (unit 1) | no | unit 1 (1:20) | 3:2, 3:12, 3:13, 3:40, 3:41, 3:42, 3:43, 3:45, 3:46, 3:50 | 25 |
 | `camp` | encamp; a camp, the body encamped | 2583 4264 | 1:50 (unit 1) | no | unit 1 (1:50) | 3:23, 3:29, 3:35, 3:38 | 123 |
 | `stranger` | stranger, one not authorized; strange, unsanctioned | 2114a | 1:51 (unit 1) | no | unit 1 (1:51) | 3:4, 3:10, 3:38 | 8 |
 | `near` | draw near; bring near, present | 7126 | 1:51 (unit 1) | no | unit 1 (1:51) | 3:4, 3:6, 3:10, 3:38 | 62 |
@@ -336,6 +336,6 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
 
 ## Known source gaps
 
-No Ibn Ezra: the field and the unit map (U01, the census numbers) point to him, so search for him in pass 2 and say what you read. Name him in chat and the handoff, never in fragment prose.
+No Ibn Ezra file. Sefaria has him piecemeal at `Ibn_Ezra_on_Numbers.<ch>.<v>`; at Unit 1 nothing came back for 1:17–19, 1:51, 1:52 or 1:54. Rashi has no comments on the chapter 1 numbers verses. The Ibn Ezra / Rashi / Ramban dispute over the identical totals (Exod 38:26, Num 1:46) is on hand only as a modern summary, so say it is secondhand. Search for him in pass 2 and say what you read. Name him in chat and the handoff, never in fragment prose.
 
 No Milgrom (JPS), Wenham (Tyndale), Ashley (NICOT), or Sailhamer in the project files; Constable's bibliography names them secondhand but their actual arguments aren't available here. Flag any unit where one of these would materially change the reading, and search the web for it in pass 2 rather than relying on Constable's summary.
