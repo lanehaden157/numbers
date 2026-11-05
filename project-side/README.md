@@ -21,7 +21,7 @@ should sync belongs in core's `DEFAULT_SYNC`, with a role in `ROLES`.
 
 | file | direction | why |
 |---|---|---|
-| `CHAT_SIDE_INSTRUCTIONS.md` | pasted by hand into the instruction field | the connector can't write the field. `sync-check` says when it needs re-pasting; run `sync-check --mark-pasted` after pasting |
+| `CHAT_SIDE_INSTRUCTIONS.md` | pasted by hand into the instruction field | the connector can't write the field. Claude says when it changed; Lane pastes it. Nothing tracks the paste |
 | `source-artifacts/numbers_NN_translation.html` | project → repo | each unit's artifact, saved into the repo before `port` |
 
 **The unit map** (`numbers-literary-unit-map.md`) was delivered by hand once

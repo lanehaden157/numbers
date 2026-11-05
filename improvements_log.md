@@ -106,3 +106,8 @@ Append-only. Concrete changes to this book's repo, most recent last.
 - Resources: Ibn Ezra under Gaps; synced files are fetched, not project knowledge; TODOs for two attachment names; native-script note for `Numbers-words.tsv`.
 - Style reference, `canon-decisions.md`: promotion is Claude's call, close calls through the handoff. Wording calls go in the handoff's Decisions. Native-script "do not copy" notes (also `translation-choices.md`).
 - Unit map: names exemption stated, U03 title matches `data/units.json`, U28 mid-verse note and a corrected placement against 26:64-65.
+
+## 2026-11-04 — Core 0.25.0
+- Vendored 0.25.0 (instruction-field paste tracking removed), then `migrate` (unit metas, `contract` 0.25.0). CLAUDE.md and project-side README no longer mention `--mark-pasted`: Claude says when the field changed and Lane pastes it.
+- `story` enabled (Lane, 2026-11-04, for parity with Joshua and Matthew). Style reference gets the story box row, a Numbers bullet, *What belongs where*, the handoff box-kind mapping and checklist item 19; later retellings (Deut 1–3) stay echoes or footnotes, no parallel box.
+- Style reference over its 24 KB budget after the story section: the "no law-code component" rationale moved here. Law reads as ordinary verse text with `.gloss` or footnotes for the casuistic "if… then"; a component waits until a Deuteronomy-family book needs one too.

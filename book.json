@@ -18,7 +18,8 @@
     "list",
     "poem",
     "itin",
-    "textform"
+    "textform",
+    "story"
   ],
   "checks": {
     "opens_note_required": true
