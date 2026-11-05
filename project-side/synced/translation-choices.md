@@ -25,7 +25,7 @@ is more likely right; flag the mismatch.
 
 | word | Hebrew (translit.) | rendering | note |
 |---|---|---|---|
-| account / appoint | פקד (paqad) | **account** language for counting, judgment and absence (take account of, be accounted for, called to account, missing); **appoint / put in charge** for the causative and appointment uses (1:50) | Decided at unit 1 (2026-09-23). Replaces the draft's flat "muster"; the root slug is now `account` (translit `paqad`), so the thread tracks across senses. Unit title and pericope headings still say "muster" as plain English. |
+| account / appoint | פקד (paqad) | **account** language for counting, judgment and absence (take account of, be accounted for, called to account, missing); **appoint / put in charge** for the causative and appointment uses (1:50) | Decided at unit 1 (2026-09-23). Replaces the draft's flat "muster"; the root slug is now `account` (translit `paqad`), so the thread tracks across senses. |
 | army | צבא (tsavaʾ) | **army**; 4:3's Levite "service at the tent" keeps "army" on purpose | Decided at unit 1. Let the jar show. |
 | community | עדה (ʿedah) | **community** | Decided at unit 1. |
 | chieftain | נשיא (nasiʾ) | **chieftain** | Decided at unit 1. |

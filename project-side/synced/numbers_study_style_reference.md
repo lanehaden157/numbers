@@ -399,7 +399,7 @@ Minimal and valid, abridged from this book's unit 1 (1:1–3). Copy its shape.
   "roots": [
     { "root": "polls", "translit": "gulgolet", "gloss": "skull; hence a head counted, per person",
       "example": "every male, by their skulls",
-      "echo": "Exod 30:12; 38:26 — the same per-head count, paid as a half-shekel ransom so that no plague strikes when Yisrael is counted" }
+      "echo": "Exod 16:16; 38:26 — manna gathered per skull, and the half-shekel paid per skull by the same 603,550" }
   ],
   "threads": {
     "opens": [

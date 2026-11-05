@@ -1,6 +1,6 @@
 # Cross-unit threads — canonical digest
 
-Generated from `data/threads.json` (version 1). 19 threads, 19 open.
+Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 
 **The source of truth for thread tagging.** Tag every occurrence of a thread below with `<span class="r" data-root="<id>">…</span>` (the porter fills `data-w`) and list it under `threads.opens` / `threads.payoffs`. A root not listed here is unit-local: declare it in the unit's `roots`. To propose one, add it to `threads.candidates` with a one-line reason and the lemma `ids` you saw in `Numbers-words.tsv`. **Claude decides, biased toward book-wide** (a local root that later pays off is worse than a tracked one that doesn't), and asks Lane only when genuinely unsure.
 
@@ -11,6 +11,7 @@ Generated from `data/threads.json` (version 1). 19 threads, 19 open.
 | `called` | qaraʾ | call, summon; the summoned ones | 1 (1:16) | — |
 | `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) · 4 (4:27) |
 | `community` | ʿedah | community, assembly gathered as one body | 1 (1:2) | 3 (3:7) |
+| `number` | mispar | number, tally | 1 (1:2) | 3 (3:22) · 9 (9:20) · 14 (14:29) · 15 (15:12) · 26 (23:10) · 29 (26:53) · 31 (29:18) · 33 (31:36) |
 | `wrath` | qetsef | wrath, anger that breaks out | 1 (1:53) | — |
 | `camp` | ḥanah | encamp; a camp, the body encamped | 2 (2:2) | — |
 | `chieftain` | nasiʾ | chieftain, one lifted up to lead | 2 (2:3) | — |
@@ -41,6 +42,7 @@ Generated from `data/threads.json` (version 1). 19 threads, 19 open.
 - **`firstborn`**: bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4.
 - **`holy`**: qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel.
 - **`near`**: qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near.
+- **`number`**: mispar, the count itself; 34 occurrences. In chs. 15 and 29 it tallies offerings, not persons.
 - **`serve`**: The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it.
 - **`set-out`**: nasaʿ, pulling up stakes: the itinerary verb, first ordered here, first narrated at 10:11–36, and repeated at every station of ch. 33.
 - **`stranger`**: zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18.
