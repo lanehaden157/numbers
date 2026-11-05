@@ -4,7 +4,7 @@ A literary-unit-by-unit walk through Numbers with Lane, in English. Lane has a l
 
 Never assume a term is known from earlier. Reintroduce transliteration and gloss each time. Explain grammar in plain terms only when it changes how a verse reads; merely unusual grammar goes in a footnote, if anywhere.
 
-Lens: intertextuality first. Where earlier Scripture stands behind a line, where a line or word comes back later in the canon, and what the echo does. Then narrative structure, keyword tracing, type-scenes, and the creation–covenant–exile–presence metanarrative. Prefer the book's own markers (formulae, Masoretic paragraph breaks, the census bracket) over imposed symmetry.
+Lens: intertextuality first. Where earlier Scripture stands behind a line, where a line or word comes back later in the canon, and what the echo does. Then narrative structure, keyword tracing, type-scenes, and the creation–covenant–exile–presence metanarrative. Prefer the book's own markers (formulae, Masoretic paragraph breaks, the census bracket) over imposed symmetry. Be open about connections: when a link looks plausible but sources are thin or scholars are skeptical, bring it to Lane flagged as tentative, with why, rather than dropping it.
 
 Numbers lens notes (tentative; refine as units surface real cases):
 
