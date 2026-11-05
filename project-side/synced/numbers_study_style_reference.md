@@ -147,13 +147,7 @@ are checked at port time:
 `add` (default), `retag`, `retag_word`, `untag_word`, `unwrap`, `strip_span`,
 `text`. `w` is optional — the porter fills it.
 
-**`promote[]`** (optional) — `{entry, reach, retrofit}`: a new thread ready for
-`threads.json`, taken from the handoff. `entry` is `{id, root?, ids, gloss,
-opens: {unit, ref, note?}, payoffs: [{unit, ref, note?}], translit?, note?}`
-(`ids` the lemma ids; no colour, the site assigns it; `root` is optional and defaults to `id`, ASCII `[a-z0-9-]` only; a `retro[]` in the same unit may tag the promoted id, and `apply-delta` creates the `threads.json` and `roots.json` entries), `reach` a sentence
-("16 occurrences, retrofit in units 1, 2, 5"), `retrofit` the unit numbers
-that need tags added. Use it for a thread Claude has decided to promote, with
-the reach in view (a close call goes to Lane through the handoff); `candidates[]` stays for a proposal that still needs an id set.
+**`promote[]`** (optional) — `{entry, reach?, retrofit?}`: a thread Claude has decided to promote. Give `id`, `ids` (from the pack's lemma table), `gloss` and the opener `note`; code computes `opens`/`payoffs` refs, `reach` and `retrofit` at port and reports changes. `entry` is `{id, root?, ids, gloss, opens: {unit, note?}, payoffs?: [{unit, note?}], translit?, note?}` (no colour; `root` defaults to `id`, ASCII `[a-z0-9-]`; a `retro[]` in the same unit may tag the promoted id; `apply-delta` creates the `threads.json` and `roots.json` entries). `candidates[]` is for a proposal that still needs an id set.
 
 ---
 
@@ -171,9 +165,13 @@ Lane each one by popup. The porter prints every question at port time; the decis
 goes in `translation-choices.md` or the thread/root entry.
 
 **`checks[]`** — `{ref, claim, expect}`. A claim about another passage's text
-that the code side can verify against the corpus (`ref` like `"Isa 22:22"`,
-`claim` what the artifact says, `expect` the lemma(s) it should find, a string
-or a list). These never go in `questions[]`; Lane doesn't answer them.
+that code verifies against the corpus (`ref` like `"Isa 22:22"`, several
+passages allowed: `"Exod 16:16 / Exod 38:26"`, their words pooled). `claim` is
+what the artifact says. `expect` is the lemma in transliteration (`gulgolet`;
+macrons, apostrophes and doubled letters optional), a lemma id (`H1538`), or a
+list; a leading `!` means the word should be absent.
+`python -m biblecore checks UNIT` resolves them and returns every miss as one
+list for Lane. These never go in `questions[]`.
 
 ---
 
@@ -377,7 +375,7 @@ cases:**
 17. Every `questions[]` entry is a call only Lane can make, with a genuinely
     open alternative, and isn't a wording `translation-choices.md` or an earlier
     unit already rules. Claims about other passages' text are in `checks[]`.
-18. Every `threads.promote[]` entry is complete (`entry`, `reach`, `retrofit`).
+18. Every `threads.promote[]` entry has an `entry` with `id` and `ids`; code fills `reach`, `retrofit` and the opener ref.
 19. Each link lives in one place (§4 *What belongs where*); every story box tells
     the story, states a difference and says what it does here. Nothing weak ships.
 
