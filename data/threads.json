@@ -360,6 +360,63 @@
       },
       "payoffs": [],
       "note": "Blue marks the chest on the road and every Israelite's tassel (15:38)."
+    },
+    {
+      "id": "number",
+      "root": "number",
+      "translit": "mispar",
+      "gloss": "number, tally",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:2",
+        "note": "‘By the number of names’: the count of persons that frames both censuses."
+      },
+      "payoffs": [
+        {
+          "unit": 3,
+          "ref": "3:22",
+          "note": "The Levite clans counted by the same formula."
+        },
+        {
+          "unit": 9,
+          "ref": "9:20",
+          "note": "A ‘number of days’ under the cloud."
+        },
+        {
+          "unit": 14,
+          "ref": "14:29",
+          "note": "‘All your accounted ones, by your whole number’ fall in the wilderness; 14:34 sets the number of days to years."
+        },
+        {
+          "unit": 15,
+          "ref": "15:12",
+          "note": "Offerings scaled ‘by the number’ of animals."
+        },
+        {
+          "unit": 26,
+          "ref": "23:10",
+          "note": "Balaam: who has numbered a fourth of Yisrael?"
+        },
+        {
+          "unit": 29,
+          "ref": "26:53",
+          "note": "The land divided ‘by the number of names’ — the formula of 1:2 returns."
+        },
+        {
+          "unit": 31,
+          "ref": "29:18",
+          "note": "The festival offerings ‘by their number’: the sense drifts to a tally of animals."
+        },
+        {
+          "unit": 33,
+          "ref": "31:36",
+          "note": "The Midian spoil divided by number."
+        }
+      ],
+      "note": "mispar, the count itself; 34 occurrences. In chs. 15 and 29 it tallies offerings, not persons.",
+      "color": "#a66566"
     }
   ]
 }

@@ -111,3 +111,7 @@ Append-only. Concrete changes to this book's repo, most recent last.
 - Vendored 0.25.0 (instruction-field paste tracking removed), then `migrate` (unit metas, `contract` 0.25.0). CLAUDE.md and project-side README no longer mention `--mark-pasted`: Claude says when the field changed and Lane pastes it.
 - `story` enabled (Lane, 2026-11-04, for parity with Joshua and Matthew). Style reference gets the story box row, a Numbers bullet, *What belongs where*, the handoff box-kind mapping and checklist item 19; later retellings (Deut 1–3) stay echoes or footnotes, no parallel box.
 - Style reference over its 24 KB budget after the story section: the "no law-code component" rationale moved here. Law reads as ordinary verse text with `.gloss` or footnotes for the casuistic "if… then"; a component waits until a Deuteronomy-family book needs one too.
+
+## 2026-11-04 — unit 1 re-port and the `number` promotion
+Gotcha: a source with `data-root="number"` fails the port ("resolves to no colour") until `number` is a thread, but once `apply-delta` has made it one, the same source's `threads.promote` entry fails ("already a thread -- use opens/payoffs"). Worked around by porting from a copy with `promote` emptied; `apply-delta` had already written the opens/payoffs. `numbers_01_translation.html` still carries the `promote` entry, so a later `port 1 --force` will hit this again until it is removed.
+Core 0.26.0 is pinned and vendored but not yet described here.

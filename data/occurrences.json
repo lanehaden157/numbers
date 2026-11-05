@@ -1,11 +1,10 @@
 {
   "unit-01": {
     "account": {
-      "count": 10,
+      "count": 9,
       "verses": [
         3,
         19,
-        21,
         44,
         45,
         46,
@@ -22,44 +21,38 @@
         },
         {
           "v": 19,
-          "pre": "…as Yahweh commanded Moshe. And he ",
+          "pre": "…as Yahweh commanded Moshe; and he ",
           "hit": "took account of",
           "post": " them in the wilderness of Sinai.…"
         },
         {
-          "v": 21,
-          "pre": "…their ",
-          "hit": "accounted-for",
-          "post": ", for the tribe of Reuven: forty-six thousand five hund…"
-        },
-        {
           "v": 44,
           "pre": "…These are the ",
-          "hit": "accounted-for",
-          "post": " whom Moshe accounted for, and Aharon, and the chieftai…"
+          "hit": "accounted ones",
+          "post": " whom Moshe took account of, and Aharon, and the chieft…"
         },
         {
           "v": 44,
-          "pre": "…These are the accounted-for whom Moshe ",
-          "hit": "accounted for",
-          "post": ", and Aharon, and the chieftains of Yisrael — twelve me…"
+          "pre": "…These are the accounted ones whom Moshe ",
+          "hit": "took account of",
+          "post": ", and Aharon, and the chieftains of Yisrael, twelve men…"
         },
         {
           "v": 45,
           "pre": "…And all the ",
-          "hit": "accounted-for",
+          "hit": "accounted ones",
           "post": " of Yisrael’s sons by their fathers’ house, from twenty…"
         },
         {
           "v": 46,
           "pre": "…all the ",
-          "hit": "accounted-for",
-          "post": " were six hundred three thousand five hundred fifty.…"
+          "hit": "accounted ones",
+          "post": " were six hundred thousand and three thousand and five…"
         },
         {
           "v": 47,
           "pre": "…But the Levites, by their fathers’ tribe, were not ",
-          "hit": "accounted for",
+          "hit": "accounted",
           "post": " among them.…"
         },
         {
@@ -70,26 +63,25 @@
         },
         {
           "v": 50,
-          "pre": "…Rather, ",
+          "pre": "…And you — ",
           "hit": "appoint",
-          "post": " the Levites over the Dwelling of the Testimony, over a…"
+          "post": " the Levites over the Dwelling of the Testimony, and ov…"
         }
       ],
       "total": 10
     },
     "army": {
-      "count": 5,
+      "count": 4,
       "verses": [
         3,
-        20,
         45,
         52
       ],
       "hits": [
         {
           "v": 3,
-          "pre": "…rom twenty years old and up, everyone going out to the ",
-          "hit": "army",
+          "pre": "…From twenty years old and up, everyone ",
+          "hit": "going out to the army",
           "post": " in Yisrael — y’all shall take account of them by their…"
         },
         {
@@ -99,20 +91,14 @@
           "post": ", you and Aharon.…"
         },
         {
-          "v": 20,
-          "pre": "…rom twenty years old and up, everyone going out to the ",
-          "hit": "army",
-          "post": " —…"
-        },
-        {
           "v": 45,
-          "pre": "…rom twenty years old and up, everyone going out to the ",
-          "hit": "army",
+          "pre": "…fathers’ house, from twenty years old and up, everyone ",
+          "hit": "going out to the army",
           "post": " in Yisrael —…"
         },
         {
           "v": 52,
-          "pre": "…man at his camp and each man by his company, by their ",
+          "pre": "…man by his camp and each man by his company, by their ",
           "hit": "armies",
           "post": ".…"
         }
@@ -127,8 +113,8 @@
       "hits": [
         {
           "v": 16,
-          "pre": "…These were the ",
-          "hit": "summoned",
+          "pre": "…These are the ",
+          "hit": "called",
           "post": " of the community, chieftains of their fathers’ tribes;…"
         }
       ],
@@ -145,7 +131,7 @@
       "hits": [
         {
           "v": 50,
-          "pre": "…hey shall serve it, and around the Dwelling they shall ",
+          "pre": "…all minister to it, and around the Dwelling they shall ",
           "hit": "camp",
           "post": ".…"
         },
@@ -157,21 +143,21 @@
         },
         {
           "v": 52,
-          "pre": "…Yisrael’s sons shall ",
+          "pre": "…And Yisrael’s sons shall ",
           "hit": "camp",
-          "post": " each man at his camp and each man by his company, by t…"
+          "post": ", each man by his camp and each man by his company, by…"
         },
         {
           "v": 52,
-          "pre": "…Yisrael’s sons shall ",
+          "pre": "…And Yisrael’s sons shall ",
           "hit": "camp",
-          "post": " each man at his camp and each man by his company, by t…"
+          "post": ", each man by his camp and each man by his company, by…"
         },
         {
           "v": 53,
-          "pre": "…But the Levites shall ",
+          "pre": "…And the Levites shall ",
           "hit": "camp",
-          "post": " around the Dwelling of the Testimony, so there is no w…"
+          "post": " around the Dwelling of the Testimony, so that there be…"
         }
       ],
       "total": 5
@@ -188,7 +174,7 @@
           "v": 2,
           "pre": "…“",
           "hit": "Lift",
-          "post": " the head of the whole community of Yisrael’s sons — by…"
+          "post": " the head of the whole community of Yisrael’s sons, by…"
         },
         {
           "v": 49,
@@ -198,9 +184,9 @@
         },
         {
           "v": 50,
-          "pre": "…ts vessels and over all that belongs to it. They shall ",
+          "pre": "…s vessels, and over all that belongs to it. They shall ",
           "hit": "carry",
-          "post": " the Dwelling and all its vessels, and they shall serve…"
+          "post": " the Dwelling and all its vessels, and they shall minis…"
         }
       ],
       "total": 3
@@ -229,15 +215,15 @@
       "hits": [
         {
           "v": 16,
-          "pre": "…These were the summoned of the community, ",
+          "pre": "…These are the called of the community, ",
           "hit": "chieftains",
-          "post": " of their fathers’ tribes; they were heads of the thous…"
+          "post": " of their fathers’ tribes; they are the heads of the th…"
         },
         {
           "v": 44,
-          "pre": "…nted-for whom Moshe accounted for, and Aharon, and the ",
+          "pre": "…d ones whom Moshe took account of, and Aharon, and the ",
           "hit": "chieftains",
-          "post": " of Yisrael — twelve men, one man each for his fathers’…"
+          "post": " of Yisrael, twelve men; each was one man for his fathe…"
         }
       ],
       "total": 2
@@ -255,13 +241,13 @@
           "v": 2,
           "pre": "…“Lift the head of the whole ",
           "hit": "community",
-          "post": " of Yisrael’s sons — by their clans, by their fathers’…"
+          "post": " of Yisrael’s sons, by their clans, by their fathers’ h…"
         },
         {
           "v": 16,
-          "pre": "…These were the summoned of the ",
+          "pre": "…These are the called of the ",
           "hit": "community",
-          "post": ", chieftains of their fathers’ tribes; they were heads…"
+          "post": ", chieftains of their fathers’ tribes; they are the hea…"
         },
         {
           "v": 18,
@@ -271,7 +257,7 @@
         },
         {
           "v": 53,
-          "pre": "…Dwelling of the Testimony, so there is no wrath on the ",
+          "pre": "…ing of the Testimony, so that there be no wrath on the ",
           "hit": "community",
           "post": " of Yisrael’s sons; and the Levites shall keep the char…"
         }
@@ -286,7 +272,7 @@
       "hits": [
         {
           "v": 52,
-          "pre": "…ns shall camp each man at his camp and each man by his ",
+          "pre": "…s shall camp, each man by his camp and each man by his ",
           "hit": "company",
           "post": ", by their armies.…"
         }
@@ -309,18 +295,9 @@
       "total": 1
     },
     "firstborn": {
-      "count": 1,
-      "verses": [
-        20
-      ],
-      "hits": [
-        {
-          "v": 20,
-          "pre": "…The sons of Reuven, Yisrael’s ",
-          "hit": "firstborn",
-          "post": " — their generations, by their clans, by their fathers’…"
-        }
-      ],
+      "count": 0,
+      "verses": [],
+      "hits": [],
       "total": 1
     },
     "near": {
@@ -338,12 +315,33 @@
       ],
       "total": 1
     },
-    "polls": {
-      "count": 3,
+    "number": {
+      "count": 2,
       "verses": [
         2,
-        18,
-        20
+        18
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…sons, by their clans, by their fathers’ house, by the ",
+          "hit": "number",
+          "post": " of names, every male, by their skulls.…"
+        },
+        {
+          "v": 18,
+          "pre": "…escent by their clans, by their fathers’ house, by the ",
+          "hit": "number",
+          "post": " of names, from twenty years old and up, by their skull…"
+        }
+      ],
+      "total": 3
+    },
+    "polls": {
+      "count": 2,
+      "verses": [
+        2,
+        18
       ],
       "hits": [
         {
@@ -357,15 +355,9 @@
           "pre": "…umber of names, from twenty years old and up, by their ",
           "hit": "skulls",
           "post": ",…"
-        },
-        {
-          "v": 20,
-          "pre": "…their fathers’ house, by the number of names, by their ",
-          "hit": "skulls",
-          "post": ", every male from twenty years old and up, everyone goi…"
         }
       ],
-      "total": 3
+      "total": 2
     },
     "set-out": {
       "count": 1,
@@ -398,38 +390,31 @@
       "total": 1
     },
     "tribe-staff": {
-      "count": 5,
+      "count": 4,
       "verses": [
         4,
         16,
-        21,
         47,
         49
       ],
       "hits": [
         {
           "v": 4,
-          "pre": "…And with y’all there shall be a man for each ",
+          "pre": "…And with you there shall be a man, a man for each ",
           "hit": "tribe",
-          "post": ", each man head of his fathers’ house.…"
+          "post": ", each man the head of his fathers’ house.…"
         },
         {
           "v": 16,
-          "pre": "…ummoned of the community, chieftains of their fathers’ ",
+          "pre": "…called of the community, chieftains of their fathers’ ",
           "hit": "tribes",
-          "post": "; they were heads of the thousands of Yisrael.…"
-        },
-        {
-          "v": 21,
-          "pre": "…their accounted-for, for the ",
-          "hit": "tribe",
-          "post": " of Reuven: forty-six thousand five hundred.…"
+          "post": "; they are the heads of the thousands of Yisrael.…"
         },
         {
           "v": 47,
           "pre": "…But the Levites, by their fathers’ ",
           "hit": "tribe",
-          "post": ", were not accounted for among them.…"
+          "post": ", were not accounted among them.…"
         },
         {
           "v": 49,
@@ -448,7 +433,7 @@
       "hits": [
         {
           "v": 53,
-          "pre": "…p around the Dwelling of the Testimony, so there is no ",
+          "pre": "…und the Dwelling of the Testimony, so that there be no ",
           "hit": "wrath",
           "post": " on the community of Yisrael’s sons; and the Levites sh…"
         }
@@ -1374,6 +1359,28 @@
         }
       ],
       "total": 4
+    },
+    "number": {
+      "count": 2,
+      "verses": [
+        40,
+        43
+      ],
+      "hits": [
+        {
+          "v": 40,
+          "pre": "…he Israelites from a month old and up, and take up the ",
+          "hit": "number",
+          "post": " of their names.…"
+        },
+        {
+          "v": 43,
+          "pre": "…And every firstborn male by the ",
+          "hit": "number",
+          "post": " of names, from a month old and up, of those accounted…"
+        }
+      ],
+      "total": 2
     },
     "priest": {
       "count": 5,

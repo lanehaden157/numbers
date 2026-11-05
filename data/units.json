@@ -194,23 +194,22 @@
           "translit": "gulgolet",
           "gloss": "skull; hence a head counted, per person",
           "example": "every male, by their skulls",
-          "echo": "Exod 30:12; 38:26 — the same per-head count, paid as a half-shekel ransom so that no plague strikes when Yisrael is counted"
-        },
-        "descent": {
-          "color": "#3d6b4a",
-          "translit": "yalad",
-          "gloss": "bear, beget; here, register one’s lineage",
-          "example": "they declared their descent by their clans"
+          "echo": "Exod 16:16; 38:26 — manna was gathered per skull, and the half-shekel was paid per skull by the same 603,550"
         },
         "company": {
           "color": "#5a5a9c",
           "translit": "degel",
-          "gloss": "company, the tribal unit camped under one standard; traditionally ‘banner’",
-          "example": "each man by his company",
-          "echo": "Song 2:4 — the only use outside Numbers, usually read ‘his banner over me is love’"
+          "gloss": "company; the tribal body camped under one standard",
+          "example": "each man by his company"
+        },
+        "descent": {
+          "color": "#3d6b4a",
+          "translit": "yalad",
+          "gloss": "bear, give birth; here, to have one's birth-line declared",
+          "example": "they declared their descent by their clans"
         }
       },
-      "contract": "0.25.0"
+      "contract": "0.26.0"
     },
     {
       "n": 2,

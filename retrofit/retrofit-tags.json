@@ -72,6 +72,22 @@
       "root": "army",
       "w": "04c5N",
       "why": "promoted thread, unit 4"
+    },
+    {
+      "unit": "unit-03",
+      "verse": 40,
+      "text": "number",
+      "root": "number",
+      "w": "04FrL",
+      "why": "promoted thread, unit 1"
+    },
+    {
+      "unit": "unit-03",
+      "verse": 43,
+      "text": "number",
+      "root": "number",
+      "w": "044HM",
+      "why": "promoted thread, unit 1"
     }
   ]
 }

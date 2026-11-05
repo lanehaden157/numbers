@@ -3,10 +3,18 @@
   "intertext": [
     {
       "from": "Num 1:2",
-      "to": "Exod 30:12",
+      "to": "Exod 16:16",
       "kind": "echo",
       "unit": 1,
       "note": "root polls",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:2",
+      "to": "Exod 30:12",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
       "source": "echo"
     },
     {
@@ -18,23 +26,79 @@
       "source": "echo"
     },
     {
-      "from": "Num 1:2",
-      "to": "Gen 15:5",
+      "from": "Num 1:3",
+      "to": "Exod 12:41",
       "kind": "echo",
       "unit": 1,
       "note": "",
       "source": "echo"
     },
     {
-      "from": "Num 1:2",
-      "to": "Gen 22:17",
+      "from": "Num 1:3",
+      "to": "Exod 6:26",
       "kind": "echo",
       "unit": 1,
       "note": "",
       "source": "echo"
     },
     {
-      "from": "Num 1:2",
+      "from": "Num 1:3",
+      "to": "Gen 21:1",
+      "kind": "echo",
+      "unit": 1,
+      "note": "paqad: Yahweh ‘took account of’ (visited) Sarah — the same verb that registers the army.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 1:5",
+      "to": "1 Chr 5:2",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:5",
+      "to": "Gen 35:23–26",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:5",
+      "to": "Gen 49:4",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:10",
+      "to": "Gen 48:5",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:10",
+      "to": "1 Chr 7:27",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Elishama son of Ammihud is Yehoshua’s grandfather (1 Chr 7:26–27).",
+      "source": "meta"
+    },
+    {
+      "from": "Num 1:46",
+      "to": "Exod 38:26",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:46",
       "to": "Isa 40:26",
       "kind": "echo",
       "unit": 1,
@@ -42,7 +106,7 @@
       "source": "echo"
     },
     {
-      "from": "Num 1:2",
+      "from": "Num 1:46",
       "to": "Ps 147:4",
       "kind": "echo",
       "unit": 1,
@@ -50,67 +114,27 @@
       "source": "echo"
     },
     {
-      "from": "Num 1:7",
-      "to": "1 Chr 2:10–11",
-      "kind": "echo",
-      "unit": 1,
-      "note": "",
-      "source": "echo"
-    },
-    {
-      "from": "Num 1:7",
-      "to": "Luke 3:32–33",
-      "kind": "echo",
-      "unit": 1,
-      "note": "",
-      "source": "echo"
-    },
-    {
-      "from": "Num 1:7",
-      "to": "Matt 1:4",
-      "kind": "echo",
-      "unit": 1,
-      "note": "",
-      "source": "echo"
-    },
-    {
-      "from": "Num 1:7",
-      "to": "Ruth 4:19–20",
-      "kind": "echo",
-      "unit": 1,
-      "note": "",
-      "source": "echo"
-    },
-    {
       "from": "Num 1:46",
-      "to": "1 Chr 21:1–8",
+      "to": "Gen 15:5",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Count the stars if you can — so shall your seed be; here the seed is counted.",
+      "source": "meta"
+    },
+    {
+      "from": "Num 1:49",
+      "to": "2 Sam 24:1–15",
+      "kind": "type-scene",
+      "unit": 1,
+      "note": "David’s census",
+      "source": "story"
+    },
+    {
+      "from": "Num 1:53",
+      "to": "Josh 22:20",
       "kind": "echo",
       "unit": 1,
       "note": "",
-      "source": "echo"
-    },
-    {
-      "from": "Num 1:46",
-      "to": "2 Sam 24:1–10",
-      "kind": "echo",
-      "unit": 1,
-      "note": "",
-      "source": "echo"
-    },
-    {
-      "from": "Num 1:46",
-      "to": "Num 26:64–65",
-      "kind": "echo",
-      "unit": 1,
-      "note": "",
-      "source": "echo"
-    },
-    {
-      "from": "Num 1:52",
-      "to": "Song 2:4",
-      "kind": "echo",
-      "unit": 1,
-      "note": "root company",
       "source": "echo"
     },
     {
@@ -675,6 +699,13 @@
     }
   ],
   "typescenes": [
+    {
+      "id": "census",
+      "ref": "Num 1:49",
+      "unit": 1,
+      "note": "David’s census",
+      "source": "story"
+    },
     {
       "id": "younger-preferred",
       "ref": "Num 2:18",
