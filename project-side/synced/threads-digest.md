@@ -8,44 +8,44 @@ Generated from `data/threads.json` (version 1). 20 threads, 20 open.
 |---|---|---|---|---|
 | `account` | paqad | take account of, attend to; call to account; appoint, put in charge | 1 (1:3) | 2 (2:33) · 3 (3:10) · 3 (3:39) · 4 (4:32) |
 | `army` | tsavaʾ | army, fighting force; organized service | 1 (1:3) | 4 (4:3) |
-| `called` | qaraʾ | call, summon; the summoned ones | 1 (1:16) | — |
+| `camp` | ḥanah | encamp; a camp, the body encamped | 1 (1:50) | 2 (2:2) |
+| `carry` | nasaʾ / masaʾ | carry, lift, burden | 1 (1:2) | 4 (4:15) |
 | `charge` | mishmeret | charge, guard-duty, what one keeps watch over | 1 (1:53) | 3 (3:7) · 3 (3:38) · 4 (4:27) |
+| `chieftain` | nasiʾ | chieftain, one lifted up to lead | 1 (1:16) | — |
 | `community` | ʿedah | community, assembly gathered as one body | 1 (1:2) | 3 (3:7) |
+| `near` | qarav | draw near; bring near, present | 1 (1:51) | 3 (3:4) |
 | `number` | mispar | number, tally | 1 (1:2) | 3 (3:22) · 9 (9:20) · 14 (14:29) · 15 (15:12) · 26 (23:10) · 29 (26:53) · 31 (29:18) · 33 (31:36) |
+| `set-out` | nasaʿ | pull up stakes, set out, march | 1 (1:51) | 2 (2:9) |
+| `stranger` | zar | stranger, one not authorized; strange, unsanctioned | 1 (1:51) | 3 (3:4) |
+| `tribe-staff` | maṭṭeh | staff; a tribe | 1 (1:4) | — |
 | `wrath` | qetsef | wrath, anger that breaks out | 1 (1:53) | — |
-| `camp` | ḥanah | encamp; a camp, the body encamped | 2 (2:2) | — |
-| `chieftain` | nasiʾ | chieftain, one lifted up to lead | 2 (2:3) | — |
-| `set-out` | nasaʿ | pull up stakes, set out, march | 2 (2:9) | — |
-| `tribe-staff` | maṭṭeh | staff; a tribe | 2 (2:5) | — |
+| `cover` | kasah / miksah | cover, covering | 3 (3:25) | 4 (4:6) |
 | `firstborn` | bekhor | firstborn | 3 (3:12) | — |
 | `holy` | qadash | holy; set apart; the holy place | 3 (3:13) | 4 (4:15) |
-| `near` | qarav | draw near; bring near, present | 3 (3:4) | — |
-| `stranger` | zar | stranger, one not authorized; strange, unsanctioned | 3 (3:4) | — |
+| `serve` | ʿavad / ʿavodah | serve, service | 3 (3:7) | 4 (4:3) |
 | `blue` | tekhelet | blue | 4 (4:6) | — |
-| `carry` | nasaʾ / masaʾ | carry, lift, burden | 4 (4:15) | — |
-| `cover` | kasah / miksah | cover, covering | 4 (4:6) | — |
-| `serve` | ʿavad / ʿavodah | serve, service | 4 (4:3) | — |
 | `touch` | nagaʿ | touch | 4 (4:15) | — |
+| `called` | qeriʾ | call, summon; the summoned ones | 16 (16:2) | 29 (26:9) |
 
 ## Notes per thread
 
 - **`account`**: paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29).
 - **`army`**: tsavaʾ, the fighting force Israel is accounted into; 4:3 reuses it for Levite service at the tent and 31 for the Midian campaign.
 - **`blue`**: Blue marks the chest on the road and every Israelite's tassel (15:38).
-- **`called`**: ‘The summoned of the community’ opens here and returns for Korach’s company and in the second census’s note on Datan and Aviram (16:2; 26:9).
-- **`camp`**: ḥanah / maḥaneh, the camp and its camping: the ordered space around the tent whose purity, edge and outside carry the book (5:2–4; 12:14–15; 14:44; 19:3).
-- **`carry`**: Counting (lift the head), carrying and the burden are one lexeme; it returns for Moshe's burden and for bearing iniquity.
+- **`called`**: qeriʾ, ‘called’: the called ones of the community (qeriʾe ha-ʿedah) are the chieftains at 16:2 and 26:9, where Korach’s company and Datan and Aviram are described by the title the chieftains bear in 1:16 (there a different form, qeruʾe).
+- **`camp`**: ḥanah, to camp: first the Levites camp around the Dwelling as a cordon (1:50, 53); ch. 2 then orders the whole camp around it, and the camp’s purity and edge carry the book (5:2–4; 12:14–15; 14:44; 19:3).
+- **`carry`**: Counting (‘lift the head’, 1:2), carrying and the burden are one lexeme; it returns for Moshe’s burden and for bearing iniquity.
 - **`charge`**: mishmeret, the Levites’ and priests’ ‘charge’ that structures chs. 3–4 and 18.
-- **`chieftain`**: nasiʾ, the tribal heads: offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34).
+- **`chieftain`**: nasiʾ, the tribal heads: named here as the called of the community (1:16) and counted among the accounted (1:44); offerers (7), scouts (13), rebels (16:2), the Peor offender (25:14) and land-allotters (34).
 - **`community`**: ʿedah, Israel as one assembled body; it becomes the actor that complains, rebels and is judged (14:1–2, 16:3, 20:1–2).
-- **`cover`**: The wrapping verb; the cloud covers the Dwelling (9:15) and the earth covers Korach's company (16:33).
+- **`cover`**: The wrapping verb, first as the Dwelling’s covering (3:25); ch. 4 wraps each holy thing; the cloud covers the Dwelling (9:15) and the earth covers Korach’s company (16:33).
 - **`firstborn`**: bekhor: the Levites stand in for Yisrael's firstborn, claimed at the plague on Egypt; returns at 8:16–18, 18:15–17 and 33:4.
 - **`holy`**: qadash, qodesh, miqdash: the holiness that makes nearness dangerous, from the firstborn set apart to the holy place and its shekel.
-- **`near`**: qarav, the verb of legitimate presentation and lethal presumption alike; chs. 16–18 turn on who may draw near.
+- **`near`**: qarav, the verb of legitimate presentation and lethal presumption alike: first the stranger who comes near is put to death (1:51); chs. 16–18 turn on who may draw near.
 - **`number`**: mispar, the count itself; 34 occurrences. In chs. 15 and 29 it tallies offerings, not persons.
-- **`serve`**: The Levite job word; the exodus was 'that they may serve me', and chapters 8 and 18 build on it.
-- **`set-out`**: nasaʿ, pulling up stakes: the itinerary verb, first ordered here, first narrated at 10:11–36, and repeated at every station of ch. 33.
-- **`stranger`**: zar, the one not authorized to approach: Nadav and Avihu's strange fire, the cordon refrain (1:51; 3:10, 38), Korach's censers (16:40) and ch. 18.
+- **`serve`**: The Levite job word, first at 3:7–8 (‘to do the work of the Dwelling’); the exodus was ‘that they may serve me’, and chapters 8 and 18 build on it.
+- **`set-out`**: nasaʿ, ‘set out’: first as the Levites’ duty to take the Dwelling down when it sets out (1:51); ch. 2 orders the march, and it is narrated at 10:11–36 and repeated at every station of ch. 33.
+- **`stranger`**: zar, the one not authorized to approach: the cordon refrain first sounds here (1:51; again 3:10, 38); Korach’s censers (16:40) and ch. 18 return to it.
 - **`touch`**: The contact line of 4:15 returns in the corpse-contact law and the Midian purification.
-- **`tribe-staff`**: maṭṭeh, ‘tribe’ that is literally ‘staff’: ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it.
+- **`tribe-staff`**: maṭṭeh, ‘tribe’ that is literally ‘staff’: first as the man for each tribe (1:4, 16); ch. 17’s twelve staffs turn on it, and 26, 34 and 36 allot the land by it.
 - **`wrath`**: The Levite cordon keeps wrath off the community; the word returns when the cordon is breached (16:46; 18:5).
