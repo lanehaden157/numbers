@@ -129,3 +129,7 @@ Core 0.27.0 vendored. `unit-pack` ties rulings to words by transliteration only,
 - Seeded `data/mirror-exodus.json` from the research chat's file, which redrew several spans against the plan. Kept: A's Exodus side at the plan width, Exod 5:1–15:27 (Lane), and I at strength 2 (Lane) although the file's narrowed span passes at 3. Accepted as the research drew them: B (Num 22:22 start), C, D, E with beats, G, H (Num 11:10–30 / Exod 18:13–26), I (Exod 18:27 only). All shared words pass against OSHB.
 - Open risks: Exodus-only lemmas have no gloss in `lemmas.json`, so the pack leaves the gloss to the chat; E's beats overlap on the Exodus side (16:2–3 sits inside 16:1–12) and run in a different order from Exodus; pair B starts at 22:22, which is unit 25's first verse, while 22:21 stays in unit 24 with no box.
 - The research chat's original `mirror-exodus.json` is still untracked in the Numbers root (the repo copy is `data/mirror-exodus.json`).
+
+## 2026-11-11 — Lean instructions (core 0.30.0)
+- Layout: `CLAUDE.md` imports `biblecore/BOOK_CLAUDE.md`; `fragment-contract.md` is the shared contract and the style reference holds only this book's differences (it wins); each chat fetches one `card-*.md`. The pre-lean full style reference, CLAUDE.md and project-side README are in git history (the commit before this one).
+- Numbers' own worked example was dropped; the shared contract's example is a trimmed copy of it.

@@ -1,457 +1,102 @@
 # Numbers Study — Style Reference
 
-> **The artifact contract.** What a unit artifact must contain and must not.
-> `CHAT_SIDE_INSTRUCTIONS.md` and `core-workflow.md` say how to work;
-> `resources.md` says what's on hand; `CLAUDE.md` says how the repo behaves.
-> Each rule lives in one of them. `synced-index.md` lists every synced file.
+Numbers' differences from `fragment-contract.md` (shared, read first). This
+file wins.
 
-A guide, not a spec: where a rule gives a reason, the reason outranks the rule.
-Rules marked **(learned)** cost something to find in an earlier book — read
-the lesson before relaxing one. This file starts as the shared defaults from
-`bible-core/ARCHITECTURE.md`; **sections marked ✎ are this book's to decide**,
-and anything else can change too, with the reason written here.
+## Components
 
----
+On: echo, list, poem, itin, textform, story, mirror (`book.json`
+`"components"`; markup in `components-reference.md`). Where Numbers uses each:
 
-## 1. Colour policy
-
-One **lexical root** per `data-root` — the root and its same-root forms,
-never a theme or a bundle of words. Split a paired opposition into two roots;
-drop a one-passage wordplay. Fixed phrases the book repeats verbatim are the one
-exception and live in `threads.json`.
-
-Tag **every** occurrence with the one slug, **including where the English uses a
-different word** — the tag follows the lexeme, not the gloss.
-
-`translit` is one bare root form (Hebrew books), not a list of inflected forms;
-`gloss` is plain English (§3). No stem/binyan labels. A stem split that matters
-goes in a thread `note` or a verse `.gloss`, in plain language.
-
-Every slug must resolve — in `threads-digest.md` or this artifact's `roots[]` —
-or the build fails. **`roots[]` is local roots only**: don't re-declare a
-tracked thread there; `data/threads.json` is its single source of truth.
-
-**Tag notable words even when they aren't threads.** A single striking
-translation choice in a single verse earns a `data-root` span and a full
-`{root, translit, gloss}` entry. Read for these deliberately.
-
-**`example`** — optional on any root: one short quoted clause from the unit's
-own English, no citation.
-
-**`echo`** — optional on any root: one line saying where the word has already
-appeared, or where it reappears distinctively later, shown in the root's
-popover with a "cf.". Lead with the reference, then what it adds. Echoes come
-from the kept rows of the intertext pass's ledger, not from memory at
-drafting time.
-
-**Resist a richer taxonomy. (learned:** a root/motif two-tier model was built
-and reverted the same day. Root vs. stem vs. semantic field gets the same
-answer: one slug, one colour.**)**
-
----
-
-## 2. Root identity — ids, not strings
-
-**A root is a hand-curated set of lemma ids in `roots.json`; every tracked
-thread occurrence carries its word id** (`data-w`, from `Numbers-words.tsv`).
-No original-language string is ever compared to another. **(learned:**
-consonant-substring matching measured 0–42% recall on Joshua's weak-root
-verbs.**)**
-
-One root often spans several Strong's numbers, and one number can bundle
-senses worth splitting, so a root is a **decision**, recorded as an id set
-with a note. A bare id (`2416`) claims every lexeme under the number; a
-suffixed id (`2416e`) claims exactly one.
-
-```html
-<span class="r" data-root="devote" data-w="068w5">devoted</span>
-```
-
-Local roots don't need `data-w`, and neither do tracked spans inside a `data-verses` component (a condensed table cell is a colour-only summary tag). **You never hand-chase word ids**: the porter
-fills them by per-verse alignment and reports the few it can't decide.
-
-**Never hand-type Hebrew; pull by word id. (learned:** NFC normalisation alone
-reorders marks in 47% of Joshua's words.**)**
-
----
-
-## 3. The hard contract
-
-The artifact is **one `<article class="unit" data-unit="N">` and nothing
-else** — no doctype/html/head/body/style/link, no inline `style`, no `--c-*`
-vars. It opens with `<script type="application/json" id="unit-meta">`.
-
-**Unknown top-level keys are a hard error. (learned:** Matthew's `descriptor`
-and `discourse` were authored for eleven units and silently discarded.**)**
-
-### Top-level keys
-
-| key | required | type | rule |
-|---|---|---|---|
-| `unit` | ✓ | int | an integer, not a string |
-| `passage` | ✓ | str | `"Numbers 6:1–27"` |
-| `title` | ✓ | str | |
-| `roots` | ✓ | array | §1 |
-| `threads` | ✓ | object | all four sub-keys, empty lists fine |
-| `slug` | — | str | `"unit-06"`; derived from `unit` if omitted |
-| ✎ grouping keys | — | int | one per grouping kind in `book.json` (e.g. `movement`); looked up from the unit map if omitted |
-| `questions` | — | array | wording/data calls only Lane can make, §3a |
-| `checks` | — | array | claims for the code side to verify, §3a |
-| `intertext` | — | array | cross-book links worth recording, below |
-| `typescenes` | — | array | type-scene instances in this unit, below |
-
-### `intertext[]` and `typescenes[]` — canon rows (optional)
-
-The porter moves these into `data/canon.json` and the canon registries in
-`bible-core/canon/`; they aren't re-emitted in the built meta block.
-
-- `intertext[]` — `{ref, to, kind, note?}`: `ref` a bare `"C:V"` in this
-  book, `to` a reference like `"Ps 67:1"`, `kind` one of `quotation`,
-  `allusion`, `echo`, `type-scene`. An `aside.echo` or a root's `echo` is
-  already harvested as an `echo` edge, so list here only what those don't
-  say: a quotation, an allusion without an aside, a link worth keeping
-  without cluttering the page.
-- `typescenes[]` — `{id, ref, note?, label?}`: `id` from the type-scene
-  index (`commissioning`, `scouts`, `water-crossing`, `census`,
-  `mountain-theophany`, `annunciation`, ...). A new `id` is fine; give it a
-  `label` and it's added to the index for Lane to place under an arc.
-
-### `roots[]` — every entry `{root, translit, gloss, example?, echo?}`
-
-`root` matches `[a-z0-9-]+`. **No** `color`/`colour`, **no** `kind`/`members`,
-no other keys. `gloss` is a short general definition — no stem or
-part-of-speech labels. Never seed a gloss from Strong's first definition
-(misleading in 9 of 16 sampled Joshua words).
-
-### `threads` — `{opens, payoffs, candidates, retro, promote?}`
-
-The first four present, each a list, empty allowed; `promote` is optional.
-
-**`opens[]` / `payoffs[]`** — `{id, ref, note}`. `id` must exist in
-`threads-digest.md` (propose new ones via `candidates`); `note` is the
-one-line popover prose.
-
-**`candidates[]`** — `{root, why, ids?, refs?}`. Proposals only; `ids` are the
-lemma ids you saw (evidence), `refs` a few representative verses. Formats
-are checked at port time:
-
-- `ids` — the `lemma` column of `Numbers-words.tsv` with prefixes removed.
-  Either spelling works: the table writes `6485 a` and the porter reads it
-  as `"6485a"`. Look it up there; don't guess.
-- `refs` — bare `"C:V"` strings only: `"1:3"`, not `"Num 1:3"`. No ranges
-  (`"3:7–8"`): list each verse (`"3:7", "3:8"`).
-- Give every candidate an `ids` entry so the evidence is checkable.
-
-**`retro[]`** — `{unit, verse, text, root, why, nth?, op?, w?}`. Fixes for
-**earlier** units (`unit` is a slug like `"unit-04"`). `why` required. `op` ∈
-`add` (default), `retag`, `retag_word`, `untag_word`, `unwrap`, `strip_span`,
-`text`. `w` is optional — the porter fills it.
-
-**`promote[]`** (optional) — `{entry, reach?, retrofit?}`: a thread Claude has decided to promote. Give `id`, `ids` (from the pack's lemma table), `gloss` and the opener `note`; code computes `opens`/`payoffs` refs, `reach` and `retrofit` at port and reports changes. `entry` is `{id, root?, ids, gloss, opens: {unit, note?}, payoffs?: [{unit, note?}], translit?, note?}` (no colour; `root` defaults to `id`, ASCII `[a-z0-9-]`; a `retro[]` in the same unit may tag the promoted id; `apply-delta` creates the `threads.json` and `roots.json` entries). `candidates[]` is for a proposal that still needs an id set.
-
----
-
-## 3a. `questions[]` and `checks[]` — for Lane and for the code side
-
-**`questions[]`** — `{topic, note, options?}`. A call only Lane can make, with a
-genuinely open alternative the unit's argument depends on. Before adding one,
-read `translation-choices.md` and the earlier units' meta: a wording already
-ruled is used, and a note about it goes in the artifact's prose, not here. The
-build chat first puts the handoff's questions to Lane in chat; only what's still
-open goes in `questions[]`. `topic` is a few words; `note` is the question,
-answerable cold; `options` optional short answers. Render your best
-provisional choice so the draft keeps moving, and flag it. Claude Code asks
-Lane each one by popup. The porter prints every question at port time; the decision then
-goes in `translation-choices.md` or the thread/root entry.
-
-**`checks[]`** — `{ref, claim, expect}`. A claim about another passage's text
-that code verifies against the corpus (`ref` like `"Isa 22:22"`, several
-passages allowed: `"Exod 16:16 / Exod 38:26"`, their words pooled). `claim` is
-what the artifact says. `expect` is the lemma in transliteration (`gulgolet`;
-macrons, apostrophes and doubled letters optional), a lemma id (`H1538`), or a
-list; a leading `!` means the word should be absent.
-`python -m biblecore checks UNIT` resolves them and returns every miss as one
-list for Lane. These never go in `questions[]`.
-
----
-
-## 4. Components
-
-Deliberately small. The base components below are in every book. **Optional
-components** come from bible-core's component registry: `book.json`
-`"components"` enables them (Numbers: echo, list, poem, itin, textform, story, mirror),
-any unit may use any enabled one, and **`components-reference.md`** (synced,
-generated by the build) holds the exact markup and rules for each. A class
-that's neither base nor an enabled component fails the build by name. **A new
-class is a decision**, so it goes into the registry with its CSS, its check and
-its snippet.
-
-| component | shape | note |
-|---|---|---|
-| coloured word | `<span class="r" data-root="X" data-w="…">…</span>` | `class="rl"` only **outside** verse blocks |
-| verse | `<p class="v"><span class="n">17</span> … text<sup class="en"><a href="#n1">1</a></sup></p>` | one per verse, in order. The endnote marker is the last thing in the verse `<p>`, **never** inside the `.gloss` |
-| gloss | `<span class="gloss">…</span>` | **following sibling** of the verse, never nested, always closed. Short |
-| pericope heading | `<h3 class="pericope">Title <span>· 6:1–7</span></h3>` | `· C:V` range required |
-| story box | `<aside class="story" data-anchor="C:V" data-kind="…" data-strength="…">` | a *different, earlier* event told beside a verse; shape and required parts in `components-reference.md`. Follows its verse like `.gloss`; no `data-root`, `class="r"` or `class="rl"` inside |
-| legend | `<section class="block legend" aria-label="color key"><ul></ul></section>` | **required, even as an empty stub** |
-| notes | `<div class="notes"><h2>Notes</h2><ol><li id="n3"><strong>hid him (v4).</strong> …</li></ol></div>` | every `href` resolves to an `id` in the fragment |
-
-**`data-verses`**: a component that presents verses *in place of* verse-by-verse
-text (a table condensing a repeated formula) carries `data-verses="C:V–V"` (or
-`C:V–C:V`) naming exactly the verses it replaces. Tracked-thread occurrences
-there then count as covered, not as untagged gaps. The build fails if a
-declared verse is also written out as a `p.v`, or lies outside the unit's
-passage. Say in the pericope's gloss that the verses are condensed.
-
-**Where Numbers uses each optional component** (markup and rules in
-`components-reference.md`):
-
-- **echo** (`aside.echo`): a verse-level cross-book link.
-- **story** (`aside.story`): an earlier event with the same shape, such as the
+- **echo** (`aside.echo`): verse-level cross-book link.
+- **story** (`aside.story`): earlier event with the same shape, such as the
   rock (Exod 17) beside 20:2–13 or the manna (Exod 16) beside ch. 11.
-- **list** (`table.list`): the censuses (1, 26), the camp order (2), the Levite
-  counts (3–4), the tribal offerings (7), the boundary lists (34) and the city
-  lists (35). Collapse repeated formula to one row, with the variable called out,
-  and declare the verses it replaces: `data-verses="1:22–43"`.
-- **poem** (`div.poem` around ordinary verse blocks whose text is set in
-  `span.l` lines): the priestly blessing (6:24–26), the ark sayings (10:35–36),
-  the victory songs (21:14–15, 17–18, 27–30) and the Balaam oracles (23:7–10,
-  18–24; 24:3–9, 15–24). The line break *is* the argument: `span.l in` indents
-  the second half of a couplet. Don't run poetry as prose with a note after.
-- **itin** (`div.itin` chips in a `section.block`): the forty-two stations of
-  ch. 33, which is exactly that shape and gains nothing from prose. Use
-  `data-verses` when the chips replace the station verses.
-- **textform** (`aside.textform data-src="lxx|sp|dss|…"`): where the LXX,
-  Samaritan Pentateuch or Qumran read differently and it matters to the
-  reading. Levine's textual notes are the usual source.
+- **list** (`table.list`): the censuses (1, 26), camp order (2), Levite counts
+  (3–4), tribal offerings (7), boundary lists (34), city lists (35). Collapse
+  a repeated formula to one row with the variable called out; declare the
+  verses it replaces (`data-verses="1:22–43"`).
+- **poem** (`div.poem`): priestly blessing (6:24–26), ark sayings (10:35–36),
+  victory songs (21:14–15, 17–18, 27–30), Balaam oracles (23:7–10, 18–24;
+  24:3–9, 15–24). Don't run poetry as prose.
+- **itin** (`div.itin`): the forty-two stations of ch. 33.
+- **textform** (`aside.textform`): where LXX, Samaritan Pentateuch or Qumran
+  read differently and it matters to the reading.
 - **mirror** (`aside.mirror`): the Exodus twin of a stretch of Numbers, for a
-  pair in `data/mirror-exodus.json` (Imes's reading that Exod 5–18 returns in
-  reverse in Num 10–24, with Sinai at the centre; a reading, not a fact). The
-  unit pack's *Exodus mirror* section gives the pair, the twin's text and the
-  shared words. Ship a box when the pair is the unit's to tell; an `aside.echo`
-  when one sentence carries it. Translate the twin in the unit's voice, and
-  **never raise a strength above what the shared words support**. Leave
-  `span.strength` empty (the build fills it) and mark only the pair's shared
-  words with `span.sh`. A pair the file lacks goes in the meta block's
-  `mirror[]` (`{ref, to, tier, title, strength, shared?, note}`), which Lane
-  decides; never write the data file.
+  pair in `data/mirror-exodus.json` (the reading that Exod 5–18 returns in
+  reverse in Num 10–24; a reading, not a fact). The unit pack's Exodus mirror
+  section gives the pair, the twin's text, the shared words. Never raise a
+  strength above what the shared words support. Pair the file lacks → meta
+  block's `mirror[]` (`{ref, to, tier, title, strength, shared?, note}`) for
+  Lane to decide; never write the data file. `mirror` is an allowed top-level
+  meta key here.
 
-**(learned:** endnote markers inside `.gloss` hid the footnote behind the
-toggle; the legend was once "optional" and a unit shipped with no colour key;
-asides spliced inside unclosed glosses silently collapsed.**)**
+## What belongs where
 
-### What belongs where
+Each link lives in exactly one place:
 
-Each link lives in exactly one place. Pick by what the link *is*:
+| The link is… | It goes in |
+|---|---|
+| A word's history across books | root `echo` |
+| One verse or phrase elsewhere sounding through this verse; one sentence says it | `aside.echo` |
+| A different earlier event with the same shape, where the reader needs the background | `aside.story` |
+| The Exodus twin of this stretch, from a pair in the mirror file | `aside.mirror` |
+| A direct quotation of earlier Scripture | `intertext[]`, kind `quotation` |
+| A contested reading, an argument about a link, a debate that needs room | footnote |
 
-| The link is… | It goes in | Shown |
-|---|---|---|
-| A word's history across books (a root) | root `echo` | the root's popover |
-| One verse or phrase elsewhere that sounds through this verse; one sentence says it | `aside.echo` | the verse note, behind `*` |
-| A *different* earlier event with the same shape, worth telling | `aside.story` | its own ◈ chip |
-| The Exodus twin of this stretch, from a pair in the mirror file | `aside.mirror` | its own ⇄ chip |
-| A direct quotation of earlier Scripture | `intertext[]` entry, kind `quotation` (§3) | the canon hub |
-| A contested reading, or a debate that needs room | footnote | the endnotes |
+A story box holds its own word-level evidence: no echo for the same link. A
+later retelling (Deut 1–3) is an echo or a footnote. Story and mirror boxes
+are harvested like echoes: don't repeat them in `intertext[]`. Every story box
+tells the story, states a difference, says what it does here.
 
-An earlier event gets a story box if a reader needs the background to see the
-point, an echo if one sentence carries it. A story box holds its own word-level
-evidence, so don't also ship an echo for that link. An interpretive argument
-about a link is a footnote; the box states only what the parallel is. A later
-retelling (Deut 1–3) is an echo or a footnote.
+**Handoff box kinds:** story → `aside.story`; echo → `aside.echo`; type-scene
+→ the story box's `data-scene` when it is told, otherwise a `typescenes[]`
+entry; intertext and quotations → `intertext[]`. No OT pointer or
+parallel/synoptic box in Numbers: footnote or echo.
 
-**Handoff box kinds** (`canon-handoff-template.md`): story → `aside.story`; echo →
-`aside.echo`; type-scene → the story box's `data-scene` when it is told, otherwise a
-`typescenes[]` entry; intertext and quotations → `intertext[]`. Numbers has no OT pointer
-or parallel/synoptic box: use a footnote or echo.
+## Hebrew in English
 
-Story, mirror boxes and echoes are harvested into `data/canon.json`, so `intertext[]`
-and `typescenes[]` list only what a box doesn't say.
+**Transliteration** follows core's Hebrew adapter (`biblecore/lang/hebrew.py`):
+diacritic only where the plain letter is already claimed (`ḥ ṭ ś`, `ʾ`/`ʿ`);
+no vowel length; no spirantization; dagesh forte doubles; divine name `YHWH`,
+rendered **Yahweh**.
 
-### Balance — what goes where
+**Translation.** Fresh, wooden-but-readable rendering from the Hebrew, not a
+polish of an existing English version. Creative, intentional glosses
+encouraged.
 
-Strong suggestions:
+**Ids.** One root often spans several Strong's numbers, and one number can
+bundle senses worth splitting. Bare id (`2416`) claims every lexeme under the
+number; suffixed id (`2416e`) claims exactly one. Copy ids from the pack or
+the `lemma` column of `Numbers-words.tsv` (`"6485 a"` and `"6485a"` both
+work); don't guess. `candidates[]` needs `ids` here.
 
-- **Glosses stay short** — a phrase or one sentence, roughly 25 words or
-  fewer. A grammar point, a textual variant, a debate between readings goes
-  in a **footnote**.
-- **Grammar and medieval commentary are seasoning, not the meal.** Include a
-  grammar point when it changes how the verse reads.
-- **Intertextuality is the main course.** Say where earlier Scripture stands
-  behind a line and where a line reappears later, including in the New
-  Testament. `aside.echo` for a verse-level link, `aside.story` for an earlier event worth
-  telling, a root `echo` for a word.
+## Judgment
 
-**Voice: no named commentators or resources, and no project-internal
-references, anywhere in fragment prose.** Where views differ, say so in
-general terms and give the content of the disagreement. **(learned:** Joshua
-unit 1's first draft named eight sources and two repo files.**)**
+- Structure markers: Masoretic paragraph breaks (`candidate-boundaries.md`).
+  Where they and the patterns you notice disagree, argue for the boundary you
+  choose.
+- Names are joined by hand: place-name wordplay is real, Strong's etymology
+  unreliable.
 
----
-
-## 5. Hebrew in English
-
-**Transliteration** comes only from the core's Hebrew adapter
-(`biblecore/lang/hebrew.py`; its test file is the authoritative definition).
-Scheme: a diacritic only where the plain letter is already claimed (`ḥ ṭ ś`,
-`ʾ`/`ʿ`); no vowel length; no spirantization; dagesh forte doubles; `יהוה` →
-`YHWH`, rendered **Yahweh**. **Do not copy native script** (the `יהוה` above is reference only): chat,
-handoffs and fragments carry none, and the validator rejects it in a fragment.
-
-**Translation philosophy.** A fresh, wooden-but-readable rendering from the
-Hebrew, not a polish of an existing English version. Creative, intentional
-glosses are encouraged.
-
-**Wording.** Check `translation-choices.md` (which starts from
-`canon-conventions.md`) before rendering a lexeme. A better
-verse-specific rendering is fine — **flag the deviation**. A wording call made in chat goes in the handoff's "Decisions" section; Claude
-Code applies it to `translation-choices.md` after the session. **(learned:** Matthew started its
-glossary at unit 10 and paid with a retroactive audit.**)**
-
----
-
-## 6. Judgment
-
-**Be tough on structures.** Chiasms and rings only when textually verifiable.
-Weigh the Masoretic paragraph breaks (`candidate-boundaries.md`) and the
-patterns you notice together: neither outranks the other, and where they
-disagree, say so and argue for the boundary you choose. **(learned:** eight
-over-reaching chiasms were cut from Matthew.**)**
-
-**Promotion: Claude decides, biased toward book-wide; close calls go to Lane
-through the handoff.**
-`threads.json` and `roots.json` change only through the handoff's promotions
-and `threads.promote[]`, applied by Claude Code; the porter only proposes.
-
-**Names are joined by hand.** Place-name wordplay is real but Strong's
-etymology is unreliable. Add names to `roots.json` one at a time, with the
-reason.
-
-✎ **Genre cautions for this book — tentative, refine as units surface real
-cases:**
+**Genre cautions** (tentative; refine as units surface real cases):
 
 - **Census numbers.** The totals (603,550 in ch. 1; 601,730 in ch. 26) are a
-  live scholarly crux (a literal ~2 million people in the wilderness vs.
-  *elef* read as "clan/military unit" rather than "thousand," among other
-  proposals). State the numbers as the text gives them, note that the
-  question exists and what's at stake exegetically, and don't quietly
-  resolve it by picking a translation that begs the question. Not a crux to
-  relitigate in every unit that touches a number — once, where it first
-  matters (ch. 1), with a footnote pointer from ch. 26.
-- **Law.** Render the casuistic "if/when... then" structure plainly; a
-  grammar footnote earns its place only when the conditional structure
-  itself is the point (e.g. the Nazirite vow's contingencies, 6:1–21). Don't
-  import New Testament fulfillment/abrogation framing into the verse text or
-  gloss — that's commentary-dialogue material for pass 2, not the
-  translation.
-- **Itinerary (ch. 33).** Most of the forty-two place names can't be located
-  with confidence. Say so plainly rather than asserting a route on a map;
-  where a location is genuinely uncertain, the footnote says uncertain — no
-  invented certainty for the sake of a tidy travelogue.
-- **Poetry (Balaam's oracles, the victory songs, the blessing).** Real
-  parallelism (`.poem`, §4), never a rhyme scheme or metre the Hebrew doesn't
-  have. The four oracles have a real escalating shape (Jacob/Israel blessed →
-  a king exalted → the star and sceptre) worth surfacing; a chiasm *within* one
-  oracle only if it's actually there.
+  live crux (a literal two million, or *elef* as "clan/military unit"). State
+  the numbers as the text gives them; don't pick a rendering that begs the
+  question. Discuss once, in ch. 1, with a footnote pointer from ch. 26.
+- **Law.** Render the "if/when... then" structure plainly. No New Testament
+  fulfilment or abrogation framing in verse text or gloss.
+- **Itinerary (ch. 33).** Most of the forty-two places can't be located with
+  confidence. Say so; don't assert a route.
+- **Poetry.** Real parallelism, never a rhyme scheme or metre the Hebrew
+  doesn't have. The four Balaam oracles escalate (Jacob blessed, a king
+  exalted, the star and sceptre): surface that. A chiasm within one oracle
+  only if it's there.
 
----
+## Unit map
 
-## 7. Before saving — the checklist
-
-1. One `<article>`, nothing above or below it.
-2. Meta parses as JSON; required keys and the four required `threads` sub-keys
-   (`promote` optional); no unknown top-level keys.
-3. Every `roots[]` entry: `root` + bare `translit` + plain `gloss`, optional
-   `example`/`echo`; nothing else.
-4. Every notable translation choice has a local span and `roots[]` entry, and
-   so does every word with a canon history, with an `echo`.
-5. Every `opens`/`payoffs` `id` is in `threads-digest.md` and has a `note`.
-6. Every `retro` targets an earlier unit, has a `why`, and resolves.
-7. Every `data-root` is in `threads-digest.md` or `roots[]`.
-8. Legend present, stub or filled.
-9. Every pericope heading has its `· C:V` range.
-10. `.gloss`, `aside.echo` and `aside.story` blocks are closed following siblings,
-    never nested; every aside has a `data-anchor` matching its verse.
-11. Every endnote `href` resolves to an `id` in the file.
-12. **Zero native Hebrew or Greek anywhere — attribute values included.**
-13. No inline `style`, no `--c-*` vars, no class the stylesheet doesn't know.
-14. Wording matches `translation-choices.md`, or the deviation is flagged.
-15. No named commentator or project-internal reference in prose.
-16. Glosses are short, longer material is in footnotes, and the unit's
-    intertextual links are surfaced.
-
-17. Every `questions[]` entry is a call only Lane can make, with a genuinely
-    open alternative, and isn't a wording `translation-choices.md` or an earlier
-    unit already rules. Claims about other passages' text are in `checks[]`.
-18. Every `threads.promote[]` entry has an `entry` with `id` and `ids`; code fills `reach`, `retrofit` and the opener ref.
-19. Each link lives in one place (§4 *What belongs where*); every story box tells
-    the story, states a difference and says what it does here. Nothing weak ships.
-
-Save as `numbers_NN_translation.html`, zero-padded, and hand it over as a download.
-
----
-
-## 8. Worked example
-
-Minimal and valid, abridged from this book's unit 1 (1:1–3). Copy its shape.
-
-```html
-<article class="unit" data-unit="1">
-<script type="application/json" id="unit-meta">
-{
-  "unit": 1,
-  "passage": "Numbers 1:1–54",
-  "title": "The First Accounting",
-  "roots": [
-    { "root": "polls", "translit": "gulgolet", "gloss": "skull; hence a head counted, per person",
-      "example": "every male, by their skulls",
-      "echo": "Exod 16:16; 38:26 — manna gathered per skull, and the half-shekel paid per skull by the same 603,550" }
-  ],
-  "threads": {
-    "opens": [
-      { "id": "account", "ref": "1:3",
-        "note": "paqad opens the book: the two censuses (1, 26) and the Levite counts (3–4) are built on it; later it turns to ‘call to account’ (14:18, 29)." }
-    ],
-    "payoffs": [],
-    "candidates": [],
-    "retro": []
-  }
-}
-</script>
-
-<header class="mast">
-  <div class="kicker">The Book of Numbers · Study Translation</div>
-  <h1>The First Accounting</h1>
-  <div class="unit">Unit 1 · Numbers 1:1–54</div>
-</header>
-
-<section class="block legend" aria-label="color key"><ul></ul></section>
-
-<h3 class="pericope">Yahweh orders an accounting <span>· 1:1–4</span></h3>
-
-<p class="v"><span class="n">2</span> “Lift the head of the whole <span class="r" data-root="community" data-w="04thY">community</span> of Yisrael’s sons — by their clans, by their fathers’ house, by the number of names, every male, by their <span class="r" data-root="polls">skulls</span>.<sup class="en"><a href="#n1">1</a></sup></p>
-<span class="gloss"><em>lift the head</em> — the idiom for taking a sum; <em>by their skulls</em>, head by head.</span>
-
-<p class="v"><span class="n">3</span> From twenty years old and up, everyone going out to the army in Yisrael — y’all shall <span class="r" data-root="account" data-w="04kfX">take account of</span> them by their armies, you and Aharon.</p>
-
-<div class="notes">
-  <h2>Notes</h2>
-  <ol>
-  <li id="n1"><strong>fathers’ house (v2).</strong> The count nests three kin-units: tribe, “fathers’ house” (a mid-level lineage), and clan. How the fathers’ house worked socially is debated.</li>
-  </ol>
-</div>
-</article>
-```
-
----
-
-## 9. The Literary Unit Map — delivered
-
-Delivered from the project side (2026-09-22) as `numbers-literary-unit-map.md`:
-38 units under 9 movements, themselves bracketed by 2 generation-framed
-parts (1:1–25:18, 26:1–36:13). The two candidate framings once weighed here
-(generation vs. geography) weren't a choice after all — the map combines
-both, nested. `book.json`'s `groupings` is `["movement", "part"]`;
-`data/units.json`'s `groupings[]` holds the full definitions (span, label,
-member units). Renumbering after units ship means editing `threads.json`
-opens/payoffs, every `retro` entry, and every fragment's meta block, so this
-is confirmed before unit 1, not after.
+`numbers-literary-unit-map.md`: 38 units under 9 movements, inside 2
+generation-framed parts (1:1–25:18, 26:1–36:13). `book.json` `groupings` =
+`["movement", "part"]`. Renumbering after units ship means editing
+`threads.json` opens/payoffs, every `retro` entry and every fragment's meta
+block: ask Lane first.
