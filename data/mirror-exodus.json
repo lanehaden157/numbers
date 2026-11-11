@@ -1,0 +1,626 @@
+{
+  "_note": "Exodus mirror pairs (biblecore/mirror.py; shape in bible-core docs/data-shapes.md). Policy: the porter proposes in mirror[], Lane decides. Seeded from the chiasm research chat, 2026-11-10; spans are English numbering. strength is Lane's read: 3 shared words, 2 same story beat, 1 thematic.",
+  "version": 1,
+  "centre": {
+    "span": "Exod 19:1 – Num 10:10",
+    "label": "Imes's boundaries",
+    "note": "Arrival Exod 19:1–2; cloud lifts Num 10:11–13. Lawlor starts the at-Sinai block at Exod 18, which would pull G, H and I's Exodus sides inside the centre."
+  },
+  "sources": [
+    {
+      "id": "imes-2021",
+      "cite": "Carmen Joy Imes, Exodus Overview: Class Notes, BibleProject Classroom (2021; notes updated October 8, 2024), Session 13 \"Liminal Space\" (chart \"Chiasm in the Wilderness Journeys\") and Session 14 \"Burden of Leadership\".",
+      "what": "The A–I chiasm, its order, and the Sinai centre.",
+      "boundary_note": "Splits Num 21:18 into 18a/18b. Session 13 gives I as Exod 18:19–27; Session 14 instead pairs the advice (Exod 18:17–23) with Num 10:29–31 and the elders (Exod 18:24–26) with Num 11:24–25. Labels Sihon \"king of Ammon\" (Num 21:21: Amorites) and Exod 14:19–20 as \"angel of YHWH\" (text: angel of God)."
+    },
+    {
+      "id": "imes-2019",
+      "cite": "Carmen Joy Imes, Bearing God's Name: Why Sinai Still Matters (Downers Grove, IL: IVP Academic, 2019), 14.",
+      "what": "\"Sinai at the Center of the Torah\" diagram behind the centre block.",
+      "boundary_note": "Known only through the class notes' citation; not checked directly."
+    },
+    {
+      "id": "esv-gsb",
+      "cite": "\"Parallels between Exodus and Numbers,\" chart 04-01, ESV Global Study Bible (Wheaton, IL: Crossway, 2012), https://www.esv.org/resources/esv-global-study-bible/chart-04-01/.",
+      "what": "Twelve verse-level parallels, including the four Exod 32 / Num 25 echoes.",
+      "boundary_note": "A list in Numbers order, not a chiasm. Its pairs cut across Imes's rings at D, E, G, H and I (details in each pair's note)."
+    },
+    {
+      "id": "lawlor-2011",
+      "cite": "John I. Lawlor, \"The 'At-Sinai Narrative': Exodus 18–Numbers 10,\" Bulletin for Biblical Research 21, no. 1 (2011): 23ff.",
+      "what": "The two in-law scenes form an ironic frame around the at-Sinai narrative.",
+      "boundary_note": "Puts Exod 18 inside the Sinai block, not in the wilderness frame. Only the abstract was read, so his exact Numbers-side boundary is unconfirmed."
+    },
+    {
+      "id": "oshb",
+      "cite": "Open Scriptures Hebrew Bible (morphhb: Westminster Leningrad Codex with Strong's-based lemmas), https://github.com/openscriptures/morphhb, checked 2026-11-10; English verse numbers via its VerseMap.xml.",
+      "what": "Every Strong's number in \"shared\" was found in both cited verses by script.",
+      "boundary_note": "OSHB tags halak forms in Exod 18:27 and Num 10:30 as 3212, not 1980."
+    }
+  ],
+  "pairs": [
+    {
+      "id": "A",
+      "tier": "chiasm",
+      "pos": 1,
+      "here": "Num 22:2–24:25",
+      "other": "Exod 5:1–15:27",
+      "title": "A king against Israel: Pharaoh, then Balak",
+      "strength": 3,
+      "strength_why": "Balak describes Israel with the locust plague's phrase \"covered the eye of the land\".",
+      "poetry": "here",
+      "shared": [
+        {
+          "label": "cover",
+          "ids": [
+            "3680"
+          ],
+          "where": {
+            "here": "Num 22:5",
+            "other": "Exod 10:5"
+          }
+        },
+        {
+          "label": "eye (surface) of the land",
+          "ids": [
+            "5869",
+            "776"
+          ],
+          "where": {
+            "here": "Num 22:5",
+            "other": "Exod 10:5"
+          }
+        },
+        {
+          "label": "cover",
+          "ids": [
+            "3680"
+          ],
+          "where": {
+            "here": "Num 22:11",
+            "other": "Exod 10:15"
+          }
+        },
+        {
+          "label": "eye (surface) of the land",
+          "ids": [
+            "5869",
+            "776"
+          ],
+          "where": {
+            "here": "Num 22:11",
+            "other": "Exod 10:15"
+          }
+        }
+      ],
+      "status": "seed",
+      "source": "imes-2021 (pairing); spans redrawn here; shared words from oshb",
+      "note": "Q1: Imes gives Exod 5–15 / Num 23–24. The Numbers side starts at Balak's first move (22:2). Lane's call, 2026-11-10: the Exodus side keeps Imes's width, Exod 5:1–15:27, so B, C and D nest inside A (the research chat had redrawn it to Exod 5:1–14:31 to keep C and D outside). B sits nested inside A on both sides (Exod 14:19–20; Num 22:22–35). The phrase \"cover the eye of the land\" occurs only in Exod 10:5, 10:15, Num 22:5 and 22:11 (whole-OSHB search). Further links reach back past A's span to Exod 1: \"felt dread of the Israelites\" (H6973, Num 22:3 / Exod 1:12) and \"too mighty for me/us\" (H6099, Num 22:6 / Exod 1:9). Balak opens like the Pharaoh of Exod 1. ESV and Lawlor have no A pair."
+    },
+    {
+      "id": "B",
+      "tier": "chiasm",
+      "pos": 2,
+      "here": "Num 22:22–35",
+      "other": "Exod 14:19–20",
+      "title": "A divine messenger stands in the way",
+      "strength": 2,
+      "strength_why": "Same beat; the only shared word is the common noun for messenger.",
+      "poetry": null,
+      "shared": [
+        {
+          "label": "angel / messenger",
+          "ids": [
+            "4397"
+          ],
+          "where": {
+            "here": "Num 22:22",
+            "other": "Exod 14:19"
+          }
+        }
+      ],
+      "status": "seed",
+      "source": "imes-2021",
+      "note": "Q2: start at 22:22. Verse 21 (Balaam saddles up and goes) completes the permission scene of 22:20 and belongs to the transition. The angel scene opens with God's anger in 22:22 and closes at 22:35 by repeating 22:20's condition. Imes: Num 22:21–35. Exod 14:19 has \"angel of God\" (H430), not \"angel of YHWH\" (H3068 absent; checked). The verb \"stood\" (H5975) is in both Num 22:24 and Exod 14:19, but in Exodus its subject is the pillar of cloud, so it is left out of shared. Nested inside A on both sides."
+    },
+    {
+      "id": "C",
+      "tier": "chiasm",
+      "pos": 3,
+      "here": "Num 21:21–35",
+      "other": "Exod 15:1–21",
+      "title": "Victory over a king, with a song",
+      "strength": 3,
+      "strength_why": "Moab is named in both victory songs.",
+      "poetry": "both",
+      "shared": [
+        {
+          "label": "Moab",
+          "ids": [
+            "4124"
+          ],
+          "where": {
+            "here": "Num 21:29",
+            "other": "Exod 15:15"
+          }
+        }
+      ],
+      "status": "seed",
+      "source": "imes-2021",
+      "note": "Q1: Imes gives Num 21:18b–35; 21:18b–20 is itinerary, so C starts at 21:21 (Sihon, then Og). The Heshbon ballad (21:27–30) is the poetry. Crossover (Q7): the exact words \"Then ... sang\" (az H227 + shir H7891) occur together only in Exod 15:1 and Num 21:17. Num 21:17 sits in D's Numbers span, so the tightest Song link crosses from C to D. It is kept in this note, not in shared, so every shared entry stays inside its own spans. Num 21:21 has the Amorites, not Ammon."
+    },
+    {
+      "id": "D",
+      "tier": "chiasm",
+      "pos": 4,
+      "here": "Num 21:16–18a",
+      "other": "Exod 15:22–27",
+      "title": "God gives water, at Marah and at the well",
+      "strength": 2,
+      "strength_why": "Same beat; the shared words are generic or differ in Strong's number.",
+      "poetry": "here",
+      "shared": [],
+      "status": "seed",
+      "source": "imes-2021; ESV for the cross-links in the note",
+      "note": "Q1: Imes gives Exod 15:22–25 / Num 21:16–18a. Extended to 15:27 to include Elim's springs and close the unit before 16:1. Root link not usable as shared: statute (H2706, Exod 15:25) and ruler's staff (H2710, Num 21:18) share the root but not the Strong's number. \"Water\" (H4325) is in both but too common to count. Q7: ESV pairs this material near the Numbers centre instead: the three-day journey (Exod 15:22 / Num 10:33; H7969 and H3117 in both) and the Marah complaint (Exod 15:22–26 / Num 11:1–3). So Marah has a second twin right after Sinai, in the same order, not reversed. See C's note for the az yashir crossover into this span."
+    },
+    {
+      "id": "E",
+      "tier": "chiasm",
+      "pos": 5,
+      "here": "Num 15:32–21:9",
+      "other": "Exod 16:1–17:7",
+      "title": "Sabbath, grumbling, the rock, and bread in the wilderness",
+      "strength": 3,
+      "strength_why": "Several beats repeat exact phrases (grumbling against Moses and Aaron; quarrel at Meribah; kept before the Testimony).",
+      "poetry": null,
+      "shared": [],
+      "beats": [
+        {
+          "title": "Sabbath",
+          "here": "Num 15:32–36",
+          "other": "Exod 16:22–30",
+          "shared": [
+            {
+              "label": "Sabbath",
+              "ids": [
+                "7676"
+              ],
+              "where": {
+                "here": "Num 15:32",
+                "other": "Exod 16:23"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Grumbling against Moses and Aaron; the glory appears",
+          "here": "Num 16:1–50",
+          "other": "Exod 16:1–12",
+          "shared": [
+            {
+              "label": "grumble",
+              "ids": [
+                "3885"
+              ],
+              "where": {
+                "here": "Num 16:41",
+                "other": "Exod 16:2"
+              }
+            },
+            {
+              "label": "congregation",
+              "ids": [
+                "5712"
+              ],
+              "where": {
+                "here": "Num 16:41",
+                "other": "Exod 16:2"
+              }
+            },
+            {
+              "label": "glory",
+              "ids": [
+                "3519"
+              ],
+              "where": {
+                "here": "Num 16:42",
+                "other": "Exod 16:10"
+              }
+            },
+            {
+              "label": "cloud",
+              "ids": [
+                "6051"
+              ],
+              "where": {
+                "here": "Num 16:42",
+                "other": "Exod 16:10"
+              }
+            }
+          ]
+        },
+        {
+          "title": "A keepsake placed before the Testimony",
+          "here": "Num 17:1–13",
+          "other": "Exod 16:31–36",
+          "shared": [
+            {
+              "label": "for keeping",
+              "ids": [
+                "4931"
+              ],
+              "where": {
+                "here": "Num 17:10",
+                "other": "Exod 16:34"
+              }
+            },
+            {
+              "label": "Testimony",
+              "ids": [
+                "5715"
+              ],
+              "where": {
+                "here": "Num 17:10",
+                "other": "Exod 16:34"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Water from the rock",
+          "here": "Num 20:1–13",
+          "other": "Exod 17:1–7",
+          "shared": [
+            {
+              "label": "quarrel",
+              "ids": [
+                "7378"
+              ],
+              "where": {
+                "here": "Num 20:3",
+                "other": "Exod 17:2"
+              }
+            },
+            {
+              "label": "brought us up",
+              "ids": [
+                "5927"
+              ],
+              "where": {
+                "here": "Num 20:5",
+                "other": "Exod 17:3"
+              }
+            },
+            {
+              "label": "staff",
+              "ids": [
+                "4294"
+              ],
+              "where": {
+                "here": "Num 20:8",
+                "other": "Exod 17:5"
+              }
+            },
+            {
+              "label": "strike",
+              "ids": [
+                "5221"
+              ],
+              "where": {
+                "here": "Num 20:11",
+                "other": "Exod 17:6"
+              }
+            },
+            {
+              "label": "Meribah",
+              "ids": [
+                "4809"
+              ],
+              "where": {
+                "here": "Num 20:13",
+                "other": "Exod 17:7"
+              }
+            }
+          ]
+        },
+        {
+          "title": "No bread; brought out to die in the wilderness",
+          "here": "Num 21:4–9",
+          "other": "Exod 16:2–3",
+          "shared": [
+            {
+              "label": "bread",
+              "ids": [
+                "3899"
+              ],
+              "where": {
+                "here": "Num 21:5",
+                "other": "Exod 16:3"
+              }
+            },
+            {
+              "label": "die",
+              "ids": [
+                "4191"
+              ],
+              "where": {
+                "here": "Num 21:5",
+                "other": "Exod 16:3"
+              }
+            },
+            {
+              "label": "wilderness",
+              "ids": [
+                "4057"
+              ],
+              "where": {
+                "here": "Num 21:5",
+                "other": "Exod 16:3"
+              }
+            }
+          ]
+        }
+      ],
+      "status": "seed",
+      "source": "imes-2021 (pairing); beats drawn here from oshb; ESV for the cross-links in the note",
+      "note": "Q3: Imes's Exodus side is Exod 16:1–17:6; 17:7 (Massah and Meribah) finishes the water story, so it is included. Numbers has no manna-and-Sabbath beat in this span: the manna and quail twin of Exod 16 is Num 11:4–9, 31–35 (ESV), which sits in H's chapter near the centre (Q7). The \"no bread\" beat's Exodus side (16:2–3) overlaps the grumbling beat's (16:1–12), because Exod 16 compresses what Numbers spreads out. Numbers versification: 16:36–50 = Hebrew 17:1–15; 17:1–13 = Hebrew 17:16–28. Cross-beat links: \"grumblings\" (H8519) occurs only in Exod 16:7, 8, 9, 12 and Num 14:27, 17:5, 17:10. \"What is Aaron that you grumble\" (Num 16:11) echoes \"what are we that you grumble\" (Exod 16:7). In the rock beat, Exodus has tsur (H6697) and Numbers has sela (H5553): different words. Gaps with no Exodus twin: Num 18–19 (dues, red heifer) and 20:14–21:3 (Edom, Aaron's death, Hormah). The Hormah victory (21:3) reverses the Hormah defeat (14:45) within Numbers. Q7: the beats do not reverse. Exodus runs grumbling, Sabbath, keepsake, rock; Numbers runs Sabbath, grumbling, keepsake, rock, bread."
+    },
+    {
+      "id": "F",
+      "tier": "chiasm",
+      "pos": 6,
+      "here": "Num 13:1–14:45",
+      "other": "Exod 17:8–16",
+      "title": "Joshua and Amalek: victory, then defeat",
+      "strength": 3,
+      "strength_why": "Joshua, Amalek and the sword in both, with the outcome reversed.",
+      "poetry": null,
+      "shared": [
+        {
+          "label": "Joshua",
+          "ids": [
+            "3091"
+          ],
+          "where": {
+            "here": "Num 14:6",
+            "other": "Exod 17:9"
+          }
+        },
+        {
+          "label": "Amalek",
+          "ids": [
+            "6002"
+          ],
+          "where": {
+            "here": "Num 13:29",
+            "other": "Exod 17:8"
+          }
+        },
+        {
+          "label": "sword",
+          "ids": [
+            "2719"
+          ],
+          "where": {
+            "here": "Num 14:43",
+            "other": "Exod 17:13"
+          }
+        }
+      ],
+      "status": "seed",
+      "source": "imes-2021",
+      "note": "Q4: spans confirmed. Imes gives Num 13–14 and ESV narrows it to Num 14:39–45 (the defeat). Joshua does not appear in 14:39–45, so the wider span is needed for the Joshua link. Num 14:43 and 14:45 tag \"Amalekite\" as H6003, not H6002; Exod 17 has only H6002. The grumblings noun in Num 14:27 points back to Exod 16 (see E's note)."
+    },
+    {
+      "id": "G",
+      "tier": "chiasm",
+      "pos": 7,
+      "here": "Num 12:1–16",
+      "other": "Exod 18:1–12",
+      "title": "Moses' household: a reunion, then a challenge",
+      "strength": 1,
+      "strength_why": "Thematic only; Moses' wife is the subject on both sides but no distinctive word is shared.",
+      "poetry": null,
+      "shared": [],
+      "status": "seed",
+      "source": "imes-2021",
+      "note": "Q7: cut candidate, the weakest pair. Imes gives Exod 18:1–6; extended to 18:12 so 18:7–12 is not orphaned. \"Wife\" (H802) is in Num 12:1 and Exod 18:2 but too common to count. ESV pairs Num 12 with Exod 15:20–21 instead (Miriam, H4813, verified in Num 12:1 / Exod 15:20). That twin sits inside C's Exodus span, so ESV's link cuts across the rings. Whether the Cushite wife is Zipporah is disputed. Lawlor would place the Exodus side inside the Sinai block."
+    },
+    {
+      "id": "H",
+      "tier": "chiasm",
+      "pos": 8,
+      "here": "Num 11:10–30",
+      "other": "Exod 18:13–26",
+      "title": "Too heavy to carry alone; others share the load",
+      "strength": 3,
+      "strength_why": "Moses repeats Jethro's words: heavy, unable, alone; and helpers \"bear it with you\".",
+      "poetry": null,
+      "shared": [
+        {
+          "label": "heavy",
+          "ids": [
+            "3515"
+          ],
+          "where": {
+            "here": "Num 11:14",
+            "other": "Exod 18:18"
+          }
+        },
+        {
+          "label": "alone",
+          "ids": [
+            "905"
+          ],
+          "where": {
+            "here": "Num 11:14",
+            "other": "Exod 18:18"
+          }
+        },
+        {
+          "label": "be able",
+          "ids": [
+            "3201"
+          ],
+          "where": {
+            "here": "Num 11:14",
+            "other": "Exod 18:18"
+          }
+        },
+        {
+          "label": "bear (the load)",
+          "ids": [
+            "5375"
+          ],
+          "where": {
+            "here": "Num 11:17",
+            "other": "Exod 18:22"
+          }
+        }
+      ],
+      "status": "seed",
+      "source": "imes-2021 (pairing); spans widened to the appointment of helpers, following imes-2021 Session 14 and esv-gsb",
+      "note": "Q4/Q5: Imes's chart gives Exod 18:13–18 / Num 11 (whole chapter); her Session 14 pairs Exod 18:13–16 with Num 11:10–17 and Exod 18:24–26 with Num 11:24–25. ESV gives Exodus 18 / Num 11:16–30. Widened to Exod 18:13–26 / Num 11:10–30 so the burden and its solution sit in one pair on both sides. This also brings in \"they will bear it with you\" (Exod 18:22 / Num 11:17). Num 11:4–9 and 11:31–35 (manna and quail) twin Exod 16, not Exod 18 (see E). Lawlor would place the Exodus side inside the Sinai block."
+    },
+    {
+      "id": "I",
+      "tier": "chiasm",
+      "pos": 9,
+      "here": "Num 10:29–32",
+      "other": "Exod 18:27",
+      "title": "The Midianite in-law goes back to his own land",
+      "strength": 2,
+      "strength_why": "Lane's call, 2026-11-10: seeded at 2. The research chat found father-in-law, go and land in Exod 18:27 and Num 10:29-30 (they pass the check), so 3 is supportable with this narrowed Exodus span; the plan's original Exod 18:19-27 span fails on Midian.",
+      "poetry": null,
+      "shared": [
+        {
+          "label": "father-in-law",
+          "ids": [
+            "2859"
+          ],
+          "where": {
+            "here": "Num 10:29",
+            "other": "Exod 18:27"
+          }
+        },
+        {
+          "label": "go",
+          "ids": [
+            "3212"
+          ],
+          "where": {
+            "here": "Num 10:30",
+            "other": "Exod 18:27"
+          }
+        },
+        {
+          "label": "land",
+          "ids": [
+            "776"
+          ],
+          "where": {
+            "here": "Num 10:30",
+            "other": "Exod 18:27"
+          }
+        }
+      ],
+      "status": "seed",
+      "unverified": true,
+      "source": "imes-2021 (pairing); Exodus side narrowed here; lawlor-2011 for the in-law frame",
+      "note": "Q4/Q5: Imes's chart gives Exod 18:19–27; her Session 14 pairs the advice (18:17–23) with Num 10:29–31; ESV gives Exod 18:1 / Num 10:29. The Midian claim fails twice: Midian (H4080) is only in Exod 18:1, outside this span, and Num 10:29 has Midianite (H4084), a different number. The new shared words come from Exod 18:27. Narrowing to that one verse lets the advice and appointment move to H, and makes the in-law's departure the pair nearest Sinai on both sides. Also verified but outside this span: \"good\" (H2896, Num 10:29 / Exod 18:9, in G's span). Unverified: Lawlor's Numbers-side boundary for his in-law frame (only the abstract was read)."
+    },
+    {
+      "id": "E1",
+      "tier": "echo",
+      "pos": null,
+      "here": "Num 25:2",
+      "other": "Exod 32:6–8",
+      "title": "The people eat and bow down to other gods",
+      "strength": 3,
+      "strength_why": "\"Bowed down\" in both, with the people eating at the feast.",
+      "poetry": null,
+      "shared": [
+        {
+          "label": "bow down",
+          "ids": [
+            "7812"
+          ],
+          "where": {
+            "here": "Num 25:2",
+            "other": "Exod 32:8"
+          }
+        }
+      ],
+      "status": "seed",
+      "source": "esv-gsb",
+      "note": "ESV gives Exod 32:6. Widened to 32:8 because \"bowed down\" is there. Sacrifice is a root link only: verb H2076 (Exod 32:8) vs noun H2077 (Num 25:2). Q6: merge E1–E4 into one pair with four beats (here Num 25:1–18, other Exod 32:1–35). They are beats of one episode on each side, and E4's verse (Num 25:9) already falls inside E3's span. They are kept as four rows here so the change is your call."
+    },
+    {
+      "id": "E2",
+      "tier": "echo",
+      "pos": null,
+      "here": "Num 25:5",
+      "other": "Exod 32:27",
+      "title": "Each man is told to kill",
+      "strength": 3,
+      "strength_why": "\"Kill, each man\" in both commands.",
+      "poetry": null,
+      "shared": [
+        {
+          "label": "kill",
+          "ids": [
+            "2026"
+          ],
+          "where": {
+            "here": "Num 25:5",
+            "other": "Exod 32:27"
+          }
+        },
+        {
+          "label": "each man",
+          "ids": [
+            "376"
+          ],
+          "where": {
+            "here": "Num 25:5",
+            "other": "Exod 32:27"
+          }
+        }
+      ],
+      "status": "seed",
+      "source": "esv-gsb",
+      "note": "Q6: see E1."
+    },
+    {
+      "id": "E3",
+      "tier": "echo",
+      "pos": null,
+      "here": "Num 25:6–13",
+      "other": "Exod 32:28–29",
+      "title": "Zeal rewarded: the Levites, then Phinehas",
+      "strength": 2,
+      "strength_why": "Same beat; no shared Strong's number (Levi is not named in Num 25; zeal and covenant are not in Exod 32:28–29).",
+      "poetry": null,
+      "shared": [],
+      "status": "seed",
+      "source": "esv-gsb",
+      "note": "Q6: see E1. Contains E4's verse (Num 25:9)."
+    },
+    {
+      "id": "E4",
+      "tier": "echo",
+      "pos": null,
+      "here": "Num 25:9",
+      "other": "Exod 32:35",
+      "title": "A plague strikes the people",
+      "strength": 2,
+      "strength_why": "Same root, different Strong's numbers: verb H5062 in Exodus, noun H4046 in Numbers.",
+      "poetry": null,
+      "shared": [],
+      "status": "seed",
+      "source": "esv-gsb",
+      "note": "Q6: see E1. Overlaps E3's span."
+    }
+  ]
+}

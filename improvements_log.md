@@ -123,3 +123,9 @@ Gotcha: `sync` has no `--dry`; passing it synced and pushed for real. Preview wi
 
 ## 2026-11-05 — adopting core 0.27.0 (prompt C)
 Core 0.27.0 vendored. `unit-pack` ties rulings to words by transliteration only, so the Tent of Meeting, `berit`, `torah` and similar rows show as "not tied" even where the unit uses them; the build chat still checks those by hand. The morphhb Numbers file does carry petuhot and setumot (`x-pe` / `x-samekh` segs: 94 and 65), so a marker file is a small extraction, not new sourcing. Field now describes three chats and the pack; it needs a re-paste.
+
+
+## 2026-11-10 — Exodus mirror seed (core 0.29.1)
+- Seeded `data/mirror-exodus.json` from the research chat's file, which redrew several spans against the plan. Kept: A's Exodus side at the plan width, Exod 5:1–15:27 (Lane), and I at strength 2 (Lane) although the file's narrowed span passes at 3. Accepted as the research drew them: B (Num 22:22 start), C, D, E with beats, G, H (Num 11:10–30 / Exod 18:13–26), I (Exod 18:27 only). All shared words pass against OSHB.
+- Open risks: Exodus-only lemmas have no gloss in `lemmas.json`, so the pack leaves the gloss to the chat; E's beats overlap on the Exodus side (16:2–3 sits inside 16:1–12) and run in a different order from Exodus; pair B starts at 22:22, which is unit 25's first verse, while 22:21 stays in unit 24 with no box.
+- The research chat's original `mirror-exodus.json` is still untracked in the Numbers root (the repo copy is `data/mirror-exodus.json`).

@@ -19,7 +19,8 @@
     "poem",
     "itin",
     "textform",
-    "story"
+    "story",
+    "mirror"
   ],
   "checks": {
     "opens_note_required": true
@@ -28,7 +29,13 @@
     "extra": [],
     "skip": []
   },
-  "core": "0.28.0",
+  "core": "0.29.1",
   "template": "0e8e7a3",
-  "hub": "https://lanehaden157.github.io/bible/"
+  "hub": "https://lanehaden157.github.io/bible/",
+  "mirrors": [
+    {
+      "with": "Exod",
+      "file": "mirror-exodus.json"
+    }
+  ]
 }

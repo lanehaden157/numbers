@@ -32,3 +32,9 @@ Read this first. 3 lines max per session.
 - **2026-10-29 to 10-30 (core 0.21.0-0.23.1)**: Vendored 0.21.0, 0.22.0 (instruction trim), 0.22.1 (size-budget warning), 0.23.0 (promote/retro in one unit, apply-delta creates promotions), 0.23.1 (promotion root optional).
 - **2026-11-02 (core 0.23.2)**: Chat access block in the field, resources fixes, download wording.
 - **2026-11-03 (core 0.24.0, consistency fixes)**: Vendored 0.24.0 (precedence ladder, handoff Decisions, logs check). Numbers-only fixes from `../session_summary_2026-11-02_consistency-verify.md`: field How we work and lens (markers unit by unit), Ibn Ezra gap, promotion wording, decisions-in-handoff, native-script notes, unit-map names/U03/U28, resources TODOs. Field needs a re-paste.
+- 2026-11-03: Consistency fixes; instruction field needs a re-paste.
+- 2026-11-04: Core 0.25.0 logged; units migrated to 0.25.0; paste-tracking text removed (CLAUDE.md, project-side README).
+- 2026-11-04: `story` enabled; style reference gets What belongs where and box kinds. Field unchanged.
+- 2026-11-04: Core 0.26.0 vendored. Unit 1 re-ported from Lane's replacement source; `number` promoted (#a66566), unit 3 retrofitted. Audit 0 gaps, test 11 ok.
+- 2026-11-05: Numbers data fixes (prompt A): 10 thread openers moved to first occurrence (notes provisional, awaiting Lane); gulgolet echo fixed in style ref; paqad row cleaned. `called` and leads-fetch findings in the report. Re-sync of digest pending Lane OK.
+- 2026-11-05: Vendored core 0.27.0 (unit-pack, checks, computed promotions, opener audit, three-chat workflow). Prompt C (adopt) not yet run; field not yet updated.
