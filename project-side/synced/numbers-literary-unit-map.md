@@ -22,57 +22,144 @@ Working map for the unit-by-unit study. There are 38 session-sized units, one fo
 
 ## Overview
 
-| # | Passage | Working title |
-|---|---|---|
-| | **PART ONE — The generation of the exodus (1:1–25:18)** | |
-| | *I. At Sinai: ordering the camp (1:1–10:10)* | |
-| 01 | 1:1–54 | The first accounting |
-| 02 | 2:1–34 | The camp around the tent |
-| 03 | 3:1–51 | Aaron's line and the Levites in place of the firstborn |
-| 04 | 4:1–49 | Carrying the holy things |
-| 05 | 5:1–31 | Keeping the camp clean: three laws |
-| 06 | 6:1–27 | The Nazirite and the priestly blessing |
-| 07 | 7:1–89 | The chieftains' gifts and the Voice above the cover |
-| 08 | 8:1–26 | Lamps and Levites |
-| 09 | 9:1–10:10 | Last orders at Sinai: second Passover, cloud, trumpets |
-| | *II. Sinai to Paran (10:11–12:16)* | |
-| 10 | 10:11–36 | Setting out |
-| 11 | 11:1–35 | Craving: fire, quail, and seventy elders |
-| 12 | 12:1–16 | Miriam, Aaron, and the humble man |
-| | *III. Kadesh: the refusal and its answer (13:1–15:41)* | |
-| 13 | 13:1–14:10 | The spies' report and the people's refusal |
-| 14 | 14:11–45 | Intercession, sentence, and the failed assault |
-| 15 | 15:1–41 | "When you come into the land": offerings, sin, and tassels |
-| | *IV. Rebellion and the priesthood (16:1–19:22)* | |
-| 16 | 16:1–35 | Korah, Dathan, and Abiram |
-| 17 | 16:36–17:13 [Heb 17:1–28] | Two memorials: bronze plating and the budding staff |
-| 18 | 18:1–32 | Priests and Levites: charge and portion |
-| 19 | 19:1–22 | The red cow and the impurity of death |
-| | *V. The fortieth year: Kadesh to the plains of Moab (20:1–22:1)* | |
-| 20 | 20:1–13 | Miriam's death and the waters of Meribah |
-| 21 | 20:14–21:3 | Edom's refusal, Aaron's death, Hormah reversed |
-| 22 | 21:4–20 | The bronze serpent and the songs of the road |
-| 23 | 21:21–22:1 | Sihon and Og; arrival on the plains of Moab |
-| | *VI. On the plains of Moab: Balaam and Peor (22:2–25:18)* | |
-| 24 | 22:2–21 | Balak's summons |
-| 25 | 22:22–35 | The donkey and the angel |
-| 26 | 22:36–23:26 | The first and second oracles |
-| 27 | 23:27–24:25 | The third oracle and the star out of Jacob |
-| 28 | 25:1–26:1a [Heb 25:1–19] | Baal Peor and Phinehas |
-| | **PART TWO — The generation of the land (26:1–36:13)** | |
-| | *VII. The new generation counted and ordered (26:1–30:16)* | |
-| 29 | 26:1b–65 | The second accounting |
-| 30 | 27:1–23 | Daughters who inherit, a successor who leads |
-| 31 | 28:1–29:40 [Heb 28:1–30:1] | The calendar of public offerings |
-| 32 | 30:1–16 [Heb 30:2–17] | Vows: binding words |
-| | *VIII. Transjordan: war and settlement (31:1–32:42)* | |
-| 33 | 31:1–54 | Vengeance on Midian and the division of spoil |
-| 34 | 32:1–42 | Reuben and Gad: "shall your brothers go to war while you sit here?" |
-| | *IX. Looking back, looking across (33:1–36:13)* | |
-| 35 | 33:1–49 | The stages of the journey |
-| 36 | 33:50–34:29 | Dispossession, borders, and the men who divide the land |
-| 37 | 35:1–34 | Levite cities, cities of refuge, and blood that pollutes the land |
-| 38 | 36:1–13 | Zelophehad's daughters again; colophon |
+| # | Passage | Working title | Tier | Peak |
+|---|---|---|---|---|
+| | **PART ONE — The generation of the exodus (1:1–25:18)** | | | |
+| | *I. At Sinai: ordering the camp (1:1–10:10)* | | | |
+| 01 | 1:1–54 | The first accounting | full | ★ |
+| 02 | 2:1–34 | The camp around the tent | full |  |
+| 03 | 3:1–51 | Aaron's line and the Levites in place of the firstborn | full |  |
+| 04 | 4:1–49 | Carrying the holy things | full |  |
+| 05 | 5:1–31 | Keeping the camp clean: three laws | condensed |  |
+| 06 | 6:1–27 | The Nazirite and the priestly blessing | condensed |  |
+| 07 | 7:1–89 | The chieftains' gifts and the Voice above the cover | condensed |  |
+| 08 | 8:1–26 | Lamps and Levites | digest |  |
+| 09 | 9:1–10:10 | Last orders at Sinai: second Passover, cloud, trumpets | full | ★ |
+| | *II. Sinai to Paran (10:11–12:16)* | | | |
+| 10 | 10:11–36 | Setting out | condensed |  |
+| 11 | 11:1–35 | Craving: fire, quail, and seventy elders | condensed |  |
+| 12 | 12:1–16 | Miriam, Aaron, and the humble man | condensed |  |
+| | *III. Kadesh: the refusal and its answer (13:1–15:41)* | | | |
+| 13 | 13:1–14:10 | The spies' report and the people's refusal | full | ★ |
+| 14 | 14:11–45 | Intercession, sentence, and the failed assault | full | ★ |
+| 15 | 15:1–41 | "When you come into the land": offerings, sin, and tassels | condensed |  |
+| | *IV. Rebellion and the priesthood (16:1–19:22)* | | | |
+| 16 | 16:1–35 | Korah, Dathan, and Abiram | condensed |  |
+| 17 | 16:36–17:13 [Heb 17:1–28] | Two memorials: bronze plating and the budding staff | digest |  |
+| 18 | 18:1–32 | Priests and Levites: charge and portion | digest |  |
+| 19 | 19:1–22 | The red cow and the impurity of death | digest |  |
+| | *V. The fortieth year: Kadesh to the plains of Moab (20:1–22:1)* | | | |
+| 20 | 20:1–13 | Miriam's death and the waters of Meribah | full | ★ |
+| 21 | 20:14–21:3 | Edom's refusal, Aaron's death, Hormah reversed | condensed |  |
+| 22 | 21:4–20 | The bronze serpent and the songs of the road | full | ★ |
+| 23 | 21:21–22:1 | Sihon and Og; arrival on the plains of Moab | digest |  |
+| | *VI. On the plains of Moab: Balaam and Peor (22:2–25:18)* | | | |
+| 24 | 22:2–21 | Balak's summons | condensed |  |
+| 25 | 22:22–35 | The donkey and the angel | condensed |  |
+| 26 | 22:36–23:26 | The first and second oracles | condensed |  |
+| 27 | 23:27–24:25 | The third oracle and the star out of Jacob | full | ★ |
+| 28 | 25:1–26:1a [Heb 25:1–19] | Baal Peor and Phinehas | full | ★ |
+| | **PART TWO — The generation of the land (26:1–36:13)** | | | |
+| | *VII. The new generation counted and ordered (26:1–30:16)* | | | |
+| 29 | 26:1b–65 | The second accounting | condensed |  |
+| 30 | 27:1–23 | Daughters who inherit, a successor who leads | full | ★ |
+| 31 | 28:1–29:40 [Heb 28:1–30:1] | The calendar of public offerings | digest |  |
+| 32 | 30:1–16 [Heb 30:2–17] | Vows: binding words | digest |  |
+| | *VIII. Transjordan: war and settlement (31:1–32:42)* | | | |
+| 33 | 31:1–54 | Vengeance on Midian and the division of spoil | condensed |  |
+| 34 | 32:1–42 | Reuben and Gad: "shall your brothers go to war while you sit here?" | condensed |  |
+| | *IX. Looking back, looking across (33:1–36:13)* | | | |
+| 35 | 33:1–49 | The stages of the journey | digest |  |
+| 36 | 33:50–34:29 | Dispossession, borders, and the men who divide the land | digest |  |
+| 37 | 35:1–34 | Levite cities, cities of refuge, and blood that pollutes the land | condensed |  |
+| 38 | 36:1–13 | Zelophehad's daughters again; colophon | full | ★ |
+
+
+> **DRAFT — tiers, peaks and digests.** Unchecked against the commentaries; Lane's project chat has not reviewed them. `book.json` has `"tiers"` off, so the site ignores the Tier and Peak columns and the Digests section. Units 1–4 are shipped as full and are not re-ported. A peak must be full; the ★ units form the peaks path.
+
+### Tier and peak reasoning (DRAFT)
+
+- **U01** full ★ — Shipped. The census frame, closed by ch. 26; opens the path.
+- **U02** full — Shipped. The tent at the centre of the camp.
+- **U03** full — Shipped. Aaron's line and the Levite substitution.
+- **U04** full — Shipped. The Kohathite crux (4:17–20).
+- **U05** condensed — Three camp-purity laws; no narrative to carry.
+- **U06** condensed — The blessing is the jewel; the Nazirite law condenses well.
+- **U07** condensed — Twelve identical offerings; read structurally. Keep 7:89 as an open stretch.
+- **U08** digest — Lampstand and Levite purification; low narrative weight.
+- **U09** full ★ — The cloud and its refrain; the Sinai-to-march hinge.
+- **U10** condensed — The march order and the Song of the Ark; short and well bounded.
+- **U11** condensed — The complaint type-scene; the quail and elders can be told in brief.
+- **U12** condensed — One scene; prose compresses cleanly.
+- **U13** full ★ — The turning point of Part One; unbroken in the text.
+- **U14** full ★ — The thematic centre; Exod 34:6–7 quoted back.
+- **U15** condensed — Placement is the point; laws can be summarized.
+- **U16** condensed — A vivid story, but U17 and U18 answer it.
+- **U17** digest — Aftermath; summed up by the sign of the staff.
+- **U18** digest — Priestly law; the answer to 17:12–13.
+- **U19** digest — Ritual law; one rite to state.
+- **U20** full ★ — Moses' exclusion; the book's second great failure.
+- **U21** condensed — Three episodes with one link: Hormah reverses 14:45.
+- **U22** full ★ — Last complaint; John 3 and Nehushtan make it a hinge.
+- **U23** digest — Conquest report; its songs matter less than the arrival.
+- **U24** condensed — Setup of the Balaam block.
+- **U25** condensed — One self-contained scene.
+- **U26** condensed — Oracles one and two share a pattern.
+- **U27** full ★ — The star oracle; the heaviest reception in the book.
+- **U28** full ★ — Phinehas; the end of Part One; Peor returns in 31:16.
+- **U29** condensed — The census bracket closes; the tribal totals are a list.
+- **U30** full ★ — Inclusio with U38; the succession problem; Joshua appointed.
+- **U31** digest — The calendar is a list; its rhythm can be stated in a sentence.
+- **U32** digest — Vow law; brief.
+- **U33** condensed — Revenge and the Balaam link (31:16).
+- **U34** condensed — Echoes U13–U14; one negotiation.
+- **U35** digest — An itinerary list.
+- **U36** digest — Allotment law; borders as a list.
+- **U37** condensed — The refuge-city law and the closing note on defilement.
+- **U38** full ★ — Closes the inclusio with U30; ends the book on inheritance.
+
+### Digests (DRAFT)
+
+Two to four sentences per unit, at most 80 words, written from the text. Shown on the peaks path for units that are not peaks.
+
+- 01: Moses is told, on the first day of the second month of the second year, to count every man of fighting age by tribe and clan. The totals come to 603,550. The Levites are left out and appointed to guard the tabernacle, so that no wrath falls on the community. The book opens by numbering the generation that will not enter the land.
+- 02: The twelve tribes camp in four groups of three, each under a standard, facing the tent of meeting from a distance. Judah leads on the east, then Reuben, Ephraim and Dan take the other sides. The Levites camp in the middle. The tent stands at the centre, and the march follows the same order. Israel does as the LORD commands.
+- 03: The generations of Aaron and Moses open with the deaths of Nadab and Abihu. The Levites are given to Aaron and take the place of every firstborn Israelite. They are counted, 22,000 in all. The 273 firstborn beyond that number are redeemed at five shekels each, and the silver goes to Aaron and his sons.
+- 04: The Kohathites, Gershonites and Merarites are assigned their loads, and Aaron and his sons must cover the holy things before the Kohathites carry them. The Kohathites must never see the holy things, even for a moment, or they die. The Levites aged thirty to fifty are counted: 8,580 for service.
+- 05: The camp must be kept clean for the LORD who dwells in it, so those with skin disease or discharge are sent outside. A wrongdoer confesses and makes restitution with a fifth added. A husband who suspects his wife brings her to the priest, who administers the water of bitterness, and she is cleared or cursed.
+- 06: A man or woman may take a Nazirite vow for a time. During it they abstain from wine, let the hair grow and avoid the dead, and at the end they offer sacrifices and shave the head. The LORD then tells Aaron how to bless Israel: bless you and keep you, make his face shine, lift up his face and give you peace.
+- 07: On the day the tabernacle is set up, the twelve chieftains bring wagons and oxen, then on twelve days an identical offering each, listed in full. The total is tallied at the end. When Moses enters the tent to speak with the LORD, he hears the Voice speaking from above the cover between the cherubim.
+- 08: Aaron sets up the seven lamps to light the front of the lampstand. The Levites are cleansed by water, shaving and a wave-offering, and presented to the LORD in place of the firstborn. Their service begins at twenty-five, and at fifty they retire from the heavy work but may still assist.
+- 09: A second Passover is allowed to the unclean and travellers, one month later. The cloud covers the tabernacle by day and fire by night, and Israel breaks camp or stays by its movement, however long. Two silver trumpets are made to summon the community, signal the march and mark the festivals.
+- 10: On the twentieth day of the second month the cloud lifts and Israel sets out in order, tribe by tribe. Moses asks Hobab to guide them; the ark goes ahead three days seeking a resting place. When it sets out Moses says, 'Arise, LORD, let your enemies be scattered', and when it rests, 'Return, LORD, to the countless thousands of Israel.'
+- 11: The people complain and fire consumes the edge of the camp, at Taberah. Then they crave meat and weep for Egypt's fish. Moses protests that the load is too heavy. The LORD gives him seventy elders on whom the spirit rests, and sends quail until it comes out of their nostrils; a plague strikes the craving at Kibroth-hattaavah.
+- 12: Miriam and Aaron speak against Moses over his Cushite wife and ask whether the LORD has not spoken through them too. The LORD answers from the cloud that he speaks to Moses face to face. Miriam is struck with skin disease; Moses prays 'Heal her, God, I beg you', and she is shut out seven days.
+- 13: Twelve leaders spy out Canaan for forty days and return with grapes, praising the land. Ten say its people are too strong; Caleb says they can take it. The people weep, wish to die in Egypt, and talk of choosing a leader and going back. Joshua and Caleb plead, and the community threatens to stone them until the glory appears.
+- 14: The LORD threatens to disown the people. Moses intercedes with the LORD's own words, slow to anger and abounding in covenant love. The LORD pardons but sentences: this generation dies in the wilderness, forty years, a year for each day of the spying. The ten spies die by plague. The people attack anyway without Moses or the ark and are routed at Hormah.
+- 15: Just after the sentence, the LORD gives laws for offerings 'when you come into the land', and for unintentional and defiant sin. A man gathering sticks on the Sabbath is stoned. The unit ends with tassels on the garments, a reminder not to follow the heart and eyes, and to remember all the commandments.
+- 16: Korah, Dathan and Abiram challenge Moses and Aaron, claiming the whole community is holy. Moses calls for a test of incense. The ground splits and swallows the rebels' households, and fire consumes the two hundred and fifty who offered incense.
+- 17: The censers are hammered into plating for the altar as a reminder. The people blame Moses and Aaron, and a plague kills 14,700 until Aaron stands between the dead and the living with incense. Aaron's staff alone buds and bears almonds, and is kept before the ark as a sign. The people cry, 'We perish.'
+- 18: The LORD tells Aaron that the priests and Levites bear the guilt of the sanctuary so that no outsider approaches it. The priests receive the offerings and firstfruits; the Levites receive the tithe. The priests have no territory, since the LORD is their portion and their inheritance, and the Levites give a tithe of their tithe.
+- 19: An unblemished red cow is slaughtered outside the camp and burned, and its ashes are mixed into water of purification. Whoever touches a corpse, a bone or a grave is unclean seven days and is sprinkled on the third and seventh. The priest and the one burning it are themselves made unclean.
+- 20: Miriam dies at Kadesh. With no water, the people quarrel with Moses and Aaron. The LORD tells Moses to speak to the rock, but he strikes it twice and water flows. For failing to trust and honour him before Israel, the LORD says that Moses and Aaron will not bring this community into the land. The place is called Meribah.
+- 21: Edom refuses passage and Israel turns away. At Mount Hor Aaron dies and Eleazar is clothed in his garments; Israel mourns thirty days. The king of Arad attacks and takes captives. Israel vows to devote his cities to destruction, the LORD gives them over, and the place is named Hormah.
+- 22: On the road around Edom the people complain again of the food. The LORD sends fiery serpents, and many die. The people confess, and at the LORD's command Moses makes a bronze serpent on a pole; whoever looks at it lives. The journey continues by stages, with the Book of the Wars and the song of the well.
+- 23: Israel asks Sihon of the Amorites for passage; he refuses and fights at Jahaz, and is defeated. Israel takes his cities, including Heshbon, quotes a taunt-song over it, and then defeats Og king of Bashan. The unit ends with Israel camped on the plains of Moab across the Jordan from Jericho.
+- 24: Balak king of Moab, afraid of Israel, sends elders to hire Balaam to curse them. God tells Balaam not to go or curse, and he refuses. A second, grander embassy comes; Balaam says he can only do what the LORD says. God permits him to go if the men call him, and Balaam rises and goes with them.
+- 25: The LORD's angel stands in the road with a drawn sword, and the donkey sees him when Balaam does not. She turns aside, presses against a wall, and lies down, and Balaam beats her three times. The LORD opens her mouth, then Balaam's eyes. The angel tells him to go on, but to speak only what he is told.
+- 26: At Balak's seven altars Balaam is given a word and blesses instead of cursing: 'How can I curse whom God has not cursed?' Balak moves him to a second place. The second oracle says God is not a man that he should lie; he has blessed, and Balaam cannot reverse it.
+- 27: Balaam stops looking for omens, and the spirit of God comes on him. He blesses Israel: how fair your tents, a king higher than Agag. Balak, angry, dismisses him. Balaam's last oracles name a star out of Jacob and a sceptre out of Israel that will crush Moab, and then speak against Amalek, the Kenites and others.
+- 28: Israel joins Moabite women in feasting and in the worship of Baal of Peor, and a plague begins. The LORD orders the leaders impaled. Phinehas son of Eleazar spears an Israelite and a Midianite woman together, and the plague stops with 24,000 dead. The LORD gives him a covenant of peace and a lasting priesthood.
+- 29: After the plague the LORD orders a second census, by tribe, for dividing the land. The total is 601,730, and the Levites are counted apart. Of those counted at Sinai, none remain except Caleb and Joshua: the sentence of 14:29–35 is complete.
+- 30: The five daughters of Zelophehad ask for their father's inheritance and Moses brings the case to the LORD, who rules they are right. Daughters will inherit when there is no son. Then Moses is told to see the land and die. He asks for a shepherd for the people, and Joshua is commissioned before Eleazar and the community.
+- 31: The LORD lists the public offerings by time: the daily lamb at morning and evening, the Sabbath, the new moon, and Passover and Unleavened Bread. The long second half sets out the seventh month: trumpets, the Day of Atonement, and the eight days of Tabernacles, with an ever-shrinking number of bulls.
+- 32: A man who makes a vow must keep it. A father may annul his daughter's vow, and a husband his wife's, on the day he hears of it; if he is silent, the vow stands. A widow or divorced woman must keep her own vows.
+- 33: Moses sends a thousand from each tribe with Phinehas to avenge Israel on Midian. They kill the kings and Balaam and take the women, and Moses is angry that they were kept alive, since they caused the Peor trouble. The soldiers and priests are purified, the spoil is divided, and the officers give gold as a memorial.
+- 34: Reuben and Gad, with large herds, ask to settle east of the Jordan. Moses asks whether their brothers should go to war while they sit here, and recalls the spies. They promise to cross armed and lead the fight, and Moses agrees on those terms. Half of Manasseh joins them.
+- 35: Moses writes the stages of the journey from Egypt to the plains of Moab, forty-two stops, at the LORD's command. It begins at Rameses at the Passover and runs through Sinai, Kadesh, the death of Aaron on Mount Hor at 123, and the final stages east of the Jordan.
+- 36: Crossing the Jordan, Israel must drive out the inhabitants and destroy their idols, or those left will be thorns in their eyes. The land is allotted by lot. The boundaries of Canaan are set out on the south, west, north and east, and a leader from each tribe is named, with Eleazar and Joshua, to divide it.
+- 37: Forty-eight cities are given to the Levites, six of them cities of refuge. A killer by accident may flee there until the death of the high priest, but a murderer is put to death, on the evidence of witnesses. Blood pollutes the land, and the land must not be defiled, since the LORD dwells in it.
+- 38: Heads of the Gilead clans fear that if the daughters of Zelophehad marry outside their tribe, the land will pass away. Moses rules that they may marry whom they like but only within their own tribe's clans. The daughters do as commanded, and the book ends with the colophon: these are the commands given on the plains of Moab.
 
 ---
 
