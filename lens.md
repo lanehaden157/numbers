@@ -25,6 +25,7 @@ Lane, English. Little Hebrew: translit + gloss every Hebrew word, again at first
 
 - Quote marks on wording not read this unit.
 - Recall ids, rulings, renderings: copy from `work/NN/pack.md`.
+- Link units by the pack's own form and verse (toldotam is not toldot; use the `here` column); name the form before tying another unit.
 - Attribute a view to a commentator before re-opening their own lines; say "rabbis he reports" when it is not his own. "Every / each / only / always": check all the cases, or say "most".
 - Long quotes from Levine, Doty, Whitt, Morales, JPS: paraphrase.
 - Mix numbering: Levine, Sefaria voices, Rashi, JPS and LXX use Hebrew verse numbers; Doty, Constable, Tyndale and the K&D family use English (`CLAUDE.md`).
