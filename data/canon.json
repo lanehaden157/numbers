@@ -2,6 +2,38 @@
   "_note": "Canon rows for this book (biblecore/canon.py). 'echo' rows are re-harvested every build; 'meta' rows come from ported meta blocks.",
   "intertext": [
     {
+      "from": "Num 1:1",
+      "to": "Exod 19:1–2",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:1",
+      "to": "Exod 40:17",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:1",
+      "to": "Exod 40:2",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:1",
+      "to": "Exod 40:34–35",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
       "from": "Num 1:2",
       "to": "Exod 16:16",
       "kind": "echo",
@@ -43,6 +75,14 @@
     },
     {
       "from": "Num 1:3",
+      "to": "Num 26:2",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:3",
       "to": "Gen 21:1",
       "kind": "echo",
       "unit": 1,
@@ -50,24 +90,32 @@
       "source": "meta"
     },
     {
-      "from": "Num 1:5",
-      "to": "1 Chr 5:2",
+      "from": "Num 1:7",
+      "to": "1 Chr 2:10–11",
       "kind": "echo",
       "unit": 1,
       "note": "",
       "source": "echo"
     },
     {
-      "from": "Num 1:5",
-      "to": "Gen 35:23–26",
+      "from": "Num 1:7",
+      "to": "Exod 6:23",
       "kind": "echo",
       "unit": 1,
       "note": "",
       "source": "echo"
     },
     {
-      "from": "Num 1:5",
-      "to": "Gen 49:4",
+      "from": "Num 1:7",
+      "to": "Matt 1:4",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:7",
+      "to": "Ruth 4:20",
       "kind": "echo",
       "unit": 1,
       "note": "",
@@ -90,8 +138,16 @@
       "source": "meta"
     },
     {
-      "from": "Num 1:46",
-      "to": "Exod 38:26",
+      "from": "Num 1:16",
+      "to": "Num 16:2",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:16",
+      "to": "Num 26:9",
       "kind": "echo",
       "unit": 1,
       "note": "",
@@ -99,7 +155,7 @@
     },
     {
       "from": "Num 1:46",
-      "to": "Isa 40:26",
+      "to": "Exod 12:37",
       "kind": "echo",
       "unit": 1,
       "note": "",
@@ -107,7 +163,23 @@
     },
     {
       "from": "Num 1:46",
-      "to": "Ps 147:4",
+      "to": "Num 11:21",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:46",
+      "to": "Num 26:51",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:46",
+      "to": "Num 26:64–65",
       "kind": "echo",
       "unit": 1,
       "note": "",
@@ -122,16 +194,64 @@
       "source": "meta"
     },
     {
-      "from": "Num 1:49",
-      "to": "2 Sam 24:1–15",
-      "kind": "type-scene",
+      "from": "Num 1:47",
+      "to": "Num 26:62",
+      "kind": "echo",
       "unit": 1,
-      "note": "David’s census",
-      "source": "story"
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:50",
+      "to": "Exod 38:21",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:51",
+      "to": "Num 10:17",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:51",
+      "to": "Num 18:22",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:51",
+      "to": "Num 3:10",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
     },
     {
       "from": "Num 1:53",
-      "to": "Josh 22:20",
+      "to": "Num 18:5",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:54",
+      "to": "Exod 39:32",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Num 1:54",
+      "to": "Exod 40:16",
       "kind": "echo",
       "unit": 1,
       "note": "",
@@ -731,13 +851,6 @@
     }
   ],
   "typescenes": [
-    {
-      "id": "census",
-      "ref": "Num 1:49",
-      "unit": 1,
-      "note": "David’s census",
-      "source": "story"
-    },
     {
       "id": "census",
       "ref": "Num 3:15",
