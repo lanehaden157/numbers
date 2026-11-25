@@ -19,7 +19,7 @@ Converters: `tools/sources/sefaria.py` and `classic.py` (copied from Leviticus v
 
 ## Texts
 - `brenton-lxx.txt`, `web-bible.txt` (`sources/text/`): whole-Bible files copied from Matthew v2 (source: ebible.org eng-Brenton_vpl, `downloads/brenton/`); NUM has 1288 lines each. `kit.py bible NUM 16:36 --lxx` correctly shows "[LXX 17:1]".
-- LXX numbering: Brenton follows the Hebrew verse numbers in Num 17 (28 verses) and 30 (Hebrew 30:2-17 = English 30:1-16); `lxx_numbering: hebrew` in book.json handles it. LXX also has no 25:19 as a separate verse; Greek has extra/different text (e.g. 12:6-8, 22:5, 24:7 Gog/Agag, 24:17 "man out of Israel"); chapter 1 headings fine.
+- LXX numbering: Brenton follows the Hebrew verse numbers in Num 17 (28 verses) and 30 (Hebrew 30:2-17 = English 30:1-16); `lxx_numbering: hebrew` in book.json handles it. No LXX 25:19 line (folds into 26:1, as in Hebrew). Greek-vs-Hebrew content differences not surveyed here.
 
 ## Not found
 - Origen, Homilies on Numbers: only Scheck's ACT translation (IVP, copyrighted); CCEL has Rufinus's preface only. No `origen` key. Other fathers: none checked.
