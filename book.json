@@ -25,11 +25,7 @@
   "checks": {
     "opens_note_required": true
   },
-  "sync": {
-    "extra": [],
-    "skip": []
-  },
-  "core": "0.36.1",
+  "core": "0.38.4",
   "template": "0e8e7a3",
   "hub": "https://lanehaden157.github.io/bible/",
   "mirrors": [
@@ -37,5 +33,8 @@
       "with": "Exod",
       "file": "mirror-exodus.json"
     }
-  ]
+  ],
+  "studio": {
+    "lxx_numbering": "hebrew"
+  }
 }

@@ -1,12 +1,10 @@
-# Session Index (Numbers)
+# Session Index (Numbers v2)
 
-Read this first. Standing state, then the last three sessions, one line each. Older lines → `history/session_index_archive.md`; logs and summaries are in `history/` (read only if needed).
+Read this first. Standing state, then the last three sessions, one line each. Older lines → `history/session_index_archive.md`.
 
 ## Standing state
-- Units 1-4 of 38 ported; core 0.31.0 vendored; tiers off (map has DRAFT Tier/Peak/digests).
-- Exodus mirror: 13 seeded pairs in `data/mirror-exodus.json`; no unit has a box yet.
+- v2 (this folder, from 2026-11-25): studio flow on core 0.38.4: `/unit N`, `/finish`, `fact-checker` and `builder` agents; sources in `sources/` (gitignored), read through `tools/kit.py`. Chat cards, field and sync retired; old folder `../Numbers` frozen.
+- Units 1-4 of 38 ported (old flow). Not yet done: sources indexed, `lens.md`/`resources.md` rewritten, `studio.whole`/`voices` in `book.json`, pilot of unit 1 on the new flow. Exodus mirror: 13 seeded pairs, no unit box yet; tiers off.
 
 ## Recent
-- 2026-11-10: Core 0.29.1 vendored. Exodus mirror v1: `mirrors` in `book.json`, 13 seeded pairs in `data/mirror-exodus.json` (A at Exod 5:1–15:27, I at strength 2), `mirror` component on, style reference gets the mirror part. Build and test green (12 ok). No unit has a box yet.
-- 2026-11-11: Lean instructions (core 0.30.1 vendored): `CLAUDE.md` imports the shared guide, style reference holds only this book's differences, field points each chat at its card; workflow, handoff and ledger templates, `canon-decisions.md` and `project-side/README.md` removed; logs and summaries moved to `history/`. Pushed and synced; field needs a re-paste.
-- 2026-11-12: Core 0.31.0 vendored. Draft tiers, 10 peaks and 38 digests added to the unit map only; `"tiers"` stays off, site unchanged. Unchecked against commentaries; Lane to review before switching on.
+- 2026-11-25: v2 vendoring: core 0.38.4 + studio files, lessons seeded from Leviticus v2, chat side/cards/project-side removed, CLAUDE.md rewritten; build and 12 tests green.

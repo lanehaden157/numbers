@@ -36,6 +36,165 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
   - Exod 38:21 — mishkan ha-ʿ̲edut
   - Exod 40:33 — sabib la-mmishkan
 
+### Rare words together in a Torah verse, any order (77)
+
+Two rare words from one verse here that share a Torah verse, not necessarily adjacent or in this order (same frequency caps as the phrases above).
+
+- **be-midbar + la-ḥodesh** (H4057 + H2320: pasture; desert; speech / new; month) — Num 1:1
+  - Exod 16:1 (midbar, la-ḥodesh); Exod 19:1 (midbar, ba-ḥodesh)
+- **be-midbar + ha-shsheni** (H4057 + H8145: pasture; desert; speech / double; second; again) — Num 1:1
+  - Exod 16:1 (midbar, ha-shsheni)
+- **sinay + la-ḥodesh** (H5514 + H2320: Sinai / new; month) — Num 1:1
+  - Exod 16:1 (sinay, la-ḥodesh); Exod 19:1 (sinay, ba-ḥodesh)
+- **sinay + ha-shsheni** (H5514 + H8145: Sinai / double; second; again) — Num 1:1
+  - Exod 16:1 (sinay, ha-shsheni)
+- **moʿ̲ed + la-ḥodesh** (H4150 + H2320: appointment; time; festival / new; month) — Num 1:1
+  - Exod 23:15 (le-moʿ̲ed, ḥodesh); Exod 34:18 (le-moʿ̲ed, ḥodesh); Exod 40:2 (moʿ̲ed, ha-ḥodesh)
+- **be-mispar + le-gulgelota-m** (H4557 + H1538: number; innumerable; few / skull; round; head) — Num 1:2, 1:18, 1:20, 1:22
+  - Exod 16:16 (mispar, la-gulgolet)
+- **ʿ̲eśrim + wa-maʿ̲la-h** (H6242 + H4605: twenty; twentieth / upper part; upward; above) — Num 1:3, 1:18, 1:20, 1:22, 1:24, 1:26, 1:28, 1:30, 1:32, 1:34, 1:36, 1:38, 1:40, 1:42, 1:45
+  - Exod 30:14 (ʿ̲eśrim, wa-maʿ̲la-h); Exod 38:26 (ʿ̲eśrim, wa-maʿ̲la-h)
+- **ʿ̲eśrim + tipqedu** (H6242 + H6485: twenty; twentieth / visit; oversee; muster) — Num 1:3
+  - Exod 30:13 (ʿ̲eśrim, ha-pequdim); Exod 30:14 (ʿ̲eśrim, ha-pequdim); Exod 38:26 (ʿ̲eśrim, ha-pequdim)
+- **wa-maʿ̲la-h + tipqedu** (H4605 + H6485: upper part; upward; above / visit; oversee; muster) — Num 1:3
+  - Exod 30:14 (wa-maʿ̲la-h, ha-pequdim); Exod 38:26 (wa-maʿ̲la-h, ha-pequdim)
+- **naḥshon + ʿ̲amminadab** (H5177 + H5992: enchanter; Nachshon / people of liberality; Amminadab) — Num 1:7
+  - Exod 6:23 (naḥshon, ʿ̲amminadab)
+- **yosep + li-menashsheh** (H3130 + H4519: let him add; adding; Joseph / causing to forget; Menashsheh) — Num 1:10
+  - Gen 41:51 (yosep, menashsheh); Gen 46:20 (le-yosep, menashsheh); Gen 48:1 (le-yosep, menashsheh); Gen 48:13 (yosep, menashsheh); Gen 48:17 (yosep, menashsheh); Gen 50:23 (yosep, menashsheh)
+- **le-ʾeprayim + li-menashsheh** (H669 + H4519: double fruit; Ephrajim / causing to forget; Menashsheh) — Num 1:10
+  - Gen 46:20 (ʾeprayim, menashsheh); Gen 48:1 (ʾeprayim, menashsheh); Gen 48:5 (ʾeprayim, u-menashsheh); Gen 48:13 (ʾeprayim, menashsheh); Gen 48:14 (ʾeprayim, menashsheh); Gen 48:17 (ʾeprayim, menashsheh); Gen 48:20 (ke-ʾeprayim, we-ki-menashsheh); Gen 50:23 (le-ʾeprayim, menashsheh); Deut 33:17 (ʾeprayim, menashsheh); Deut 34:2 (ʾeprayim, u-menashsheh)
+- **ha-ʿ̲edah + neśiʾe** (H5712 + H5387: fixture; assemblage; concourse / exalted; king; sheik) — Num 1:16
+  - Exod 16:22 (ha-ʿ̲edah, neśiʾe); Exod 34:31 (ba-ʿ̲edah, ha-nneśiʾim)
+- **ha-ʿ̲edah + la-ḥodesh** (H5712 + H2320: fixture; assemblage; concourse / new; month) — Num 1:18
+  - Exod 12:3 (ʿ̲adat, la-ḥodesh); Exod 12:6 (ʿ̲adat, la-ḥodesh); Exod 16:1 (ʿ̲adat, la-ḥodesh)
+- **ha-ʿ̲edah + ha-shsheni** (H5712 + H8145: fixture; assemblage; concourse / double; second; again) — Num 1:18
+  - Exod 16:1 (ʿ̲adat, ha-shsheni)
+- **la-ḥodesh + ʿ̲eśrim** (H2320 + H6242: new; month / twenty; twentieth) — Num 1:18
+  - Gen 8:14 (u-ba-ḥodesh, we-ʿ̲eśrim); Exod 12:18 (la-ḥodesh, we-ʿ̲eśrim)
+- **ha-shsheni + ʿ̲eśrim** (H8145 + H6242: double; second; again / twenty; twentieth) — Num 1:18
+  - Gen 8:14 (ha-shsheni, we-ʿ̲eśrim); Exod 26:20 (ha-shshenit, ʿ̲eśrim); Exod 36:25 (ha-shshenit, ʿ̲eśrim)
+- **ha-shsheni + wa-maʿ̲la-h** (H8145 + H4605: double; second; again / upper part; upward; above) — Num 1:18
+  - Gen 6:16 (sheniyyim, mi-le-maʿ̲la-h)
+- **ʿ̲eśrim + le-gulgelota-m** (H6242 + H1538: twenty; twentieth / skull; round; head) — Num 1:18
+  - Exod 38:26 (ʿ̲eśrim, la-gulgolet)
+- **wa-maʿ̲la-h + le-gulgelota-m** (H4605 + H1538: upper part; upward; above / skull; round; head) — Num 1:18
+  - Exod 38:26 (wa-maʿ̲la-h, la-gulgolet)
+- **reʾuben + le-mishpeḥota-m** (H7205 + H4940: see ye a son; Reuben / family; circle of relatives; class) — Num 1:20
+  - Exod 6:14 (reʾuben, mishpeḥot)
+- **reʾuben + be-mispar** (H7205 + H4557: see ye a son; Reuben / number; innumerable; few) — Num 1:20
+  - Deut 33:6 (reʾuben, mispar)
+- **bekor + toldota-m** (H1060 + H8435: first-born; chief / descent; family; history) — Num 1:20
+  - Gen 25:13 (bekor, le-toldota-m)
+- **bekor + le-mishpeḥota-m** (H1060 + H4940: first-born; chief / family; circle of relatives; class) — Num 1:20
+  - Exod 6:14 (bekor, mishpeḥot)
+- **bekor + zakar** (H1060 + H2145: first-born; chief / remembered; male) — Num 1:20
+  - Exod 13:15 (bekor, ha-zzekarim); Deut 15:19 (ha-bekor, ha-zzakar)
+- **toldota-m + le-mishpeḥota-m** (H8435 + H4940: descent; family; history / family; circle of relatives; class) — Num 1:20, 1:22, 1:24, 1:26, 1:28, 1:30, 1:32, 1:34, 1:36, 1:38, 1:40, 1:42
+  - Gen 10:32 (le-toldota-m, mishpeḥot); Exod 6:19 (le-toldota-m, mishpeḥot)
+- **le-gulgelota-m + ʿ̲eśrim** (H1538 + H6242: skull; round; head / twenty; twentieth) — Num 1:20, 1:22
+  - Exod 38:26 (la-gulgolet, ʿ̲eśrim)
+- **le-gulgelota-m + wa-maʿ̲la-h** (H1538 + H4605: skull; round; head / upper part; upward; above) — Num 1:20, 1:22
+  - Exod 38:26 (la-gulgolet, wa-maʿ̲la-h)
+- **zakar + ʿ̲eśrim** (H2145 + H6242: remembered; male / twenty; twentieth) — Num 1:20, 1:22
+  - Lev 27:3 (ha-zzakar, ʿ̲eśrim); Lev 27:5 (ha-zzakar, ʿ̲eśrim)
+- **zakar + wa-maʿ̲la-h** (H2145 + H4605: remembered; male / upper part; upward; above) — Num 1:20, 1:22
+  - Lev 27:7 (zakar, wa-maʿ̲la-h)
+- **pequde-hem + shishshah** (H6485 + H8337: visit; oversee; muster / six; sixth) — Num 1:21, 1:25, 1:27, 1:46
+  - Exod 38:26 (ha-pequdim, le-shesh)
+- **pequde-hem + wa-ḥamesh** (H6485 + H2568: visit; oversee; muster / five) — Num 1:21, 1:25, 1:33, 1:37, 1:41, 1:46
+  - Exod 38:25 (pequde, wa-ḥamishshah); Exod 38:26 (ha-pequdim, wa-ḥamesh)
+- **shishshah + wa-ḥamesh** (H8337 + H2568: six; sixth / five) — Num 1:21, 1:46
+  - Exod 26:9 (shesh, ḥamesh); Exod 36:16 (shesh, ḥamesh); Exod 38:26 (le-shesh, wa-ḥamesh)
+- **we-ʾarbaʿ̲im + wa-ḥamesh** (H705 + H2568: forty / five) — Num 1:21, 1:33, 1:41
+  - Gen 18:28 (ʾarbaʿ̲im, ḥamishshah)
+- **shimʿ̲on + le-mishpeḥota-m** (H8095 + H4940: hearing; Shimon / family; circle of relatives; class) — Num 1:22
+  - Exod 6:15 (shimʿ̲on, mishpeḥot)
+- **shimʿ̲on + be-mispar** (H8095 + H4557: hearing; Shimon / number; innumerable; few) — Num 1:22
+  - Gen 34:30 (shimʿ̲on, mispar)
+- **shimʿ̲on + zakar** (H8095 + H2145: hearing; Shimon / remembered; male) — Num 1:22
+  - Gen 34:25 (shimʿ̲on, zakar)
+- **pequday-w + le-gulgelota-m** (H6485 + H1538: visit; oversee; muster / skull; round; head) — Num 1:22
+  - Exod 38:26 (ha-pequdim, la-gulgolet)
+- **pequday-w + ʿ̲eśrim** (H6485 + H6242: visit; oversee; muster / twenty; twentieth) — Num 1:22, 1:45
+  - Exod 30:13 (ha-pequdim, ʿ̲eśrim); Exod 30:14 (ha-pequdim, ʿ̲eśrim); Exod 38:26 (ha-pequdim, ʿ̲eśrim)
+- **pequday-w + wa-maʿ̲la-h** (H6485 + H4605: visit; oversee; muster / upper part; upward; above) — Num 1:22, 1:45
+  - Exod 30:14 (ha-pequdim, wa-maʿ̲la-h); Exod 38:26 (ha-pequdim, wa-maʿ̲la-h)
+- **pequde-hem + wa-ḥamishshim** (H6485 + H2572: visit; oversee; muster / fifty) — Num 1:23, 1:25, 1:29, 1:31, 1:43, 1:46
+  - Exod 38:26 (ha-pequdim, wa-ḥamishshim)
+- **tishʿ̲ah + wa-ḥamishshim** (H8672 + H2572: nine; ninth / fifty) — Num 1:23
+  - Gen 9:29 (teshaʿ̲, wa-ḥamishshim)
+- **ḥamishshah + we-ʾarbaʿ̲im** (H2568 + H705: five / forty) — Num 1:25
+  - Gen 18:28 (ḥamishshah, ʾarbaʿ̲im)
+- **ḥamishshah + we-shesh** (H2568 + H8337: five / six; sixth) — Num 1:25
+  - Exod 26:9 (ḥamesh, shesh); Exod 36:16 (ḥamesh, shesh); Exod 38:26 (wa-ḥamesh, le-shesh)
+- **ḥamishshah + wa-ḥamishshim** (H2568 + H2572: five / fifty) — Num 1:25, 1:46
+  - Gen 18:28 (ḥamishshah, ḥamishshim); Exod 27:18 (ḥamesh, ḥamishshim); Exod 30:23 (ḥamesh, ḥamishshim); Exod 38:26 (wa-ḥamesh, wa-ḥamishshim)
+- **we-ʾarbaʿ̲im + wa-ḥamishshim** (H705 + H2572: forty / fifty) — Num 1:25
+  - Gen 18:28 (ʾarbaʿ̲im, ḥamishshim)
+- **we-shesh + wa-ḥamishshim** (H8337 + H2572: six; sixth / fifty) — Num 1:25, 1:46
+  - Exod 38:26 (le-shesh, wa-ḥamishshim)
+- **pequde-hem + we-shibʿ̲im** (H6485 + H7657: visit; oversee; muster / seventy) — Num 1:27
+  - Exod 38:25 (pequde, we-shibʿ̲im)
+- **ʾarbaʿ̲ah + we-shibʿ̲im** (H702 + H7657: four / seventy) — Num 1:27
+  - Exod 38:29 (we-ʾarbaʿ̲, shibʿ̲im)
+- **ʾarbaʿ̲ah + we-shesh** (H702 + H8337: four / six; sixth) — Num 1:27
+  - Gen 31:41 (ʾarbaʿ̲, we-shesh)
+- **yosep + toldota-m** (H3130 + H8435: let him add; adding; Joseph / descent; family; history) — Num 1:32
+  - Gen 37:2 (yosep, toldot)
+- **yosep + be-mispar** (H3130 + H4557: let him add; adding; Joseph / number; innumerable; few) — Num 1:32
+  - Gen 41:49 (yosep, mispar)
+- **yosep + ʿ̲eśrim** (H3130 + H6242: let him add; adding; Joseph / twenty; twentieth) — Num 1:32
+  - Gen 37:28 (yosep, be-ʿ̲eśrim)
+- **binyamin + ḥamishshah** (H1144 + H2568: Binjamin / five) — Num 1:37
+  - Gen 43:34 (binyamin, ḥamesh); Gen 45:22 (u-le-binyamin, we-ḥamesh)
+- **ḥamishshah + we-ʾarbaʿ̲** (H2568 + H702: five / four) — Num 1:37
+  - Gen 14:9 (ha-ḥamishshah, ʾarbaʿ̲ah); Exod 22:1 (ḥamishshah, we-ʾarbaʿ̲)
+- **u-sheloshim + we-ʾarbaʿ̲** (H7970 + H702: thirty; thirtieth / four) — Num 1:37
+  - Gen 11:16 (u-sheloshim, ʾarbaʿ̲); Gen 11:17 (sheloshim, we-ʾarbaʿ̲); Exod 12:40 (sheloshim, we-ʾarbaʿ̲); Exod 12:41 (sheloshim, we-ʾarbaʿ̲); Exod 26:8 (sheloshim, ʾarbaʿ̲); Exod 36:15 (sheloshim, we-ʾarbaʿ̲)
+- **u-neśiʾe + ʿ̲aśar** (H5387 + H6240: exalted; king; sheik / ten; -teen; -teenth) — Num 1:44
+  - Gen 17:20 (neśiʾim, ʿ̲aśar); Gen 25:16 (neśiʾim, ʿ̲aśar)
+- **we-ha-lewiyyim + hatpaqdu** (H3881 + H6485: Levite / visit; oversee; muster) — Num 1:47
+  - Exod 38:21 (ha-lewiyyim, pequde)
+- **hapqed + ha-lewiyyim** (H6485 + H3881: visit; oversee; muster / Levite) — Num 1:50
+  - Exod 38:21 (pequde, ha-lewiyyim)
+- **hapqed + mishkan** (H6485 + H4908: visit; oversee; muster / residence; hut; lair) — Num 1:50
+  - Exod 38:21 (pequde, ha-mmishkan)
+- **hapqed + ha-ʿ̲edut** (H6485 + H5715: visit; oversee; muster / testimony) — Num 1:50
+  - Exod 38:21 (pequde, ha-ʿ̲edut)
+- **hapqed + yeshartu-hu** (H6485 + H8334: visit; oversee; muster / attend; contribute) — Num 1:50
+  - Gen 39:4 (wa-yyapqide-hu, wa-yesharet); Gen 40:4 (wa-yyipqod, wa-yesharet)
+- **ha-lewiyyim + mishkan** (H3881 + H4908: Levite / residence; hut; lair) — Num 1:50, 1:53
+  - Exod 38:21 (ha-lewiyyim, ha-mmishkan)
+- **ha-lewiyyim + ha-ʿ̲edut** (H3881 + H5715: Levite / testimony) — Num 1:50, 1:53
+  - Exod 38:21 (ha-lewiyyim, ha-ʿ̲edut)
+- **ha-lewiyyim + yeshartu-hu** (H3881 + H8334: Levite / attend; contribute) — Num 1:50
+  - Deut 18:7 (ha-lewiyyim, we-sheret)
+- **mishkan + kelay-w** (H4908 + H3627: residence; hut; lair / prepared; apparatus) — Num 1:50
+  - Exod 25:9 (ha-mmishkan, kelay-w); Exod 27:19 (ha-mmishkan, kele); Exod 39:33 (ha-mmishkan, kelay-w); Exod 39:40 (ha-mmishkan, kele); Exod 40:9 (ha-mmishkan, kelay-w)
+- **ha-ʿ̲edut + kelay-w** (H5715 + H3627: testimony / prepared; apparatus) — Num 1:50
+  - Exod 31:7 (la-ʿ̲edut, kele)
+- **yeshartu-hu + we-sabib** (H8334 + H5439: attend; contribute / circle; neighbour; environs) — Num 1:50
+  - Exod 39:26 (le-sharet, sabib)
+- **u-bi-nesoaʿ̲ + ha-mmishkan** (H5265 + H4908: pull; start / residence; hut; lair) — Num 1:51
+  - Exod 40:36 (yisʿ̲u, ha-mmishkan)
+- **u-bi-nesoaʿ̲ + u-ba-ḥanot** (H5265 + H2583: pull; start / incline; decline; pitch) — Num 1:51
+  - Exod 13:20 (wa-yyisʿ̲u, wa-yyaḥanu); Exod 17:1 (wa-yyisʿ̲u, wa-yyaḥanu); Exod 19:2 (wa-yyisʿ̲u, wa-yyaḥanu)
+- **u-bi-nesoaʿ̲ + ha-qqareb** (H5265 + H7126: pull; start / approach; bring near) — Num 1:51
+  - Exod 14:10 (noseaʿ̲, hiqrib)
+- **ha-mmishkan + ha-lewiyyim** (H4908 + H3881: residence; hut; lair / Levite) — Num 1:51
+  - Exod 38:21 (ha-mmishkan, ha-lewiyyim)
+- **ha-mmishkan + ha-qqareb** (H4908 + H7126: residence; hut; lair / approach; bring near) — Num 1:51
+  - Lev 17:4 (mishkan, le-haqrib)
+- **we-ha-zzar + ha-qqareb** (H2114 + H7126: turn aside; be a foreigner; strange / approach; bring near) — Num 1:51
+  - Lev 10:1 (zarah, wa-yyaqribu)
+- **yaḥanu + ʿ̲adat** (H2583 + H5712: incline; decline; pitch / fixture; assemblage; concourse) — Num 1:53
+  - Exod 17:1 (wa-yyaḥanu, ʿ̲adat)
+- **ha-ʿ̲edut + mishmeret** (H5715 + H4931: testimony / watch; custody; sentry) — Num 1:53
+  - Exod 16:34 (ha-ʿ̲edut, le-mishmaret)
+- **ʿ̲adat + mishmeret** (H5712 + H4931: fixture; assemblage; concourse / watch; custody; sentry) — Num 1:53
+  - Exod 12:6 (ʿ̲adat, le-mishmeret)
+
 ## Rare words (9)
 
 - **naḥshon** (H5177, enchanter; Nachshon) — Num 1:7; 9 verses in the Hebrew Bible

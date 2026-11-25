@@ -12,6 +12,87 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
 - **ḥamishshah u-sheloshim** (H2568 + H7970: five / thirty; thirtieth) — Num 2:23
   - Gen 11:12 — ḥamesh u-sheloshim
 
+### Rare words together in a Torah verse, any order (38)
+
+Two rare words from one verse here that share a Torah verse, not necessarily adjacent or in this order (same frequency caps as the phrases above).
+
+- **be-ʾotot + moʿ̲ed** (H226 + H4150: appearing; signal; flag / appointment; time; festival) — Num 2:2
+  - Gen 1:14 (le-ʾotot, u-le-moʿ̲adim)
+- **yaḥanu + mi-nneged** (H2583 + H5048: incline; decline; pitch / front; part opposite; counterpart) — Num 2:2
+  - Exod 19:2 (wa-yyaḥanu, neged)
+- **sabib + moʿ̲ed** (H5439 + H4150: circle; neighbour; environs / appointment; time; festival) — Num 2:2
+  - Lev 1:5 (sabib, moʿ̲ed); Lev 3:2 (sabib, moʿ̲ed); Lev 3:8 (sabib, moʿ̲ed); Lev 3:13 (sabib, moʿ̲ed)
+- **naḥshon + ʿ̲amminadab** (H5177 + H5992: enchanter; Nachshon / people of liberality; Amminadab) — Num 2:3
+  - Exod 6:23 (naḥshon, ʿ̲amminadab)
+- **u-pequde-hem + we-shibʿ̲im** (H6485 + H7657: visit; oversee; muster / seventy) — Num 2:4
+  - Exod 38:25 (pequde, we-shibʿ̲im)
+- **u-pequde-hem + we-shesh** (H6485 + H8337: visit; oversee; muster / six; sixth) — Num 2:4, 2:9, 2:11, 2:15, 2:31, 2:32
+  - Exod 38:26 (ha-pequdim, le-shesh)
+- **ʾarbaʿ̲ah + we-shibʿ̲im** (H702 + H7657: four / seventy) — Num 2:4
+  - Exod 38:29 (we-ʾarbaʿ̲, shibʿ̲im)
+- **ʾarbaʿ̲ah + we-shesh** (H702 + H8337: four / six; sixth) — Num 2:4
+  - Gen 31:41 (ʾarbaʿ̲, we-shesh)
+- **u-pequday-w + wa-ḥamishshim** (H6485 + H2572: visit; oversee; muster / fifty) — Num 2:6, 2:8, 2:13, 2:15, 2:16, 2:30, 2:31, 2:32
+  - Exod 38:26 (ha-pequdim, wa-ḥamishshim)
+- **le-maḥaneh + riʾshonah** (H4264 + H7223: encampment; army / first) — Num 2:9
+  - Lev 4:21 (la-mmaḥaneh, ha-riʾshon)
+- **le-maḥaneh + yissaʿ̲u** (H4264 + H5265: encampment; army / pull; start) — Num 2:9, 2:16, 2:24, 2:31
+  - Exod 14:19 (maḥaneh, wa-yyissaʿ̲)
+- **u-shemonim + we-sheshet** (H8084 + H8337: eighty; eightieth / six; sixth) — Num 2:9
+  - Gen 16:16 (shemonim, we-shesh)
+- **we-sheshet + we-ʾarbaʿ̲** (H8337 + H702: six; sixth / four) — Num 2:9
+  - Gen 31:41 (we-shesh, ʾarbaʿ̲)
+- **we-sheshet + riʾshonah** (H8337 + H7223: six; sixth / first) — Num 2:9
+  - Gen 8:13 (we-shesh, ba-riʾshon)
+- **we-sheshet + yissaʿ̲u** (H8337 + H5265: six; sixth / pull; start) — Num 2:9, 2:31
+  - Exod 12:37 (ke-shesh, wa-yyisʿ̲u)
+- **we-ʾarbaʿ̲ + riʾshonah** (H702 + H7223: four / first) — Num 2:9
+  - Exod 12:18 (be-ʾarbaʿ̲ah, ba-riʾshon); Lev 23:5 (be-ʾarbaʿ̲ah, ha-riʾshon)
+- **u-pequday-w + wa-ḥamesh** (H6485 + H2568: visit; oversee; muster / five) — Num 2:11, 2:15, 2:19, 2:23, 2:28, 2:32
+  - Exod 38:25 (pequde, wa-ḥamishshah); Exod 38:26 (ha-pequdim, wa-ḥamesh)
+- **shishshah + wa-ḥamesh** (H8337 + H2568: six; sixth / five) — Num 2:11, 2:32
+  - Exod 26:9 (shesh, ḥamesh); Exod 36:16 (shesh, ḥamesh); Exod 38:26 (le-shesh, wa-ḥamesh)
+- **we-ʾarbaʿ̲im + wa-ḥamesh** (H705 + H2568: forty / five) — Num 2:11, 2:19, 2:28
+  - Gen 18:28 (ʾarbaʿ̲im, ḥamishshah)
+- **tishʿ̲ah + wa-ḥamishshim** (H8672 + H2572: nine; ninth / fifty) — Num 2:13
+  - Gen 9:29 (teshaʿ̲, wa-ḥamishshim)
+- **ḥamishshah + we-ʾarbaʿ̲im** (H2568 + H705: five / forty) — Num 2:15
+  - Gen 18:28 (ḥamishshah, ʾarbaʿ̲im)
+- **ḥamishshah + we-shesh** (H2568 + H8337: five / six; sixth) — Num 2:15
+  - Exod 26:9 (ḥamesh, shesh); Exod 36:16 (ḥamesh, shesh); Exod 38:26 (wa-ḥamesh, le-shesh)
+- **ḥamishshah + wa-ḥamishshim** (H2568 + H2572: five / fifty) — Num 2:15, 2:32
+  - Gen 18:28 (ḥamishshah, ḥamishshim); Exod 27:18 (ḥamesh, ḥamishshim); Exod 30:23 (ḥamesh, ḥamishshim); Exod 38:26 (wa-ḥamesh, wa-ḥamishshim)
+- **we-ʾarbaʿ̲im + wa-ḥamishshim** (H705 + H2572: forty / fifty) — Num 2:15
+  - Gen 18:28 (ʾarbaʿ̲im, ḥamishshim)
+- **we-shesh + wa-ḥamishshim** (H8337 + H2572: six; sixth / fifty) — Num 2:15, 2:32
+  - Exod 38:26 (le-shesh, wa-ḥamishshim)
+- **wa-ḥamishshim + u-sheniyyim** (H2572 + H8145: fifty / double; second; again) — Num 2:16
+  - Exod 26:5 (ḥamishshim, ha-shshenit); Exod 26:10 (ḥamishshim, ha-shshenit); Exod 36:12 (ḥamishshim, ha-shshenit); Exod 36:17 (ḥamishshim, ha-shshenit)
+- **we-ʾarbaʿ̲ + u-sheniyyim** (H702 + H8145: four / double; second; again) — Num 2:16
+  - Exod 25:12 (ʾarbaʿ̲, ha-shshenit); Exod 37:3 (ʾarbaʿ̲, ha-shshenit)
+- **u-sheniyyim + yissaʿ̲u** (H8145 + H5265: double; second; again / pull; start) — Num 2:16
+  - Exod 16:1 (ha-shsheni, wa-yyisʿ̲u)
+- **we-nasaʿ̲ + maḥaneh** (H5265 + H4264: pull; start / encampment; army) — Num 2:17
+  - Exod 14:19 (wa-yyissaʿ̲, maḥaneh)
+- **we-nasaʿ̲ + yaḥanu** (H5265 + H2583: pull; start / incline; decline; pitch) — Num 2:17
+  - Exod 13:20 (wa-yyisʿ̲u, wa-yyaḥanu); Exod 17:1 (wa-yyisʿ̲u, wa-yyaḥanu); Exod 19:2 (wa-yyisʿ̲u, wa-yyaḥanu)
+- **moʿ̲ed + maḥaneh** (H4150 + H4264: appointment; time; festival / encampment; army) — Num 2:17
+  - Exod 33:7 (moʿ̲ed, la-mmaḥaneh)
+- **ḥamishshah + we-ʾarbaʿ̲** (H2568 + H702: five / four) — Num 2:23
+  - Gen 14:9 (ha-ḥamishshah, ʾarbaʿ̲ah); Exod 22:1 (ḥamishshah, we-ʾarbaʿ̲)
+- **u-sheloshim + we-ʾarbaʿ̲** (H7970 + H702: thirty; thirtieth / four) — Num 2:23
+  - Gen 11:16 (u-sheloshim, ʾarbaʿ̲); Gen 11:17 (sheloshim, we-ʾarbaʿ̲); Exod 12:40 (sheloshim, we-ʾarbaʿ̲); Exod 12:41 (sheloshim, we-ʾarbaʿ̲); Exod 26:8 (sheloshim, ʾarbaʿ̲); Exod 36:15 (sheloshim, we-ʾarbaʿ̲)
+- **le-maḥaneh + u-shemonat** (H4264 + H8083: encampment; army / eight; eighth) — Num 2:24
+  - Deut 2:14 (ha-mmaḥaneh, u-shemoneh)
+- **le-maḥaneh + u-shelishim** (H4264 + H7992: encampment; army / third; third-story cell)) — Num 2:24
+  - Exod 19:16 (ba-mmaḥaneh, ha-shshelishi)
+- **wa-ḥamishshim + we-shesh** (H2572 + H8337: fifty / six; sixth) — Num 2:31
+  - Exod 38:26 (wa-ḥamishshim, le-shesh)
+- **we-ha-lewiyyim + hatpaqdu** (H3881 + H6485: Levite / visit; oversee; muster) — Num 2:33
+  - Exod 38:21 (ha-lewiyyim, pequde)
+- **ḥanu + nasaʿ̲u** (H2583 + H5265: incline; decline; pitch / pull; start) — Num 2:34
+  - Exod 13:20 (wa-yyaḥanu, wa-yyisʿ̲u); Exod 17:1 (wa-yyaḥanu, wa-yyisʿ̲u); Exod 19:2 (wa-yyaḥanu, wa-yyisʿ̲u)
+
 ## Rare words (9)
 
 - **naḥshon** (H5177, enchanter; Nachshon) — Num 2:3; 9 verses in the Hebrew Bible

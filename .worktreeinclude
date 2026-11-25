@@ -1,0 +1,5 @@
+# gitignored files copied into each new worktree (unit sessions and the builder need them)
+sources/sections/
+sources/text/
+corpus/lxx/
+node_modules/

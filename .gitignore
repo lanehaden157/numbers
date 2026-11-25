@@ -2,4 +2,12 @@ __pycache__/
 *.pyc
 node_modules/
 out/
-project-side/sync-state.json
+
+# Copyrighted commentaries and their text conversions: local only, never pushed
+/sources/
+
+# studio: LXX corpus (`python -m biblecore fetch`), per-unit source cuts (`tools/kit.py parts|extra`)
+corpus/lxx/
+work/*/parts/
+work/*/extra/
+.claude/settings.local.json

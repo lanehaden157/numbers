@@ -134,3 +134,4 @@ Core 0.27.0 vendored. `unit-pack` ties rulings to words by transliteration only,
 - Layout: `CLAUDE.md` imports `biblecore/BOOK_CLAUDE.md`; `fragment-contract.md` is the shared contract and the style reference holds only this book's differences (it wins); each chat fetches one `card-*.md`. The pre-lean full style reference, CLAUDE.md and project-side README are in git history (the commit before this one).
 - Numbers' own worked example was dropped; the shared contract's example is a trimmed copy of it.
 - Core 0.30.1: doc budgets match the files' sizes; over budget means cut or move something, and raising one is Lane's call (`biblecore/BOOK_CLAUDE.md`, "Keeping instruction files lean").
+- 2026-11-25: Core 0.38.4 vendored; Numbers v2 forked from Numbers (frozen). Chat side retired; `sync` removed from book.json; project-side mirror deleted (in git history).

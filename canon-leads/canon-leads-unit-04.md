@@ -102,6 +102,415 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
 - **ha-lewiyyim le-mishpeḥota-m** (H3881 + H4940: Levite / family; circle of relatives; class) — Num 4:46
   - Exod 6:25 — ha-lewiyyim le-mishpeḥota-m
 
+### Rare words together in a Torah verse, any order (202)
+
+Two rare words from one verse here that share a Torah verse, not necessarily adjacent or in this order (same frequency caps as the phrases above).
+
+- **qehat + lewi** (H6955 + H3878: allied; Kehath / Levi) — Num 4:2
+  - Gen 46:11 (qehat, lewi); Exod 6:16 (u-qehat, lewiy)
+- **lewi + le-mishpeḥota-m** (H3878 + H4940: Levi / family; circle of relatives; class) — Num 4:2
+  - Exod 6:19 (ha-llewi, mishpeḥot)
+- **sheloshim + ḥamishshim** (H7970 + H2572: thirty; thirtieth / fifty) — Num 4:3, 4:23, 4:30, 4:35, 4:39, 4:43, 4:47
+  - Gen 6:15 (u-sheloshim, ḥamishshim)
+- **sheloshim + melaʾkah** (H7970 + H4399: thirty; thirtieth / deputyship; ministry; employment) — Num 4:3
+  - Exod 38:24 (u-sheloshim, la-mmelaʾkah)
+- **wa-maʿ̲la-h + ḥamishshim** (H4605 + H2572: upper part; upward; above / fifty) — Num 4:3, 4:23, 4:30, 4:35, 4:39, 4:43, 4:47
+  - Exod 38:26 (wa-maʿ̲la-h, wa-ḥamishshim)
+- **melaʾkah + moʿ̲ed** (H4399 + H4150: deputyship; ministry; employment / appointment; time; festival) — Num 4:3
+  - Exod 35:21 (li-meleʾket, moʿ̲ed)
+- **ʿ̲abodat + moʿ̲ed** (H5656 + H4150: work / appointment; time; festival) — Num 4:4, 4:23, 4:28, 4:30, 4:31, 4:33, 4:35, 4:39, 4:43, 4:47
+  - Exod 30:16 (ʿ̲abodat, moʿ̲ed); Exod 35:21 (ʿ̲abodat-wo, moʿ̲ed); Exod 39:32 (ʿ̲abodat, moʿ̲ed); Exod 39:40 (ʿ̲abodat, moʿ̲ed)
+- **bi-nesoaʿ̲ + ha-mmaḥaneh** (H5265 + H4264: pull; start / encampment; army) — Num 4:5, 4:15
+  - Exod 14:19 (wa-yyissaʿ̲, maḥaneh)
+- **ha-mmaḥaneh + we-kissu** (H4264 + H3680: encampment; army / plump; fill up; cover) — Num 4:5
+  - Exod 16:13 (ha-mmaḥaneh, wa-tekas)
+- **paroket + ʾaron** (H6532 + H727: separatrix; screen / box) — Num 4:5
+  - Exod 26:33 (ha-paroket, ʾaron); Exod 30:6 (ha-paroket, ʾaron); Exod 35:12 (paroket, ha-ʾaron); Exod 40:3 (ha-paroket, ʾaron); Exod 40:21 (paroket, ha-ʾaron); Lev 16:2 (la-paroket, ha-ʾaron)
+- **paroket + ha-ʿ̲edut** (H6532 + H5715: separatrix; screen / testimony) — Num 4:5
+  - Exod 26:33 (ha-paroket, ha-ʿ̲edut); Exod 27:21 (la-paroket, ha-ʿ̲edut); Exod 30:6 (ha-paroket, ha-ʿ̲edut); Exod 40:3 (ha-paroket, ha-ʿ̲edut); Exod 40:21 (paroket, ha-ʿ̲edut); Lev 24:3 (le-paroket, ha-ʿ̲edut)
+- **ha-mmasak + ʾaron** (H4539 + H727: cover; veil / box) — Num 4:5
+  - Exod 35:12 (ha-mmasak, ha-ʾaron); Exod 40:5 (masak, ʾaron); Exod 40:21 (ha-mmasak, ha-ʾaron)
+- **ha-mmasak + ha-ʿ̲edut** (H4539 + H5715: cover; veil / testimony) — Num 4:5
+  - Exod 40:5 (masak, ha-ʿ̲edut); Exod 40:21 (ha-mmasak, ha-ʿ̲edut)
+- **we-kissu + ha-ʿ̲edut** (H3680 + H5715: plump; fill up; cover / testimony) — Num 4:5
+  - Lev 16:13 (we-kissah, ha-ʿ̲edut)
+- **ʿ̲or + beged** (H5785 + H899: skin; hide; leather / covering; clothing; treachery) — Num 4:6
+  - Lev 11:32 (ʿ̲or, beged); Lev 13:6 (ba-ʿ̲or, begaday-w); Lev 13:34 (ba-ʿ̲or, begaday-w); Lev 13:49 (ba-ʿ̲or, ba-beged); Lev 13:51 (ba-ʿ̲or, ba-beged); Lev 13:52 (ha-ʿ̲or, ha-beged); Lev 13:53 (ʿ̲or, ba-beged); Lev 13:56 (ha-ʿ̲or, ha-beged); Lev 13:57 (ʿ̲or, ba-beged); Lev 13:58 (ha-ʿ̲or, we-ha-beged); Lev 13:59 (ʿ̲or, beged); Lev 15:17 (ʿ̲or, beged)
+- **ʿ̲or + tekelet** (H5785 + H8504: skin; hide; leather / mussel; violet) — Num 4:6
+  - Exod 35:23 (we-ʿ̲orot, tekelet)
+- **ʿ̲or + mi-le-maʿ̲la-h** (H5785 + H4605: skin; hide; leather / upper part; upward; above) — Num 4:6
+  - Exod 26:14 (ʿ̲orot, mi-le-maʿ̲la-h); Exod 36:19 (ʿ̲orot, mi-le-maʿ̲la-h)
+- **ʿ̲or + badday-w** (H5785 + H905: skin; hide; leather / separation; part; branch) — Num 4:6, 4:8, 4:11, 4:14
+  - Exod 22:27 (le-ʿ̲or-wo, le-badda-h)
+- **taḥash + tekelet** (H8476 + H8504: animal with fur; species of antelope / mussel; violet) — Num 4:6
+  - Exod 35:23 (teḥashim, tekelet)
+- **taḥash + mi-le-maʿ̲la-h** (H8476 + H4605: animal with fur; species of antelope / upper part; upward; above) — Num 4:6, 4:25
+  - Exod 26:14 (teḥashim, mi-le-maʿ̲la-h); Exod 36:19 (teḥashim, mi-le-maʿ̲la-h)
+- **u-parśu + mi-le-maʿ̲la-h** (H6566 + H4605: break; disperse / upper part; upward; above) — Num 4:6
+  - Exod 25:20 (porśe, le-maʿ̲la-h); Exod 37:9 (porśe, le-maʿ̲la-h); Exod 40:19 (wa-yyiproś, mi-le-maʿ̲la-h)
+- **beged + tekelet** (H899 + H8504: covering; clothing; treachery / mussel; violet) — Num 4:6, 4:7, 4:9, 4:11, 4:12
+  - Exod 39:1 (bigde, ha-tekelet)
+- **tekelet + mi-le-maʿ̲la-h** (H8504 + H4605: mussel; violet / upper part; upward; above) — Num 4:6
+  - Exod 39:31 (tekelet, mi-le-maʿ̲la-h)
+- **mi-le-maʿ̲la-h + badday-w** (H4605 + H905: upper part; upward; above / separation; part; branch) — Num 4:6
+  - Exod 40:20 (mi-le-maʿ̲la-h, ha-baddim)
+- **shulḥan + ha-qqeʿ̲arot** (H7979 + H7086: table; spread; meal / bowl; cut) — Num 4:7
+  - Exod 37:16 (ha-shshulḥan, qeʿ̲arotay-w)
+- **shulḥan + ha-kappot** (H7979 + H3709: table; spread; meal / hollow hand; palm; power) — Num 4:7
+  - Exod 37:16 (ha-shshulḥan, kappotay-w)
+- **shulḥan + ha-mmenaqqiyyot** (H7979 + H4518: table; spread; meal / sacrificial basin) — Num 4:7
+  - Exod 37:16 (ha-shshulḥan, menaqqiyyotay-w)
+- **shulḥan + qeśot** (H7979 + H7184: table; spread; meal / round; jug) — Num 4:7
+  - Exod 37:16 (ha-shshulḥan, ha-qqeśawot)
+- **shulḥan + we-leḥem** (H7979 + H3899: table; spread; meal / food; bread; grain) — Num 4:7
+  - Exod 25:30 (ha-shshulḥan, leḥem); Exod 35:13 (ha-shshulḥan, leḥem); Exod 39:36 (ha-shshulḥan, leḥem)
+- **shulḥan + ha-tamid** (H7979 + H8548: table; spread; meal / stretch; continuance; extension) — Num 4:7
+  - Exod 25:30 (ha-shshulḥan, tamid)
+- **yipreśu + ha-kappot** (H6566 + H3709: break; disperse / hollow hand; palm; power) — Num 4:7
+  - Exod 9:29 (ʾeproś, kappa-y); Exod 9:33 (wa-yyiproś, kappay-w)
+- **beged + we-leḥem** (H899 + H3899: covering; clothing; treachery / food; bread; grain) — Num 4:7
+  - Gen 28:20 (u-beged, leḥem)
+- **ha-qqeʿ̲arot + ha-kappot** (H7086 + H3709: bowl; cut / hollow hand; palm; power) — Num 4:7
+  - Exod 25:29 (qqeʿ̲arotay-w, we-kappotay-w); Exod 37:16 (qeʿ̲arotay-w, kappotay-w)
+- **ha-qqeʿ̲arot + ha-mmenaqqiyyot** (H7086 + H4518: bowl; cut / sacrificial basin) — Num 4:7
+  - Exod 25:29 (qqeʿ̲arotay-w, u-menaqqiyyotay-w); Exod 37:16 (qeʿ̲arotay-w, menaqqiyyotay-w)
+- **ha-qqeʿ̲arot + qeśot** (H7086 + H7184: bowl; cut / round; jug) — Num 4:7
+  - Exod 25:29 (qqeʿ̲arotay-w, u-qeśotay-w); Exod 37:16 (qeʿ̲arotay-w, ha-qqeśawot)
+- **ha-kappot + ha-mmenaqqiyyot** (H3709 + H4518: hollow hand; palm; power / sacrificial basin) — Num 4:7
+  - Exod 25:29 (we-kappotay-w, u-menaqqiyyotay-w); Exod 37:16 (kappotay-w, menaqqiyyotay-w)
+- **ha-kappot + qeśot** (H3709 + H7184: hollow hand; palm; power / round; jug) — Num 4:7
+  - Exod 25:29 (we-kappotay-w, u-qeśotay-w); Exod 37:16 (kappotay-w, ha-qqeśawot)
+- **ha-mmenaqqiyyot + qeśot** (H4518 + H7184: sacrificial basin / round; jug) — Num 4:7
+  - Exod 25:29 (u-menaqqiyyotay-w, u-qeśotay-w); Exod 37:16 (menaqqiyyotay-w, ha-qqeśawot)
+- **ha-nnasek + we-leḥem** (H5262 + H3899: libation; cast idol / food; bread; grain) — Num 4:7
+  - Lev 23:18 (we-niske-hem, ha-lleḥem)
+- **we-leḥem + ha-tamid** (H3899 + H8548: food; bread; grain / stretch; continuance; extension) — Num 4:7
+  - Exod 25:30 (leḥem, tamid)
+- **u-parśu + be-mikseh** (H6566 + H4372: break; disperse / covering; weatherboarding) — Num 4:8, 4:11
+  - Exod 40:19 (wa-yyiproś, mikseh)
+- **beged + tolaʿ̲at** (H899 + H8438: covering; clothing; treachery / maggot; voracious; grub) — Num 4:8
+  - Exod 39:1 (bigde, we-tolaʿ̲at)
+- **beged + shani** (H899 + H8144: covering; clothing; treachery / crimson) — Num 4:8
+  - Exod 39:1 (bigde, ha-shshani)
+- **beged + we-kissu** (H899 + H3680: covering; clothing; treachery / plump; fill up; cover) — Num 4:8, 4:9, 4:11, 4:12
+  - Gen 38:14 (bigde, wa-tekas)
+- **beged + ʿ̲or** (H899 + H5785: covering; clothing; treachery / skin; hide; leather) — Num 4:8, 4:11, 4:12
+  - Lev 11:32 (beged, ʿ̲or); Lev 13:6 (begaday-w, ba-ʿ̲or); Lev 13:34 (begaday-w, ba-ʿ̲or); Lev 13:49 (ba-beged, ba-ʿ̲or); Lev 13:51 (ba-beged, ba-ʿ̲or); Lev 13:52 (ha-beged, ha-ʿ̲or); Lev 13:53 (ba-beged, ʿ̲or); Lev 13:56 (ha-beged, ha-ʿ̲or); Lev 13:57 (ba-beged, ʿ̲or); Lev 13:58 (we-ha-beged, ha-ʿ̲or); Lev 13:59 (beged, ʿ̲or); Lev 15:17 (beged, ʿ̲or)
+- **tolaʿ̲at + ʿ̲or** (H8438 + H5785: maggot; voracious; grub / skin; hide; leather) — Num 4:8
+  - Exod 35:23 (we-tolaʿ̲at, we-ʿ̲orot)
+- **tolaʿ̲at + taḥash** (H8438 + H8476: maggot; voracious; grub / animal with fur; species of antelope) — Num 4:8
+  - Exod 35:23 (we-tolaʿ̲at, teḥashim)
+- **shani + ʿ̲or** (H8144 + H5785: crimson / skin; hide; leather) — Num 4:8
+  - Exod 35:23 (shani, we-ʿ̲orot)
+- **shani + taḥash** (H8144 + H8476: crimson / animal with fur; species of antelope) — Num 4:8
+  - Exod 35:23 (shani, teḥashim)
+- **we-kissu + ʿ̲or** (H3680 + H5785: plump; fill up; cover / skin; hide; leather) — Num 4:8, 4:11, 4:12
+  - Lev 13:12 (we-kissetah, ba-ʿ̲or)
+- **be-mikseh + taḥash** (H4372 + H8476: covering; weatherboarding / animal with fur; species of antelope) — Num 4:8, 4:10, 4:11, 4:12, 4:25
+  - Exod 26:14 (mikseh, teḥashim); Exod 36:19 (mikseh, teḥashim); Exod 39:34 (mikseh, ha-teḥashim)
+- **beged + kele** (H899 + H3627: covering; clothing; treachery / prepared; apparatus) — Num 4:9
+  - Gen 24:53 (u-begadim, kele); Lev 11:32 (beged, keli); Lev 13:49 (ba-beged, keli); Lev 13:52 (ha-beged, keli); Lev 13:53 (ba-beged, keli); Lev 13:57 (ba-beged, keli); Lev 13:58 (we-ha-beged, keli); Lev 13:59 (beged, keli); Lev 15:6 (begaday-w, ha-keli); Lev 15:22 (begaday-w, keli)
+- **beged + shamna-h** (H899 + H8081: covering; clothing; treachery / grease; richness) — Num 4:9
+  - Exod 29:21 (begaday-w, u-mi-shshemen); Lev 8:2 (ha-begadim, shemen); Lev 8:30 (begaday-w, mi-shshemen); Lev 21:10 (ha-begadim, shemen)
+- **beged + yeshartu** (H899 + H8334: covering; clothing; treachery / attend; contribute) — Num 4:9
+  - Exod 35:19 (bigde, le-sharet); Exod 39:1 (bigde, le-sharet); Exod 39:41 (bigde, le-sharet)
+- **tekelet + yeshartu** (H8504 + H8334: mussel; violet / attend; contribute) — Num 4:9
+  - Exod 39:1 (ha-tekelet, le-sharet)
+- **menorat + nerotey-ha** (H4501 + H5216: chandelier / glisten; lamp; light) — Num 4:9
+  - Exod 35:14 (menorat, nerotey-ha); Exod 39:37 (ha-mmenorah, nerotey-ha); Exod 40:4 (ha-mmenorah, nerotey-ha); Lev 24:4 (ha-mmenorah, ha-nnerot)
+- **menorat + kele** (H4501 + H3627: chandelier / prepared; apparatus) — Num 4:9
+  - Exod 30:27 (ha-mmenorah, kelay-w); Exod 31:8 (ha-mmenorah, kelay-w); Exod 35:14 (menorat, keley-ha); Exod 39:37 (ha-mmenorah, keley-ha)
+- **menorat + shamna-h** (H4501 + H8081: chandelier / grease; richness) — Num 4:9
+  - Exod 35:14 (menorat, shemen); Exod 39:37 (ha-mmenorah, shemen)
+- **ha-mmaʾor + nerotey-ha** (H3974 + H5216: luminous; luminary; light / glisten; lamp; light) — Num 4:9
+  - Exod 27:20 (la-mmaʾor, ner); Exod 35:14 (ha-mmaʾor, nerotey-ha); Exod 39:37 (ha-mmaʾor, nerotey-ha); Lev 24:2 (la-mmaʾor, ner)
+- **ha-mmaʾor + kele** (H3974 + H3627: luminous; luminary; light / prepared; apparatus) — Num 4:9, 4:16
+  - Exod 35:14 (ha-mmaʾor, keley-ha); Exod 39:37 (ha-mmaʾor, keley-ha)
+- **nerotey-ha + malqaḥey-ha** (H5216 + H4457: glisten; lamp; light / tweezers) — Num 4:9
+  - Exod 37:23 (nerotey-ha, u-malqaḥey-ha)
+- **nerotey-ha + maḥtotey-ha** (H5216 + H4289: glisten; lamp; light / removal; pan) — Num 4:9
+  - Exod 37:23 (nerotey-ha, u-maḥtotey-ha)
+- **nerotey-ha + kele** (H5216 + H3627: glisten; lamp; light / prepared; apparatus) — Num 4:9
+  - Exod 35:14 (nerotey-ha, keley-ha); Exod 39:37 (nerotey-ha, keley-ha)
+- **nerotey-ha + shamna-h** (H5216 + H8081: glisten; lamp; light / grease; richness) — Num 4:9
+  - Exod 27:20 (ner, shemen); Exod 35:14 (nerotey-ha, shemen); Exod 39:37 (nerotey-ha, shemen); Lev 24:2 (ner, shemen)
+- **malqaḥey-ha + maḥtotey-ha** (H4457 + H4289: tweezers / removal; pan) — Num 4:9
+  - Exod 25:38 (u-malqaḥey-ha, u-maḥtotey-ha); Exod 37:23 (u-malqaḥey-ha, u-maḥtotey-ha)
+- **maḥtotey-ha + kele** (H4289 + H3627: removal; pan / prepared; apparatus) — Num 4:9
+  - Exod 27:3 (u-maḥtotay-w, kelay-w); Exod 38:3 (ha-mmaḥtot, kele)
+- **kele + shamna-h** (H3627 + H8081: prepared; apparatus / grease; richness) — Num 4:9
+  - Exod 35:14 (keley-ha, shemen); Exod 39:37 (keley-ha, shemen); Exod 40:9 (kelay-w, shemen)
+- **keley-ha + ʿ̲or** (H3627 + H5785: prepared; apparatus / skin; hide; leather) — Num 4:10, 4:12, 4:14
+  - Lev 11:32 (keli, ʿ̲or); Lev 13:49 (keli, ba-ʿ̲or); Lev 13:52 (keli, ha-ʿ̲or); Lev 13:53 (keli, ʿ̲or); Lev 13:57 (keli, ʿ̲or); Lev 13:58 (keli, ha-ʿ̲or); Lev 13:59 (keli, ʿ̲or)
+- **tekelet + ʿ̲or** (H8504 + H5785: mussel; violet / skin; hide; leather) — Num 4:11, 4:12
+  - Exod 35:23 (tekelet, we-ʿ̲orot)
+- **tekelet + taḥash** (H8504 + H8476: mussel; violet / animal with fur; species of antelope) — Num 4:11, 4:12
+  - Exod 35:23 (tekelet, teḥashim)
+- **kele + beged** (H3627 + H899: prepared; apparatus / covering; clothing; treachery) — Num 4:12
+  - Gen 24:53 (kele, u-begadim); Lev 11:32 (keli, beged); Lev 13:49 (keli, ba-beged); Lev 13:52 (keli, ha-beged); Lev 13:53 (keli, ba-beged); Lev 13:57 (keli, ba-beged); Lev 13:58 (keli, we-ha-beged); Lev 13:59 (keli, beged); Lev 15:6 (ha-keli, begaday-w); Lev 15:22 (keli, begaday-w)
+- **yeshartu + beged** (H8334 + H899: attend; contribute / covering; clothing; treachery) — Num 4:12
+  - Exod 35:19 (le-sharet, bigde); Exod 39:1 (le-sharet, bigde); Exod 39:41 (le-sharet, bigde)
+- **yeshartu + tekelet** (H8334 + H8504: attend; contribute / mussel; violet) — Num 4:12
+  - Exod 39:1 (le-sharet, ha-tekelet)
+- **beged + ʾargaman** (H899 + H713: covering; clothing; treachery / purple) — Num 4:13
+  - Exod 39:1 (bigde, we-ha-ʾargaman)
+- **kelay-w + ha-mmaḥtot** (H3627 + H4289: prepared; apparatus / removal; pan) — Num 4:14
+  - Exod 27:3 (kelay-w, u-maḥtotay-w); Exod 38:3 (kele, ha-mmaḥtot)
+- **kelay-w + ha-mmizlagot** (H3627 + H4207: prepared; apparatus / draw; fork) — Num 4:14
+  - Exod 27:3 (kelay-w, u-mizlegotay-w); Exod 38:3 (kele, ha-mmizlagot)
+- **kelay-w + ha-yyaʿ̲im** (H3627 + H3257: prepared; apparatus / shovel) — Num 4:14
+  - Exod 27:3 (kelay-w, we-yaʿ̲ay-w); Exod 38:3 (kele, ha-yyaʿ̲im)
+- **kelay-w + ha-mmizraqot** (H3627 + H4219: prepared; apparatus / bowl) — Num 4:14
+  - Exod 27:3 (kelay-w, u-mizreqotay-w); Exod 38:3 (kele, ha-mmizraqot)
+- **kelay-w + badday-w** (H3627 + H905: prepared; apparatus / separation; part; branch) — Num 4:14
+  - Exod 35:13 (kelay-w, badday-w); Exod 35:16 (kelay-w, badday-w); Exod 39:39 (kelay-w, badday-w)
+- **ha-mmaḥtot + ha-mmizlagot** (H4289 + H4207: removal; pan / draw; fork) — Num 4:14
+  - Exod 27:3 (u-maḥtotay-w, u-mizlegotay-w); Exod 38:3 (ha-mmaḥtot, ha-mmizlagot)
+- **ha-mmaḥtot + ha-yyaʿ̲im** (H4289 + H3257: removal; pan / shovel) — Num 4:14
+  - Exod 27:3 (u-maḥtotay-w, we-yaʿ̲ay-w); Exod 38:3 (ha-mmaḥtot, ha-yyaʿ̲im)
+- **ha-mmaḥtot + ha-mmizraqot** (H4289 + H4219: removal; pan / bowl) — Num 4:14
+  - Exod 27:3 (u-maḥtotay-w, u-mizreqotay-w); Exod 38:3 (ha-mmaḥtot, ha-mmizraqot)
+- **ha-mmizlagot + ha-yyaʿ̲im** (H4207 + H3257: draw; fork / shovel) — Num 4:14
+  - Exod 27:3 (u-mizlegotay-w, we-yaʿ̲ay-w); Exod 38:3 (ha-mmizlagot, ha-yyaʿ̲im)
+- **ha-mmizlagot + ha-mmizraqot** (H4207 + H4219: draw; fork / bowl) — Num 4:14
+  - Exod 27:3 (u-mizlegotay-w, u-mizreqotay-w); Exod 38:3 (ha-mmizlagot, ha-mmizraqot)
+- **ha-yyaʿ̲im + ha-mmizraqot** (H3257 + H4219: shovel / bowl) — Num 4:14
+  - Exod 27:3 (we-yaʿ̲ay-w, u-mizreqotay-w); Exod 38:3 (ha-yyaʿ̲im, ha-mmizraqot)
+- **we-killah + moʿ̲ed** (H3615 + H4150: end; cease; be finished / appointment; time; festival) — Num 4:15
+  - Exod 39:32 (wa-tekel, moʿ̲ed); Lev 16:20 (we-killah, moʿ̲ed)
+- **le-kassot + ha-mmaḥaneh** (H3680 + H4264: plump; fill up; cover / encampment; army) — Num 4:15
+  - Exod 16:13 (wa-tekas, ha-mmaḥaneh)
+- **le-kassot + moʿ̲ed** (H3680 + H4150: plump; fill up; cover / appointment; time; festival) — Num 4:15
+  - Exod 40:34 (wa-yekas, moʿ̲ed)
+- **kele + yiggeʿ̲u** (H3627 + H5060: prepared; apparatus / touch; lay the hand upon; reach) — Num 4:15
+  - Lev 15:12 (u-keli, yiggaʿ̲); Lev 15:22 (keli, ha-nnogeaʿ̲); Lev 15:23 (ha-keli, be-nagʿ̲-wo)
+- **kele + moʿ̲ed** (H3627 + H4150: prepared; apparatus / appointment; time; festival) — Num 4:15
+  - Exod 31:7 (kele, moʿ̲ed); Exod 38:30 (kele, moʿ̲ed); Exod 39:40 (kele, moʿ̲ed)
+- **ha-mmaḥaneh + moʿ̲ed** (H4264 + H4150: encampment; army / appointment; time; festival) — Num 4:15
+  - Exod 33:7 (la-mmaḥaneh, moʿ̲ed)
+- **ʾelʿ̲azar + u-minḥat** (H499 + H4503: Elazar / donation; tribute; sacrificial offering) — Num 4:16
+  - Lev 10:12 (ʾelʿ̲azar, ha-mminḥah)
+- **shemen + u-qeṭoret** (H8081 + H7004: grease; richness / fumigation) — Num 4:16
+  - Exod 25:6 (shemen, we-li-qeṭoret); Exod 31:11 (shemen, qeṭoret); Exod 35:8 (we-shemen, we-li-qeṭoret); Exod 35:15 (shemen, ha-qqeṭoret); Exod 35:28 (ha-shshamen, we-li-qeṭoret); Exod 37:29 (shemen, qeṭoret); Exod 39:38 (shemen, qeṭoret)
+- **shemen + ha-ssammim** (H8081 + H5561: grease; richness / smell; aroma) — Num 4:16
+  - Exod 25:6 (shemen, ha-ssammim); Exod 31:11 (shemen, ha-ssammim); Exod 35:8 (we-shemen, ha-ssammim); Exod 35:15 (shemen, ha-ssammim); Exod 35:28 (ha-shshamen, ha-ssammim); Exod 37:29 (shemen, ha-ssammim); Exod 39:38 (shemen, ha-ssammim)
+- **shemen + u-minḥat** (H8081 + H4503: grease; richness / donation; tribute; sacrificial offering) — Num 4:16
+  - Lev 2:1 (shemen, minḥah); Lev 2:4 (ba-shshemen, minḥah); Lev 2:5 (ba-shshemen, minḥah); Lev 2:6 (shamen, minḥah); Lev 2:7 (ba-shshemen, minḥat); Lev 2:15 (shemen, minḥah); Lev 6:15 (u-mi-shshamna-h, ha-mminḥah); Lev 6:21 (ba-shshemen, minḥat); Lev 7:10 (ba-shshemen, minḥah); Lev 9:4 (ba-shshamen, u-minḥah); Lev 14:10 (ba-shshemen, minḥah); Lev 14:21 (ba-shshemen, le-minḥah); Lev 23:13 (ba-shshemen, u-minḥat-wo)
+- **shemen + ha-tamid** (H8081 + H8548: grease; richness / stretch; continuance; extension) — Num 4:16
+  - Exod 27:20 (shemen, tamid); Lev 24:2 (shemen, tamid)
+- **shemen + ha-mmishkan** (H8081 + H4908: grease; richness / residence; hut; lair) — Num 4:16
+  - Exod 35:15 (shemen, ha-mmishkan); Exod 40:9 (shemen, ha-mmishkan); Lev 8:10 (shemen, ha-mmishkan)
+- **shemen + u-be-kelay-w** (H8081 + H3627: grease; richness / prepared; apparatus) — Num 4:16
+  - Exod 35:14 (shemen, keley-ha); Exod 39:37 (shemen, keley-ha); Exod 40:9 (shemen, kelay-w)
+- **ha-mmaʾor + u-qeṭoret** (H3974 + H7004: luminous; luminary; light / fumigation) — Num 4:16
+  - Exod 25:6 (la-mmaʾor, we-li-qeṭoret); Exod 35:8 (la-mmaʾor, we-li-qeṭoret); Exod 35:28 (le-maʾor, we-li-qeṭoret)
+- **ha-mmaʾor + ha-ssammim** (H3974 + H5561: luminous; luminary; light / smell; aroma) — Num 4:16
+  - Exod 25:6 (la-mmaʾor, ha-ssammim); Exod 35:8 (la-mmaʾor, ha-ssammim); Exod 35:28 (le-maʾor, ha-ssammim)
+- **ha-mmaʾor + ha-tamid** (H3974 + H8548: luminous; luminary; light / stretch; continuance; extension) — Num 4:16
+  - Exod 27:20 (la-mmaʾor, tamid); Lev 24:2 (la-mmaʾor, tamid)
+- **ha-mmaʾor + ha-mmishḥah** (H3974 + H4888: luminous; luminary; light / unction; gift) — Num 4:16
+  - Exod 25:6 (la-mmaʾor, ha-mmishḥah); Exod 35:8 (la-mmaʾor, ha-mmishḥah); Exod 35:28 (le-maʾor, ha-mmishḥah)
+- **u-qeṭoret + u-minḥat** (H7004 + H4503: fumigation / donation; tribute; sacrificial offering) — Num 4:16
+  - Exod 30:9 (qeṭoret, u-minḥah)
+- **u-qeṭoret + ha-tamid** (H7004 + H8548: fumigation / stretch; continuance; extension) — Num 4:16
+  - Exod 30:8 (qeṭoret, tamid)
+- **u-qeṭoret + ha-mmishḥah** (H7004 + H4888: fumigation / unction; gift) — Num 4:16
+  - Exod 25:6 (we-li-qeṭoret, ha-mmishḥah); Exod 31:11 (qeṭoret, ha-mmishḥah); Exod 35:8 (we-li-qeṭoret, ha-mmishḥah); Exod 35:15 (ha-qqeṭoret, ha-mmishḥah); Exod 35:28 (we-li-qeṭoret, ha-mmishḥah); Exod 37:29 (qeṭoret, ha-mmishḥah); Exod 39:38 (qeṭoret, ha-mmishḥah)
+- **u-qeṭoret + ha-mmishkan** (H7004 + H4908: fumigation / residence; hut; lair) — Num 4:16
+  - Exod 35:15 (ha-qqeṭoret, ha-mmishkan); Exod 40:5 (li-qeṭoret, la-mmishkan)
+- **u-qeṭoret + u-be-kelay-w** (H7004 + H3627: fumigation / prepared; apparatus) — Num 4:16
+  - Exod 30:27 (ha-qqeṭoret, kelay-w); Exod 31:8 (ha-qqeṭoret, kelay-w)
+- **ha-ssammim + ha-mmishḥah** (H5561 + H4888: smell; aroma / unction; gift) — Num 4:16
+  - Exod 25:6 (ha-ssammim, ha-mmishḥah); Exod 31:11 (ha-ssammim, ha-mmishḥah); Exod 35:8 (ha-ssammim, ha-mmishḥah); Exod 35:15 (ha-ssammim, ha-mmishḥah); Exod 35:28 (ha-ssammim, ha-mmishḥah); Exod 37:29 (ha-ssammim, ha-mmishḥah); Exod 39:38 (ha-ssammim, ha-mmishḥah)
+- **ha-ssammim + ha-mmishkan** (H5561 + H4908: smell; aroma / residence; hut; lair) — Num 4:16
+  - Exod 35:15 (ha-ssammim, ha-mmishkan)
+- **u-minḥat + ha-mmishkan** (H4503 + H4908: donation; tribute; sacrificial offering / residence; hut; lair) — Num 4:16
+  - Exod 40:29 (ha-mminḥah, mishkan)
+- **u-minḥat + u-be-kelay-w** (H4503 + H3627: donation; tribute; sacrificial offering / prepared; apparatus) — Num 4:16
+  - Gen 43:11 (minḥah, bi-kele-kem)
+- **ha-mmishḥah + ha-mmishkan** (H4888 + H4908: unction; gift / residence; hut; lair) — Num 4:16
+  - Exod 35:15 (ha-mmishḥah, ha-mmishkan); Exod 40:9 (ha-mmishḥah, ha-mmishkan); Lev 8:10 (ha-mmishḥah, ha-mmishkan)
+- **ha-mmishḥah + u-be-kelay-w** (H4888 + H3627: unction; gift / prepared; apparatus) — Num 4:16
+  - Exod 40:9 (ha-mmishḥah, kelay-w)
+- **ha-mmishkan + u-be-kelay-w** (H4908 + H3627: residence; hut; lair / prepared; apparatus) — Num 4:16, 4:26
+  - Exod 25:9 (ha-mmishkan, kelay-w); Exod 27:19 (ha-mmishkan, kele); Exod 39:33 (ha-mmishkan, kelay-w); Exod 39:40 (ha-mmishkan, kele); Exod 40:9 (ha-mmishkan, kelay-w)
+- **takritu + mishpeḥot** (H3772 + H4940: cut; destroy; consume / family; circle of relatives; class) — Num 4:18
+  - Lev 20:5 (we-hikratti, u-be-mishpaḥt-wo)
+- **shebeṭ + mishpeḥot** (H7626 + H4940: branch; scion; stick / family; circle of relatives; class) — Num 4:18
+  - Deut 29:18 (shebeṭ, mishpaḥah)
+- **shebeṭ + ha-lewiyyim** (H7626 + H3881: branch; scion; stick / Levite) — Num 4:18
+  - Deut 18:1 (shebeṭ, ha-lewiyyim)
+- **gershon + le-mishpeḥota-m** (H1648 + H4940: refugee; Gereshon; Gereshom / family; circle of relatives; class) — Num 4:22, 4:38
+  - Exod 6:17 (gershon, le-mishpeḥota-m)
+- **wa-maʿ̲la-h + tipqod** (H4605 + H6485: upper part; upward; above / visit; oversee; muster) — Num 4:23, 4:30
+  - Exod 30:14 (wa-maʿ̲la-h, ha-pequdim); Exod 38:26 (wa-maʿ̲la-h, ha-pequdim)
+- **ḥamishshim + tipqod** (H2572 + H6485: fifty / visit; oversee; muster) — Num 4:23, 4:30
+  - Exod 38:26 (wa-ḥamishshim, ha-pequdim)
+- **tipqod + la-ʿ̲abod** (H6485 + H5647: visit; oversee; muster / work; serve; till) — Num 4:23, 4:30, 4:37, 4:41
+  - Exod 20:5 (poqed, taʿ̲abde-m); Deut 5:9 (poqed, taʿ̲abde-m)
+- **tipqod + ʿ̲abodah** (H6485 + H5656: visit; oversee; muster / work) — Num 4:23, 4:30, 4:49
+  - Exod 38:21 (pequde, ʿ̲abodat)
+- **li-tseboʾ + moʿ̲ed** (H6633 + H4150: mass / appointment; time; festival) — Num 4:23
+  - Exod 38:8 (ha-tstsobʾot, moʿ̲ed)
+- **mishpeḥot + la-ʿ̲abod** (H4940 + H5647: family; circle of relatives; class / work; serve; till) — Num 4:24, 4:37, 4:41
+  - Deut 29:18 (mishpaḥah, la-ʿ̲abod)
+- **yeriʿ̲ot + ha-mmishkan** (H3407 + H4908: hanging; tremulous / residence; hut; lair) — Num 4:25
+  - Exod 26:1 (yeriʿ̲ot, ha-mmishkan); Exod 26:6 (ha-yeriʿ̲ot, ha-mmishkan); Exod 26:7 (yeriʿ̲ot, ha-mmishkan); Exod 26:12 (bi-yriʿ̲ot, ha-mmishkan); Exod 26:13 (yeriʿ̲ot, ha-mmishkan); Exod 36:8 (yeriʿ̲ot, ha-mmishkan); Exod 36:13 (ha-yeriʿ̲ot, ha-mmishkan); Exod 36:14 (yeriʿ̲ot, ha-mmishkan)
+- **ha-mmishkan + moʿ̲ed** (H4908 + H4150: residence; hut; lair / appointment; time; festival) — Num 4:25
+  - Exod 39:32 (mishkan, moʿ̲ed); Exod 39:40 (ha-mmishkan, moʿ̲ed); Exod 40:2 (mishkan, moʿ̲ed); Exod 40:6 (mishkan, moʿ̲ed); Exod 40:22 (ha-mmishkan, moʿ̲ed); Exod 40:24 (ha-mmishkan, moʿ̲ed); Exod 40:29 (mishkan, moʿ̲ed); Exod 40:34 (ha-mmishkan, moʿ̲ed); Exod 40:35 (ha-mmishkan, moʿ̲ed); Lev 17:4 (mishkan, moʿ̲ed)
+- **ha-mmishkan + mikse-hu** (H4908 + H4372: residence; hut; lair / covering; weatherboarding) — Num 4:25
+  - Exod 35:11 (ha-mmishkan, mikse-hu); Exod 40:19 (ha-mmishkan, mikseh)
+- **ha-mmishkan + mi-le-maʿ̲la-h** (H4908 + H4605: residence; hut; lair / upper part; upward; above) — Num 4:25
+  - Exod 40:19 (ha-mmishkan, mi-le-maʿ̲la-h)
+- **ha-mmishkan + masak** (H4908 + H4539: residence; hut; lair / cover; veil) — Num 4:25
+  - Exod 35:15 (ha-mmishkan, masak); Exod 39:40 (ha-mmishkan, ha-mmasak); Exod 40:5 (la-mmishkan, masak); Exod 40:21 (ha-mmishkan, ha-mmasak); Exod 40:28 (la-mmishkan, masak); Exod 40:33 (la-mmishkan, masak)
+- **ha-mmishkan + petaḥ** (H4908 + H6607: residence; hut; lair / opening; door; entrance way) — Num 4:25
+  - Exod 35:15 (ha-mmishkan, ha-petaḥ); Exod 40:5 (la-mmishkan, ha-petaḥ); Exod 40:6 (mishkan, petaḥ); Exod 40:28 (la-mmishkan, ha-petaḥ); Exod 40:29 (mishkan, petaḥ); Lev 17:4 (mishkan, petaḥ)
+- **moʿ̲ed + masak** (H4150 + H4539: appointment; time; festival / cover; veil) — Num 4:25
+  - Exod 39:40 (moʿ̲ed, ha-mmasak)
+- **mikse-hu + mi-le-maʿ̲la-h** (H4372 + H4605: covering; weatherboarding / upper part; upward; above) — Num 4:25
+  - Exod 26:14 (mikseh, mi-le-maʿ̲la-h); Exod 36:19 (mikseh, mi-le-maʿ̲la-h); Exod 40:19 (mikseh, mi-le-maʿ̲la-h)
+- **mikse-hu + masak** (H4372 + H4539: covering; weatherboarding / cover; veil) — Num 4:25
+  - Exod 39:34 (mikseh, ha-mmasak)
+- **ha-taḥash + masak** (H8476 + H4539: animal with fur; species of antelope / cover; veil) — Num 4:25
+  - Exod 39:34 (ha-teḥashim, ha-mmasak)
+- **mi-le-maʿ̲la-h + petaḥ** (H4605 + H6607: upper part; upward; above / opening; door; entrance way) — Num 4:25
+  - Gen 6:16 (mi-le-maʿ̲la-h, u-petaḥ)
+- **qalʿ̲e + masak** (H7050 + H4539: sling; screen; valve / cover; veil) — Num 4:26
+  - Exod 35:17 (qalʿ̲e, masak); Exod 38:18 (qalʿ̲e, u-masak); Exod 39:40 (qalʿ̲e, ha-mmasak)
+- **qalʿ̲e + ha-mmishkan** (H7050 + H4908: sling; screen; valve / residence; hut; lair) — Num 4:26
+  - Exod 27:9 (qelaʿ̲im, ha-mmishkan); Exod 39:40 (qalʿ̲e, ha-mmishkan)
+- **qalʿ̲e + sabib** (H7050 + H5439: sling; screen; valve / circle; neighbour; environs) — Num 4:26
+  - Exod 38:16 (qalʿ̲e, sabib)
+- **qalʿ̲e + metre-hem** (H7050 + H4340: sling; screen; valve / cord; string) — Num 4:26
+  - Exod 39:40 (qalʿ̲e, metaray-w)
+- **qalʿ̲e + kele** (H7050 + H3627: sling; screen; valve / prepared; apparatus) — Num 4:26
+  - Exod 39:40 (qalʿ̲e, kele)
+- **qalʿ̲e + ʿ̲abodata-m** (H7050 + H5656: sling; screen; valve / work) — Num 4:26
+  - Exod 39:40 (qalʿ̲e, ʿ̲abodat)
+- **he-ḥatser + masak** (H2691 + H4539: yard; hamlet / cover; veil) — Num 4:26
+  - Exod 27:16 (he-ḥatser, masak); Exod 35:17 (he-ḥatser, masak); Exod 38:18 (he-ḥatser, u-masak); Exod 39:40 (he-ḥatser, ha-mmasak); Exod 40:8 (he-ḥatser, masak); Exod 40:33 (he-ḥatser, masak)
+- **he-ḥatser + ha-mmishkan** (H2691 + H4908: yard; hamlet / residence; hut; lair) — Num 4:26
+  - Exod 27:9 (ḥatsar, ha-mmishkan); Exod 27:19 (he-ḥatser, ha-mmishkan); Exod 35:18 (he-ḥatser, ha-mmishkan); Exod 38:20 (we-le-ḥatser, la-mmishkan); Exod 38:31 (he-ḥatser, ha-mmishkan); Exod 39:40 (he-ḥatser, ha-mmishkan); Exod 40:33 (he-ḥatser, la-mmishkan)
+- **he-ḥatser + metre-hem** (H2691 + H4340: yard; hamlet / cord; string) — Num 4:26, 4:32
+  - Exod 35:18 (he-ḥatser, metre-hem); Exod 39:40 (he-ḥatser, metaray-w)
+- **he-ḥatser + kele** (H2691 + H3627: yard; hamlet / prepared; apparatus) — Num 4:26, 4:32
+  - Exod 27:19 (he-ḥatser, kele); Exod 39:40 (he-ḥatser, kele)
+- **he-ḥatser + ʿ̲abodata-m** (H2691 + H5656: yard; hamlet / work) — Num 4:26, 4:32
+  - Exod 27:19 (he-ḥatser, ʿ̲abodat-wo); Exod 39:40 (he-ḥatser, ʿ̲abodat)
+- **masak + ha-mmishkan** (H4539 + H4908: cover; veil / residence; hut; lair) — Num 4:26
+  - Exod 35:15 (masak, ha-mmishkan); Exod 39:40 (ha-mmasak, ha-mmishkan); Exod 40:5 (masak, la-mmishkan); Exod 40:21 (ha-mmasak, ha-mmishkan); Exod 40:28 (masak, la-mmishkan); Exod 40:33 (masak, la-mmishkan)
+- **masak + sabib** (H4539 + H5439: cover; veil / circle; neighbour; environs) — Num 4:26
+  - Exod 40:8 (masak, sabib); Exod 40:33 (masak, sabib)
+- **masak + metre-hem** (H4539 + H4340: cover; veil / cord; string) — Num 4:26
+  - Exod 39:40 (ha-mmasak, metaray-w)
+- **masak + kele** (H4539 + H3627: cover; veil / prepared; apparatus) — Num 4:26
+  - Exod 39:40 (ha-mmasak, kele)
+- **masak + ʿ̲abodata-m** (H4539 + H5656: cover; veil / work) — Num 4:26
+  - Exod 39:40 (ha-mmasak, ʿ̲abodat)
+- **petaḥ + ha-mmishkan** (H6607 + H4908: opening; door; entrance way / residence; hut; lair) — Num 4:26
+  - Exod 35:15 (ha-petaḥ, ha-mmishkan); Exod 40:5 (ha-petaḥ, la-mmishkan); Exod 40:6 (petaḥ, mishkan); Exod 40:28 (ha-petaḥ, la-mmishkan); Exod 40:29 (petaḥ, mishkan); Lev 17:4 (petaḥ, mishkan)
+- **petaḥ + sabib** (H6607 + H5439: opening; door; entrance way / circle; neighbour; environs) — Num 4:26
+  - Lev 1:5 (petaḥ, sabib); Lev 3:2 (petaḥ, sabib)
+- **petaḥ + kele** (H6607 + H3627: opening; door; entrance way / prepared; apparatus) — Num 4:26
+  - Exod 38:30 (petaḥ, kele)
+- **ha-mmishkan + sabib** (H4908 + H5439: residence; hut; lair / circle; neighbour; environs) — Num 4:26
+  - Exod 38:20 (la-mmishkan, sabib); Exod 38:31 (ha-mmishkan, sabib); Exod 40:33 (la-mmishkan, sabib)
+- **ha-mmishkan + metre-hem** (H4908 + H4340: residence; hut; lair / cord; string) — Num 4:26
+  - Exod 35:18 (ha-mmishkan, metre-hem); Exod 39:40 (ha-mmishkan, metaray-w)
+- **ha-mmishkan + ʿ̲abodata-m** (H4908 + H5656: residence; hut; lair / work) — Num 4:26
+  - Exod 27:19 (ha-mmishkan, ʿ̲abodat-wo); Exod 38:21 (ha-mmishkan, ʿ̲abodat); Exod 39:32 (mishkan, ʿ̲abodat); Exod 39:40 (ha-mmishkan, ʿ̲abodat)
+- **metre-hem + kele** (H4340 + H3627: cord; string / prepared; apparatus) — Num 4:26, 4:32
+  - Exod 39:40 (metaray-w, kele)
+- **metre-hem + ʿ̲abodata-m** (H4340 + H5656: cord; string / work) — Num 4:26, 4:32
+  - Exod 39:40 (metaray-w, ʿ̲abodat)
+- **ʿ̲abodat + u-peqadtem** (H5656 + H6485: work / visit; oversee; muster) — Num 4:27, 4:32
+  - Exod 38:21 (ʿ̲abodat, pequde)
+- **ʿ̲abodat + ʾitamar** (H5656 + H385: work / Ithamar) — Num 4:28, 4:33
+  - Exod 38:21 (ʿ̲abodat, ʾitamar)
+- **moʿ̲ed + u-mishmarta-m** (H4150 + H4931: appointment; time; festival / watch; custody; sentry) — Num 4:28
+  - Lev 8:35 (moʿ̲ed, mishmeret)
+- **merari + le-mishpeḥota-m** (H4847 + H4940: bitter; Merari / family; circle of relatives; class) — Num 4:29
+  - Exod 6:19 (merari, mishpeḥot)
+- **mishmeret + moʿ̲ed** (H4931 + H4150: watch; custody; sentry / appointment; time; festival) — Num 4:31
+  - Lev 8:35 (mishmeret, moʿ̲ed)
+- **ʿ̲abodata-m + ha-mmishkan** (H5656 + H4908: work / residence; hut; lair) — Num 4:31
+  - Exod 27:19 (ʿ̲abodat-wo, ha-mmishkan); Exod 38:21 (ʿ̲abodat, ha-mmishkan); Exod 39:32 (ʿ̲abodat, mishkan); Exod 39:40 (ʿ̲abodat, ha-mmishkan)
+- **ʿ̲abodata-m + we-ʿ̲ammuday-w** (H5656 + H5982: work / column; standing; stand) — Num 4:31
+  - Exod 39:40 (ʿ̲abodat, ʿ̲ammudey-ha)
+- **ʿ̲abodata-m + wa-ʾadanay-w** (H5656 + H134: work / strength; basis) — Num 4:31
+  - Exod 39:40 (ʿ̲abodat, ʾadaney-ha)
+- **moʿ̲ed + ha-mmishkan** (H4150 + H4908: appointment; time; festival / residence; hut; lair) — Num 4:31
+  - Exod 39:32 (moʿ̲ed, mishkan); Exod 39:40 (moʿ̲ed, ha-mmishkan); Exod 40:2 (moʿ̲ed, mishkan); Exod 40:6 (moʿ̲ed, mishkan); Exod 40:22 (moʿ̲ed, ha-mmishkan); Exod 40:24 (moʿ̲ed, ha-mmishkan); Exod 40:29 (moʿ̲ed, mishkan); Exod 40:34 (moʿ̲ed, ha-mmishkan); Exod 40:35 (moʿ̲ed, ha-mmishkan); Lev 17:4 (moʿ̲ed, mishkan)
+- **moʿ̲ed + we-ʿ̲ammuday-w** (H4150 + H5982: appointment; time; festival / column; standing; stand) — Num 4:31
+  - Exod 39:40 (moʿ̲ed, ʿ̲ammudey-ha)
+- **moʿ̲ed + wa-ʾadanay-w** (H4150 + H134: appointment; time; festival / strength; basis) — Num 4:31
+  - Exod 38:30 (moʿ̲ed, ʾadney); Exod 39:40 (moʿ̲ed, ʾadaney-ha)
+- **qarshey + u-beriḥay-w** (H7175 + H1280: split; slab; deck / bolt) — Num 4:31
+  - Exod 26:26 (le-qarshe, beriḥim); Exod 26:27 (le-qarshe, beriḥim); Exod 26:28 (ha-qqerashim, we-ha-beriaḥ); Exod 26:29 (ha-qqerashim, la-beriḥim); Exod 35:11 (qerashay-w, beriḥa-w); Exod 36:31 (le-qarshe, beriḥe); Exod 36:32 (le-qarshe, beriḥim); Exod 36:33 (ha-qqerashim, ha-beriaḥ); Exod 36:34 (ha-qqerashim, la-beriḥim); Exod 39:33 (qerashay-w, bryḥ-w); Exod 40:18 (qerashay-w, beriḥay-w)
+- **qarshey + we-ʿ̲ammuday-w** (H7175 + H5982: split; slab; deck / column; standing; stand) — Num 4:31
+  - Exod 35:11 (qerashay-w, ʿ̲ammuday-w); Exod 39:33 (qerashay-w, we-ʿ̲ammuday-w); Exod 40:18 (qerashay-w, ʿ̲ammuday-w)
+- **qarshey + wa-ʾadanay-w** (H7175 + H134: split; slab; deck / strength; basis) — Num 4:31
+  - Exod 26:19 (ha-qqaresh, ʾadne); Exod 26:21 (ha-qqeresh, ʾadne-hem); Exod 26:25 (qerashim, we-ʾadne-hem); Exod 35:11 (qerashay-w, ʾadanay-w); Exod 36:24 (ha-qqerashim, ʾadne); Exod 36:26 (ha-qqeresh, ʾadne-hem); Exod 36:30 (qerashim, we-ʾadne-hem); Exod 39:33 (qerashay-w, wa-ʾadanay-w); Exod 40:18 (qerashay-w, ʾadanay-w)
+- **ha-mmishkan + u-beriḥay-w** (H4908 + H1280: residence; hut; lair / bolt) — Num 4:31
+  - Exod 26:26 (ha-mmishkan, beriḥim); Exod 26:27 (ha-mmishkan, beriḥim); Exod 35:11 (ha-mmishkan, beriḥa-w); Exod 36:31 (ha-mmishkan, beriḥe); Exod 36:32 (ha-mmishkan, beriḥim); Exod 39:33 (ha-mmishkan, bryḥ-w); Exod 40:18 (ha-mmishkan, beriḥay-w)
+- **ha-mmishkan + we-ʿ̲ammuday-w** (H4908 + H5982: residence; hut; lair / column; standing; stand) — Num 4:31
+  - Exod 35:11 (ha-mmishkan, ʿ̲ammuday-w); Exod 39:33 (ha-mmishkan, we-ʿ̲ammuday-w); Exod 39:40 (ha-mmishkan, ʿ̲ammudey-ha); Exod 40:18 (ha-mmishkan, ʿ̲ammuday-w)
+- **ha-mmishkan + wa-ʾadanay-w** (H4908 + H134: residence; hut; lair / strength; basis) — Num 4:31
+  - Exod 35:11 (ha-mmishkan, ʾadanay-w); Exod 38:31 (ha-mmishkan, ʾadne); Exod 39:33 (ha-mmishkan, wa-ʾadanay-w); Exod 39:40 (ha-mmishkan, ʾadaney-ha); Exod 40:18 (ha-mmishkan, ʾadanay-w)
+- **u-beriḥay-w + wa-ʾadanay-w** (H1280 + H134: bolt / strength; basis) — Num 4:31
+  - Exod 35:11 (beriḥa-w, ʾadanay-w); Exod 39:33 (bryḥ-w, wa-ʾadanay-w); Exod 40:18 (beriḥay-w, ʾadanay-w)
+- **we-ʿ̲ammudey + sabib** (H5982 + H5439: column; standing; stand / circle; neighbour; environs) — Num 4:32
+  - Exod 27:17 (ʿ̲ammude, sabib)
+- **we-ʿ̲ammudey + wi-ytedota-m** (H5982 + H3489: column; standing; stand / pin; peg) — Num 4:32
+  - Exod 39:40 (ʿ̲ammudey-ha, wi-ytedotey-ha)
+- **we-ʿ̲ammudey + u-metre-hem** (H5982 + H4340: column; standing; stand / cord; string) — Num 4:32
+  - Exod 39:40 (ʿ̲ammudey-ha, metaray-w)
+- **we-ʿ̲ammudey + kele-hem** (H5982 + H3627: column; standing; stand / prepared; apparatus) — Num 4:32
+  - Exod 39:33 (we-ʿ̲ammuday-w, kelay-w); Exod 39:40 (ʿ̲ammudey-ha, kele)
+- **we-ʿ̲ammudey + ʿ̲abodata-m** (H5982 + H5656: column; standing; stand / work) — Num 4:32
+  - Exod 39:40 (ʿ̲ammudey-ha, ʿ̲abodat)
+- **he-ḥatser + we-ʾadne-hem** (H2691 + H134: yard; hamlet / strength; basis) — Num 4:32
+  - Exod 27:12 (he-ḥatser, we-ʾadne-hem); Exod 27:16 (he-ḥatser, we-ʾadne-hem); Exod 27:17 (he-ḥatser, we-ʾadne-hem); Exod 27:18 (he-ḥatser, we-ʾadne-hem); Exod 35:17 (he-ḥatser, ʾadaney-ha); Exod 38:15 (he-ḥatser, we-ʾadne-hem); Exod 38:17 (he-ḥatser, we-ha-ʾadanim); Exod 38:31 (he-ḥatser, ʾadne); Exod 39:40 (he-ḥatser, ʾadaney-ha)
+- **he-ḥatser + wi-ytedota-m** (H2691 + H3489: yard; hamlet / pin; peg) — Num 4:32
+  - Exod 27:19 (he-ḥatser, yetedotay-w); Exod 35:18 (he-ḥatser, yitdot); Exod 38:20 (we-le-ḥatser, ha-yetedot); Exod 38:31 (he-ḥatser, yitdot); Exod 39:40 (he-ḥatser, wi-ytedotey-ha)
+- **sabib + we-ʾadne-hem** (H5439 + H134: circle; neighbour; environs / strength; basis) — Num 4:32
+  - Exod 27:17 (sabib, we-ʾadne-hem); Exod 38:31 (sabib, ʾadne)
+- **sabib + wi-ytedota-m** (H5439 + H3489: circle; neighbour; environs / pin; peg) — Num 4:32
+  - Exod 38:20 (sabib, ha-yetedot); Exod 38:31 (sabib, yitdot)
+- **we-ʾadne-hem + wi-ytedota-m** (H134 + H3489: strength; basis / pin; peg) — Num 4:32
+  - Exod 38:31 (ʾadne, yitdot); Exod 39:40 (ʾadaney-ha, wi-ytedotey-ha)
+- **we-ʾadne-hem + u-metre-hem** (H134 + H4340: strength; basis / cord; string) — Num 4:32
+  - Exod 39:40 (ʾadaney-ha, metaray-w)
+- **we-ʾadne-hem + kele-hem** (H134 + H3627: strength; basis / prepared; apparatus) — Num 4:32
+  - Exod 38:30 (ʾadney, kele); Exod 39:33 (wa-ʾadanay-w, kelay-w); Exod 39:40 (ʾadaney-ha, kele)
+- **we-ʾadne-hem + ʿ̲abodata-m** (H134 + H5656: strength; basis / work) — Num 4:32
+  - Exod 39:40 (ʾadaney-ha, ʿ̲abodat)
+- **wi-ytedota-m + u-metre-hem** (H3489 + H4340: pin; peg / cord; string) — Num 4:32
+  - Exod 35:18 (yitdot, metre-hem); Exod 39:40 (wi-ytedotey-ha, metaray-w)
+- **wi-ytedota-m + kele-hem** (H3489 + H3627: pin; peg / prepared; apparatus) — Num 4:32
+  - Exod 27:19 (yetedotay-w, kele); Exod 39:40 (wi-ytedotey-ha, kele)
+- **wi-ytedota-m + ʿ̲abodata-m** (H3489 + H5656: pin; peg / work) — Num 4:32
+  - Exod 27:19 (yetedotay-w, ʿ̲abodat-wo); Exod 39:40 (wi-ytedotey-ha, ʿ̲abodat)
+- **mishpeḥot + merari** (H4940 + H4847: family; circle of relatives; class / bitter; Merari) — Num 4:33, 4:42, 4:45
+  - Exod 6:19 (mishpeḥot, merari)
+- **wa-yyipqod + ha-ʿ̲edah** (H6485 + H5712: visit; oversee; muster / fixture; assemblage; concourse) — Num 4:34
+  - Exod 38:25 (pequde, ha-ʿ̲edah)
+- **pequde-hem + wa-ḥamishshim** (H6485 + H2572: visit; oversee; muster / fifty) — Num 4:36
+  - Exod 38:26 (ha-pequdim, wa-ḥamishshim)
+- **le-mishpeḥota-m + wa-ḥamishshim** (H4940 + H2572: family; circle of relatives; class / fifty) — Num 4:36
+  - Lev 25:10 (mishpaḥt-wo, ha-ḥamishshim)
+- **pequde-hem + we-shesh** (H6485 + H8337: visit; oversee; muster / six; sixth) — Num 4:40
+  - Exod 38:26 (ha-pequdim, le-shesh)
+- **mishpeḥot + gershon** (H4940 + H1648: family; circle of relatives; class / refugee; Gereshon; Gereshom) — Num 4:41
+  - Exod 6:17 (le-mishpeḥota-m, gershon)
+- **ha-pequdim + ha-lewiyyim** (H6485 + H3881: visit; oversee; muster / Levite) — Num 4:46
+  - Exod 38:21 (pequde, ha-lewiyyim)
+- **pequde-hem + wa-ḥamesh** (H6485 + H2568: visit; oversee; muster / five) — Num 4:48
+  - Exod 38:25 (pequde, wa-ḥamishshah); Exod 38:26 (ha-pequdim, wa-ḥamesh)
+- **shemonat + wa-ḥamesh** (H8083 + H2568: eight; eighth / five) — Num 4:48
+  - Gen 5:10 (u-shemoneh, ḥamesh); Gen 5:17 (u-shemoneh, ḥamesh)
+
 ## Rare words (22)
 
 - **ha-mmenaqqiyyot** (H4518, sacrificial basin) — Num 4:7; 4 verses in the Hebrew Bible

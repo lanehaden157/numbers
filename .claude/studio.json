@@ -1,0 +1,13 @@
+{
+ ".claude/agents/builder.md": "7bd96062529e843538caf4f23c695e90795d9138",
+ ".claude/agents/fact-checker.md": "6b0d617af0d4a7ad9a7d0f87f670f02cf9d41123",
+ ".claude/skills/build/SKILL.md": "56078640f2d82479c4ba697c45bf6542cf92f3ba",
+ ".claude/skills/finish/SKILL.md": "08fa7fbf517da1fc3d7f10d8e4796465d5798ba0",
+ ".claude/skills/unit/SKILL.md": "2a6c354d0cca5032981c9c56db449906c93cb22d",
+ "tools/kit.py": "ba23af4e8a8191959ddb43752a26b1c382eaab1e",
+ "tools/lessons.py": "63a79db38313d9f156f0b87d5f7f3a74e109f178",
+ "tools/lint_study.py": "6b5c282b669c597515a84b66a9b4073ac9a69ae9",
+ "tools/make_listen.py": "9070865af2e8c08d72717b53d6334c92523080d5",
+ "tools/split_sources.py": "509afc6e94f43adfe2065193fb40aa4b899cd4b2",
+ "tools/unit_status.py": "21e08d8eb7aafaf163cffa0573ae10535219d2e1"
+}

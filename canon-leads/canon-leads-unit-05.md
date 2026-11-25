@@ -40,6 +40,183 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
   - Gen 1:12 — mazriaʿ̲ zeraʿ̲
   - Gen 1:29 — zoreaʿ̲ zeraʿ̲ … zoreaʿ̲ zaraʿ̲
 
+### Rare words together in a Torah verse, any order (86)
+
+Two rare words from one verse here that share a Torah verse, not necessarily adjacent or in this order (same frequency caps as the phrases above).
+
+- **ha-mmaḥaneh + tsaruaʿ̲** (H4264 + H6879: encampment; army / scourge; be stricken with leprosy) — Num 5:2
+  - Lev 14:3 (la-mmaḥaneh, ha-tstsaruaʿ̲)
+- **ha-mmaḥaneh + ṭameʾ** (H4264 + H2931: encampment; army / foul) — Num 5:2
+  - Lev 13:46 (la-mmaḥaneh, ṭameʾ)
+- **tsaruaʿ̲ + zab** (H6879 + H2100: scourge; be stricken with leprosy / flow; have; flux) — Num 5:2
+  - Lev 22:4 (tsaruaʿ̲, zab)
+- **tsaruaʿ̲ + ṭameʾ** (H6879 + H2931: scourge; be stricken with leprosy / foul) — Num 5:2
+  - Lev 13:44 (tsaruaʿ̲, ṭameʾ); Lev 13:45 (we-ha-tstsaruaʿ̲, we-ṭameʾ); Lev 22:4 (tsaruaʿ̲, ṭemeʾ)
+- **zab + ṭameʾ** (H2100 + H2931: flow; have; flux / foul) — Num 5:2
+  - Lev 15:2 (zab, ṭameʾ); Lev 15:25 (yazub, ṭemeʾah); Lev 15:33 (we-ha-zzab, ṭemeʾah); Lev 22:4 (zab, ṭemeʾ)
+- **mi-zzakar + neqebah** (H2145 + H5347: remembered; male / female) — Num 5:3
+  - Gen 1:27 (zakar, u-neqebah); Gen 5:2 (zakar, u-neqebah); Gen 6:19 (zakar, u-neqebah); Gen 7:3 (zakar, u-neqebah); Gen 7:9 (zakar, u-neqebah); Gen 7:16 (zakar, u-neqebah); Lev 3:1 (zakar, neqebah); Lev 3:6 (zakar, neqebah); Lev 12:7 (la-zzakar, la-nneqebah); Lev 15:33 (la-zzakar, we-la-nneqebah); Lev 27:5 (ha-zzakar, we-la-nneqebah); Lev 27:6 (ha-zzakar, we-la-nneqebah); Lev 27:7 (zakar, we-la-nneqebah); Deut 4:16 (zakar, neqebah)
+- **mi-zzakar + yeṭammeʾu** (H2145 + H2930: remembered; male / be foul) — Num 5:3
+  - Lev 12:2 (zakar, we-ṭamʾah)
+- **neqebah + yeṭammeʾu** (H5347 + H2930: female / be foul) — Num 5:3
+  - Lev 12:5 (neqebah, we-ṭamʾah)
+- **mi-ḥuts + yeṭammeʾu** (H2351 + H2930: separate by a wall; outside; outdoors / be foul) — Num 5:3
+  - Lev 13:46 (mi-ḥuts, yiṭmaʾ)
+- **la-mmaḥaneh + yeṭammeʾu** (H4264 + H2930: encampment; army / be foul) — Num 5:3
+  - Lev 13:46 (la-mmaḥaneh, yiṭmaʾ)
+- **ʾo + ḥaṭṭoʾt** (H176 + H2403: desire; or; if / offence; penalty; occasion) — Num 5:6
+  - Lev 4:23 (ʾo, ḥaṭṭaʾt-wo); Lev 4:28 (ʾo, ḥaṭṭaʾt-wo); Lev 5:6 (ʾo, ḥaṭṭaʾt-wo); Lev 5:7 (ʾo, le-ḥaṭṭaʾt); Lev 5:11 (ʾo, le-ḥaṭṭaʾt); Lev 12:6 (ʾo, le-ḥaṭṭaʾt); Lev 12:8 (ʾo, le-ḥaṭṭaʾt); Lev 14:22 (ʾo, ḥaṭṭaʾt); Deut 19:15 (ʾo, ḥaṭṭaʾt)
+- **ʾo + li-meʿ̲ol** (H176 + H4603: desire; or; if / cover up; act covertly; treacherously) — Num 5:6
+  - Lev 6:2 (ʾo, u-maʿ̲alah)
+- **ʾo + maʿ̲al** (H176 + H4604: desire; or; if / treachery) — Num 5:6
+  - Lev 6:2 (ʾo, maʿ̲al)
+- **ʾo + we-ʾashmah** (H176 + H816: desire; or; if / be guilty; be punished; perish) — Num 5:6
+  - Lev 5:2 (ʾo, we-ʾashem); Lev 5:3 (ʾo, we-ʾashem); Lev 5:4 (ʾo, we-ʾashem); Lev 6:4 (ʾo, we-ʾashem)
+- **we-hitwaddu + ḥaṭṭaʾta-m** (H3034 + H2403: throw; revere; worship / offence; penalty; occasion) — Num 5:7
+  - Lev 16:21 (we-hitwaddah, ḥaṭṭoʾta-m)
+- **we-hitwaddu + ʾasham** (H3034 + H816: throw; revere; worship / be guilty; be punished; perish) — Num 5:7
+  - Lev 5:5 (we-hitwaddah, yeʾsham)
+- **ḥaṭṭaʾta-m + ʾasham-wo** (H2403 + H817: offence; penalty; occasion / guilt; fault; sin-offering) — Num 5:7
+  - Lev 5:6 (ḥaṭṭaʾt-wo, ʾasham-wo); Lev 5:7 (le-ḥaṭṭaʾt, ʾasham-wo); Lev 6:17 (ka-ḥaṭṭaʾt, we-ka-ʾasham); Lev 7:7 (ka-ḥaṭṭaʾt, ka-ʾasham); Lev 7:37 (we-la-ḥaṭṭaʾt, we-la-ʾasham); Lev 14:13 (ha-ḥaṭṭaʾt, ha-ʾasham); Lev 19:22 (ḥaṭṭaʾt-wo, ha-ʾasham)
+- **ḥaṭṭaʾta-m + yosep** (H2403 + H3254: offence; penalty; occasion / add; augment; continue) — Num 5:7
+  - Lev 26:18 (ḥaṭṭoʾte-kem, we-yasaptiy); Lev 26:21 (ke-ḥaṭṭoʾte-kem, we-yasapti)
+- **ʾasham-wo + wa-ḥamishit-wo** (H817 + H2549: guilt; fault; sin-offering / fifth) — Num 5:7
+  - Lev 5:16 (ha-ʾasham, ḥamishit-wo)
+- **ʾasham-wo + yosep** (H817 + H3254: guilt; fault; sin-offering / add; augment; continue) — Num 5:7
+  - Lev 5:16 (ha-ʾasham, yosep)
+- **ʾasham-wo + ʾasham** (H817 + H816: guilt; fault; sin-offering / be guilty; be punished; perish) — Num 5:7
+  - Lev 5:19 (ʾasham, ʾashom)
+- **ha-ʾasham + ʾel** (H817 + H352: guilt; fault; sin-offering / strength; strong; chief) — Num 5:8
+  - Lev 5:15 (ʾasham-wo, ʾayil); Lev 5:16 (ha-ʾasham, be-ʾel); Lev 5:18 (le-ʾasham, ʾayil); Lev 6:6 (ʾasham-wo, ʾayil); Lev 19:21 (ʾasham-wo, ʾel); Lev 19:22 (ha-ʾasham, be-ʾel)
+- **ha-ʾasham + yekapper** (H817 + H3722: guilt; fault; sin-offering / cover; expiate; condone) — Num 5:8
+  - Lev 5:6 (ʾasham-wo, we-kipper); Lev 5:16 (ha-ʾasham, yekapper); Lev 5:18 (le-ʾasham, we-kipper); Lev 7:7 (ka-ʾasham, yekapper); Lev 14:21 (ʾasham, le-kapper); Lev 19:22 (ha-ʾasham, we-kipper)
+- **ʾel + yekapper** (H352 + H3722: strength; strong; chief / cover; expiate; condone) — Num 5:8
+  - Lev 5:16 (be-ʾel, yekapper); Lev 5:18 (ʾayil, we-kipper); Lev 19:22 (be-ʾel, we-kipper)
+- **ha-kippurim + yekapper** (H3725 + H3722: expiation / cover; expiate; condone) — Num 5:8
+  - Exod 29:36 (ha-kippurim, be-kapper-ka); Exod 30:10 (ha-kippurim, we-kipper); Lev 23:28 (kippurim, le-kapper)
+- **terumah + yaqribu** (H8641 + H7126: present; up; sacrifice / approach; bring near) — Num 5:9
+  - Lev 7:14 (terumah, we-hiqrib)
+- **we-shakab + shikbat** (H7901 + H7902: lie down / lying) — Num 5:13
+  - Lev 15:18 (yishkab, shikbat); Lev 19:20 (yishkab, shikbat)
+- **we-shakab + zeraʿ̲** (H7901 + H2233: lie down / seed; fruit; plant) — Num 5:13
+  - Gen 19:32 (we-nishkebah, zaraʿ̲); Gen 19:34 (shakabti, zaraʿ̲); Gen 28:13 (shokeb, u-le-zarʿ̲e-ka); Lev 15:18 (yishkab, zaraʿ̲); Lev 19:20 (yishkab, zeraʿ̲)
+- **we-shakab + niṭmaʾah** (H7901 + H2930: lie down / be foul) — Num 5:13
+  - Lev 15:4 (yishkab, yiṭmaʾ); Lev 15:18 (yishkab, we-ṭamʾu); Lev 15:20 (tishkab, yiṭmaʾ); Lev 15:24 (shakob, we-ṭameʾ)
+- **we-shakab + nitpaśah** (H7901 + H8610: lie down / manipulate; seize; capture) — Num 5:13
+  - Gen 39:12 (shikba-h, wa-titpeśe-hu); Deut 22:28 (we-shakab, u-tepaśa-h)
+- **shikbat + niṭmaʾah** (H7902 + H2930: lying / be foul) — Num 5:13
+  - Lev 15:16 (shikbat, we-ṭameʾ); Lev 15:17 (shikbat, we-ṭameʾ); Lev 15:18 (shikbat, we-ṭamʾu); Lev 15:32 (shikbat, le-ṭamʾah)
+- **zeraʿ̲ + we-neʿ̲lam** (H2233 + H5956: seed; fruit; plant / veil; conceal) — Num 5:13
+  - Lev 20:4 (mi-zzarʿ̲-wo, haʿ̲lem)
+- **zeraʿ̲ + niṭmaʾah** (H2233 + H2930: seed; fruit; plant / be foul) — Num 5:13
+  - Lev 15:16 (zaraʿ̲, we-ṭameʾ); Lev 15:17 (zaraʿ̲, we-ṭameʾ); Lev 15:18 (zaraʿ̲, we-ṭamʾu); Lev 15:32 (zeraʿ̲, le-ṭamʾah); Lev 18:20 (le-zaraʿ̲, le-ṭamʾah); Lev 20:3 (mi-zzarʿ̲-wo, ṭammeʾ)
+- **zeraʿ̲ + we-ʿ̲ed** (H2233 + H5707: seed; fruit; plant / witness; testimony; recorder) — Num 5:13
+  - Deut 31:21 (zarʿ̲-wo, le-ʿ̲ed)
+- **we-neʿ̲lam + niṭmaʾah** (H5956 + H2930: veil; conceal / be foul) — Num 5:13
+  - Lev 5:3 (we-neʿ̲lam, yiṭmaʾ)
+- **qarbana-h + ʿ̲aśirit** (H7133 + H6224: brought near; present / tenth; tenth month; part) — Num 5:15
+  - Lev 5:11 (qarban-wo, ʿ̲aśirit); Lev 6:20 (qarban, ʿ̲aśirit)
+- **qarbana-h + ha-ʾepah** (H7133 + H374: brought near; present / ephah; measure) — Num 5:15
+  - Lev 5:11 (qarban-wo, ha-ʾepah); Lev 6:20 (qarban, ha-ʾepah)
+- **qarbana-h + yitsoq** (H7133 + H3332: brought near; present / pour out; melt; cast as metal) — Num 5:15
+  - Lev 2:1 (qarban, we-yatsaq)
+- **qarbana-h + shemen** (H7133 + H8081: brought near; present / grease; richness) — Num 5:15
+  - Lev 2:1 (qarban, shemen); Lev 2:4 (qarban, ba-shshemen); Lev 2:5 (qarbane-ka, ba-shshemen); Lev 2:7 (qarbane-ka, ba-shshemen); Lev 5:11 (qarban-wo, shemen)
+- **qarbana-h + lebonah** (H7133 + H3828: brought near; present / frankincense; whiteness) — Num 5:15
+  - Lev 2:1 (qarban, lebonah); Lev 5:11 (qarban-wo, lebonah)
+- **qarbana-h + minḥat** (H7133 + H4503: brought near; present / donation; tribute; sacrificial offering) — Num 5:15
+  - Lev 2:1 (qarban, minḥah); Lev 2:4 (qarban, minḥah); Lev 2:5 (qarbane-ka, minḥah); Lev 2:7 (qarbane-ka, minḥat); Lev 2:13 (qarban, minḥat-ka); Lev 6:20 (qarban, minḥah)
+- **ʿ̲aśirit + shemen** (H6224 + H8081: tenth; tenth month; part / grease; richness) — Num 5:15
+  - Lev 5:11 (ʿ̲aśirit, shemen)
+- **ʿ̲aśirit + lebonah** (H6224 + H3828: tenth; tenth month; part / frankincense; whiteness) — Num 5:15
+  - Lev 5:11 (ʿ̲aśirit, lebonah)
+- **ʿ̲aśirit + minḥat** (H6224 + H4503: tenth; tenth month; part / donation; tribute; sacrificial offering) — Num 5:15
+  - Lev 6:20 (ʿ̲aśirit, minḥah)
+- **ha-ʾepah + shemen** (H374 + H8081: ephah; measure / grease; richness) — Num 5:15
+  - Lev 5:11 (ha-ʾepah, shemen)
+- **ha-ʾepah + lebonah** (H374 + H3828: ephah; measure / frankincense; whiteness) — Num 5:15
+  - Lev 5:11 (ha-ʾepah, lebonah)
+- **ha-ʾepah + minḥat** (H374 + H4503: ephah; measure / donation; tribute; sacrificial offering) — Num 5:15
+  - Lev 6:20 (ha-ʾepah, minḥah)
+- **śeʿ̲orim + shemen** (H8184 + H8081: barley / grease; richness) — Num 5:15
+  - Deut 8:8 (u-śeʿ̲orah, shemen)
+- **yitsoq + shemen** (H3332 + H8081: pour out; melt; cast as metal / grease; richness) — Num 5:15
+  - Gen 28:18 (wa-yyitsoq, shemen); Gen 35:14 (wa-yyitsoq, shamen); Exod 29:7 (we-yatsaqta, shemen); Lev 2:1 (we-yatsaq, shemen); Lev 2:6 (we-yatsaqta, shamen); Lev 8:12 (wa-yyitsoq, mi-shshemen); Lev 14:15 (we-yatsaq, ha-shshamen); Lev 14:26 (yitsoq, ha-shshemen); Lev 21:10 (yutsaq, shemen)
+- **yitsoq + lebonah** (H3332 + H3828: pour out; melt; cast as metal / frankincense; whiteness) — Num 5:15
+  - Lev 2:1 (we-yatsaq, lebonah)
+- **yitsoq + minḥat** (H3332 + H4503: pour out; melt; cast as metal / donation; tribute; sacrificial offering) — Num 5:15
+  - Lev 2:1 (we-yatsaq, minḥah); Lev 2:6 (we-yatsaqta, minḥah)
+- **shemen + lebonah** (H8081 + H3828: grease; richness / frankincense; whiteness) — Num 5:15
+  - Lev 2:1 (shemen, lebonah); Lev 2:2 (u-mi-shshamna-h, lebonata-h); Lev 2:15 (shemen, lebonah); Lev 2:16 (u-mi-shshamna-h, lebonata-h); Lev 5:11 (shemen, lebonah); Lev 6:15 (u-mi-shshamna-h, ha-llebonah)
+- **shemen + minḥat** (H8081 + H4503: grease; richness / donation; tribute; sacrificial offering) — Num 5:15
+  - Lev 2:1 (shemen, minḥah); Lev 2:4 (ba-shshemen, minḥah); Lev 2:5 (ba-shshemen, minḥah); Lev 2:6 (shamen, minḥah); Lev 2:7 (ba-shshemen, minḥat); Lev 2:15 (shemen, minḥah); Lev 6:15 (u-mi-shshamna-h, ha-mminḥah); Lev 6:21 (ba-shshemen, minḥat); Lev 7:10 (ba-shshemen, minḥah); Lev 9:4 (ba-shshamen, u-minḥah); Lev 14:10 (ba-shshemen, minḥah); Lev 14:21 (ba-shshemen, le-minḥah); Lev 23:13 (ba-shshemen, u-minḥat-wo)
+- **lebonah + minḥat** (H3828 + H4503: frankincense; whiteness / donation; tribute; sacrificial offering) — Num 5:15
+  - Lev 2:1 (lebonah, minḥah); Lev 2:15 (lebonah, minḥah); Lev 6:15 (ha-llebonah, ha-mminḥah)
+- **bi-keli + ha-mmishkan** (H3627 + H4908: prepared; apparatus / residence; hut; lair) — Num 5:17
+  - Exod 25:9 (kelay-w, ha-mmishkan); Exod 27:19 (kele, ha-mmishkan); Exod 39:33 (kelay-w, ha-mmishkan); Exod 39:40 (kele, ha-mmishkan); Exod 40:9 (kelay-w, ha-mmishkan)
+- **kappey-ha + minḥat** (H3709 + H4503: hollow hand; palm; power / donation; tribute; sacrificial offering) — Num 5:18
+  - Lev 9:17 (kapp-wo, ha-mminḥah)
+- **shakab + ṭumʾah** (H7901 + H2932: lie down / impurity) — Num 5:19
+  - Lev 15:26 (tishkab, ke-ṭumʾat)
+- **shakab + ha-meʾararim** (H7901 + H779: lie down / execrate) — Num 5:19
+  - Deut 27:20 (shokeb, ʾarur); Deut 27:21 (shokeb, ʾarur); Deut 27:22 (shokeb, ʾarur); Deut 27:23 (shokeb, ʾarur)
+- **niṭmeʾt + shekabt-wo** (H2930 + H7903: be foul / lying) — Num 5:20
+  - Lev 18:20 (le-ṭamʾah, shekabt-ka); Lev 18:23 (le-ṭamʾah, shekabt-ka)
+- **we-hishbiaʿ̲ + bi-shebuʿ̲at** (H7650 + H7621: be complete; seven; swear / sworn; oath) — Num 5:21
+  - Gen 26:3 (nishbaʿ̲ti, ha-shshebuʿ̲ah); Lev 5:4 (tishshabaʿ̲, bi-shebuʿ̲ah); Deut 7:8 (nishbaʿ̲, ha-shshebuʿ̲ah)
+- **we-hishbiaʿ̲ + yereke-ke** (H7650 + H3409: be complete; seven; swear / thigh; generative parts; shank) — Num 5:21
+  - Gen 24:9 (wa-yyishshabaʿ̲, yerek)
+- **we-hishbiaʿ̲ + biṭne-ke** (H7650 + H990: be complete; seven; swear / belly; womb; bosom) — Num 5:21
+  - Deut 7:13 (nishbaʿ̲, biṭn-ka); Deut 28:11 (nishbaʿ̲, biṭn-ka)
+- **ha-meʾarrim + beṭen** (H779 + H990: execrate / belly; womb; bosom) — Num 5:22, 5:27
+  - Deut 28:18 (ʾarur, biṭn-ka)
+- **ha-meʾarrim + ʾamen** (H779 + H543: execrate / sure; faithfulness; truly) — Num 5:22
+  - Deut 27:15 (ʾarur, ʾamen); Deut 27:16 (ʾarur, ʾamen); Deut 27:17 (ʾarur, ʾamen); Deut 27:18 (ʾarur, ʾamen); Deut 27:19 (ʾarur, ʾamen); Deut 27:20 (ʾarur, ʾamen); Deut 27:21 (ʾarur, ʾamen); Deut 27:22 (ʾarur, ʾamen); Deut 27:23 (ʾarur, ʾamen); Deut 27:24 (ʾarur, ʾamen); Deut 27:25 (ʾarur, ʾamen); Deut 27:26 (ʾarur, ʾamen)
+- **be-meʿ̲ayi-ke + beṭen** (H4578 + H990: intestines; abdomen; sympathy / belly; womb; bosom) — Num 5:22
+  - Gen 25:23 (mi-mmeʿ̲ayi-ke, be-biṭne-ke)
+- **we-katab + ha-ʾalot** (H3789 + H423: grave; write / imprecation) — Num 5:23
+  - Deut 29:20 (ha-ketubah, ha-ʾalah); Deut 29:21 (ha-ketubah, ʾalot)
+- **we-katab + ba-sseper** (H3789 + H5612: grave; write / writing; book) — Num 5:23
+  - Exod 17:14 (ketob, ba-sseper); Exod 32:32 (katabta, mi-ssipr-ka); Deut 17:18 (we-katab, seper); Deut 24:1 (we-katab, seper); Deut 24:3 (we-katab, seper); Deut 28:58 (ha-ketubim, ba-sseper); Deut 28:61 (katub, be-seper); Deut 29:20 (ha-ketubah, ba-sseper); Deut 29:21 (ha-ketubah, be-seper); Deut 29:27 (ha-ketubah, ba-sseper); Deut 30:10 (ha-ketubah, be-seper); Deut 31:24 (li-kettob, seper)
+- **we-katab + u-maḥah** (H3789 + H4229: grave; write / stroke; rub; erase) — Num 5:23
+  - Exod 17:14 (ketob, maḥoh); Exod 32:32 (katabta, meḥe-ni); Deut 29:20 (ha-ketubah, u-maḥah)
+- **ha-ʾalot + ba-sseper** (H423 + H5612: imprecation / writing; book) — Num 5:23
+  - Deut 29:20 (ha-ʾalah, ba-sseper); Deut 29:21 (ʾalot, be-seper)
+- **ha-ʾalot + u-maḥah** (H423 + H4229: imprecation / stroke; rub; erase) — Num 5:23
+  - Deut 29:20 (ha-ʾalah, u-maḥah)
+- **ba-sseper + u-maḥah** (H5612 + H4229: writing; book / stroke; rub; erase) — Num 5:23
+  - Exod 17:14 (ba-sseper, maḥoh); Exod 32:32 (mi-ssipr-ka, meḥe-ni); Exod 32:33 (mi-ssipri-y, ʾemḥe-nnu); Deut 29:20 (ba-sseper, u-maḥah)
+- **minḥat + we-hiqrib** (H4503 + H7126: donation; tribute; sacrificial offering / approach; bring near) — Num 5:25
+  - Lev 2:1 (minḥah, taqrib); Lev 2:4 (minḥah, taqrib); Lev 2:8 (ha-mminḥah, we-hiqriba-h); Lev 2:11 (ha-mminḥah, taqribu); Lev 2:13 (minḥat-ka, taqrib); Lev 2:14 (minḥat, taqrib); Lev 6:14 (ha-mminḥah, haqreb); Lev 6:20 (minḥah, yaqribu); Lev 6:21 (minḥat, taqrib); Lev 7:9 (minḥah, ha-mmaqrib); Lev 9:17 (ha-mminḥah, wa-yyaqreb); Lev 23:16 (minḥah, we-hiqrabtem); Lev 23:18 (u-minḥata-m, we-hiqrabtem); Lev 23:37 (u-minḥah, le-haqrib)
+- **we-henip + we-hiqrib** (H5130 + H7126: quiver; vibrate; rock / approach; bring near) — Num 5:25
+  - Lev 14:12 (we-henip, we-hiqrib)
+- **we-qamats + ʾazkarata-h** (H7061 + H234: grasp / reminder; remembrance-offering) — Num 5:26
+  - Lev 2:2 (we-qamats, ʾazkarata-h); Lev 5:12 (we-qamats, ʾazkarata-h)
+- **we-qamats + we-hiqṭir** (H7061 + H6999: grasp / smoke; turn into fragrance by fire) — Num 5:26
+  - Lev 2:2 (we-qamats, we-hiqṭir); Lev 5:12 (we-qamats, we-hiqṭir)
+- **ha-mminḥah + ʾazkarata-h** (H4503 + H234: donation; tribute; sacrificial offering / reminder; remembrance-offering) — Num 5:26
+  - Lev 2:9 (ha-mminḥah, ʾazkarata-h); Lev 6:15 (ha-mminḥah, ʾazkarata-h)
+- **ha-mminḥah + we-hiqṭir** (H4503 + H6999: donation; tribute; sacrificial offering / smoke; turn into fragrance by fire) — Num 5:26
+  - Lev 2:9 (ha-mminḥah, we-hiqṭir); Lev 2:11 (ha-mminḥah, taqṭiru); Lev 6:15 (ha-mminḥah, we-hiqṭir); Lev 9:17 (ha-mminḥah, wa-yyaqṭer)
+- **niṭmeʾah + be-qereb** (H2930 + H7130: be foul / nearest; center) — Num 5:27
+  - Lev 20:3 (ṭammeʾ, mi-qqereb)
+- **niṭmeʾah + u-ṭehorah** (H2930 + H2889: be foul / pure) — Num 5:28
+  - Lev 11:36 (yiṭmaʾ, ṭahor); Lev 15:8 (we-ṭameʾ, ba-ṭṭahor); Lev 20:25 (le-ṭammeʾ, ha-ṭṭehorah)
+- **niṭmeʾah + we-nizreʿ̲ah** (H2930 + H2232: be foul / sow; disseminate; plant) — Num 5:28
+  - Lev 12:2 (we-ṭamʾah, tazriaʿ̲)
+- **niṭmeʾah + zaraʿ̲** (H2930 + H2233: be foul / seed; fruit; plant) — Num 5:28
+  - Lev 15:16 (we-ṭameʾ, zaraʿ̲); Lev 15:17 (we-ṭameʾ, zaraʿ̲); Lev 15:18 (we-ṭamʾu, zaraʿ̲); Lev 15:32 (le-ṭamʾah, zeraʿ̲); Lev 18:20 (le-ṭamʾah, le-zaraʿ̲); Lev 20:3 (ṭammeʾ, mi-zzarʿ̲-wo)
+- **u-ṭehorah + we-nizreʿ̲ah** (H2889 + H2232: pure / sow; disseminate; plant) — Num 5:28
+  - Lev 11:37 (ṭahor, yizzareaʿ̲)
+- **u-ṭehorah + zaraʿ̲** (H2889 + H2233: pure / seed; fruit; plant) — Num 5:28
+  - Lev 11:37 (ṭahor, zeraʿ̲)
+- **torat + we-niṭmaʾah** (H8451 + H2930: precept; statute; Decalogue / be foul) — Num 5:29
+  - Lev 13:59 (torat, le-ṭammeʾ-wo); Lev 15:32 (torat, le-ṭamʾah)
+- **ʾo + ha-torah** (H176 + H8451: desire; or; if / precept; statute; Decalogue) — Num 5:30
+  - Lev 12:7 (ʾo, torat); Lev 13:59 (ʾo, torat)
+- **we-niqqah + me-ʿ̲awon** (H5352 + H5771: be; make; clean / perversity; evil) — Num 5:31
+  - Exod 34:7 (we-naqqeh, ʿ̲awon)
+
 ## Rare words (12)
 
 - **we-qamats** (H7061, grasp) — Num 5:26; 3 verses in the Hebrew Bible
