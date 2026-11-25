@@ -11,7 +11,7 @@
 
 ## Strong suggestions
 
-- English verse numbers differ from Hebrew in five chapters (`numbers-versification-map.md`): Eng 16:36-50 = Heb 17:1-15; Eng 17:1-13 = Heb 17:16-28; Eng 25 has 18 verses and Heb 25:19 folds into Eng 26:1; Eng 29:40 = Heb 30:1, Eng 30:1-16 = Heb 30:2-17. Everything else aligns. Sources and LXX use Hebrew numbers unless noted.
+- English verse numbers differ from Hebrew in five chapters (`numbers-versification-map.md`): Eng 16:36-50 = Heb 17:1-15; Eng 17:1-13 = Heb 17:16-28; Eng 25 has 18 verses and Heb 25:19 folds into Eng 26:1; Eng 29:40 = Heb 30:1, Eng 30:1-16 = Heb 30:2-17. Everything else aligns. Levine, Sefaria voices, Rashi, JPS and LXX use Hebrew numbers; Doty, Constable, Tyndale, K&D family use English; Whitt has chapters only.
 - Decided terms (`translation-choices.md`) in prose too.
 - Promotions: book-wide bias, close call → Lane; `colour`; every occurrence needs `data-w`.
 - After `port --dry`: check `opens` shape and `data-w` on split spans.

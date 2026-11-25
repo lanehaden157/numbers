@@ -35,6 +35,8 @@
     }
   ],
   "studio": {
+    "whole": ["levine", "whitt", "doty"],
+    "voices": ["constable", "morales-exodus", "rashi", "ramban", "ibn-ezra", "sforno", "rashbam", "or-hachaim", "rabbeinu-bahya"],
     "lxx_numbering": "hebrew"
   }
 }
